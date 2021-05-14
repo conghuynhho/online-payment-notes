@@ -22,7 +22,8 @@ Sử dụng máy học để phân loại các cá nhân thành một trong bố
   |ID|ID|<String>|
   |Q1|Tuổi|<Number>
   |Q2|Giới tính| 1 Nam <br/> 2 Nữ|
-  |Q3|Hôn nhân | 1 Married <br/> 2 Divorced <br/> 3 Goá phụ <br/> Độc thân|
+  |Q3|Hôn nhân | 1 Married <br/> 2 Divorced <br/> 3 Goá phụ <br/> 4 Độc thân|
+  |Q4|Giáo dục|1 Không có giáo dục <br/> 2 Vài lớp cấp 1 <br/> 3 Hoàn thành cấp 1 <br/> 4 Đào tạo kĩ thuật sơ cấp <br/> 5 Vài lớp cấp 2 <br/> 6 Đại học hoặc cao hơn <br/> 7 Không biết|
 
 
 
