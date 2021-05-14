@@ -15,8 +15,14 @@ Sử dụng máy học để phân loại các cá nhân thành một trong bố
   - **2. Mm_only:** Những cá nhân chỉ sử dụng tiền di động
   - **3. Mm_plus:** Cá nhân sử dụng tiền di động và cũng sử dụng ít nhất một trong các dịch vụ tài chính khác (tiết kiệm, tín dụng, bảo hiểm)
 
-  ## Phân tích khám phá dữ liệu
-  
+  #### Phân tích khám phá dữ liệu
+  #### Mô tả bộ dữ liệu:
+  Tên biến| Ý nghĩa | Giá trị
+  ID|ID|<String>
+  Q1|Tuổi|<Number>
+  Q2|Giới tính| 1 Nam <br/> 2 Nữ
+  Q3|Hôn nhân | 1 Married <br/> 2 Divorced <br/> 3 Goá phụ <br/> Độc thân
+
 
 
 [datasetLink]: https://zindi.africa/competitions/mobile-money-and-financial-inclusion-in-tanzania-challenge
