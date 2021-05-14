@@ -1,0 +1,617 @@
+region,district,ward,latitude,longitude,bank_type,bank_name,weekend_trading,yr_started,yr_started_reformatted
+Dar es Salaam,Temeke,Mbagala,-6.92247,39.27113,Commercial Bank,Accessbank (Tanzania) Limited,Yes,16/05/11,2011-5-01
+Shinyanga,Kahama,Kahama Mjini,-3.82858,32.60006,Commercial Bank,Accessbank (Tanzania) Limited,No,12/07/13,2013-7-01
+Dar es Salaam,Temeke,Miburani,-6.86209,39.26233,Commercial Bank,Accessbank (Tanzania) Limited,Yes,05/03/98,1998-3-01
+Dar es Salaam,Ilala,Kariakoo,-6.82157,39.28025,Commercial Bank,Accessbank (Tanzania) Limited,Yes,10/06/09,2009-6-01
+Dar es Salaam,Ilala,Kariakoo,-6.81944,39.27418,Commercial Bank,Accessbank (Tanzania) Limited,Yes,18/12/13,2013-12-01
+Dar es Salaam,Kinondoni,Manzese,-6.79895,39.23328,Commercial Bank,Accessbank (Tanzania) Limited,Yes,12/05/03,2003-5-01
+Dar es Salaam,Kinondoni,Makumbusho,-6.77671,39.24596,Commercial Bank,Accessbank (Tanzania) Limited,No,18/11/10,2010-11-01
+Tabora,Tabora Urban,Kanyenye,-5.02295,32.80934,Commercial Bank,Accessbank (Tanzania) Limited,Yes,18/11/11,2011-11-01
+Mwanza,Nyamagana,Nyamagana,-2.51989,32.90331,Commercial Bank,Accessbank (Tanzania) Limited,Yes,04/01/12,2012-1-01
+Dar es Salaam,Temeke,Miburani,-6.85601,39.26374,Commercial Bank,Advans Bank (Tanzania) Limited,Yes,16/02/12,2012-2-01
+Dar es Salaam,Ilala,Kariakoo,-6.81655,39.27719,Commercial Bank,Advans Bank (Tanzania) Limited,Yes,18/12/13,2013-12-01
+Dar es Salaam,Kinondoni,Manzese,-6.79884,39.23206,Commercial Bank,Advans Bank (Tanzania) Limited,No,27/04/12,2012-4-01
+Dar es Salaam,Ilala,Kariakoo,-6.81728,39.27391,Commercial Bank,African Banking Corporation (Tanzania) Limited,Yes,19/12/13,2013-12-01
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77669,39.23261,Commercial Bank,African Banking Corporation (Tanzania) Limited,Yes,09/02/11,2011-2-01
+Arusha,Arusha,Kati,-3.37301,36.68882,Commercial Bank,African Banking Corporation (Tanzania) Limited,Yes,13/10/06,2006-10-01
+Dar es Salaam,Temeke,Mbagala,-6.91727,39.27075,Commercial Bank,Akiba Commercial Bank Limited,Yes,06/07/11,2011-7-01
+Dar es Salaam,Ilala,Ukonga,-6.87067,39.19021,Commercial Bank,Akiba Commercial Bank Limited,Yes,28/08/97,1997-8-01
+Dar es Salaam,Temeke,Tandika,-6.86729,39.26142,Commercial Bank,Akiba Commercial Bank Limited,Yes,26/03/09,2009-3-01
+Dar es Salaam,Ilala,Kariakoo,-6.82778,39.26799,Commercial Bank,Akiba Commercial Bank Limited,Yes,20/09/09,2009-9-01
+Dar es Salaam,Ilala,Kariakoo,-6.8257,39.26669,Commercial Bank,Akiba Commercial Bank Limited,Yes,17/12/13,2013-12-01
+Dar es Salaam,Ilala,Kariakoo,-6.82399,39.27254,Commercial Bank,Akiba Commercial Bank Limited,Yes,11/06/06,2006-6-01
+Dodoma,Dodoma Urban,Madukani,-6.17918,35.74304,Commercial Bank,Akiba Commercial Bank Limited,Yes,07/04/13,2013-4-01
+Dar es Salaam,Ilala,Upanga East,-6.81226,39.28857,Commercial Bank,Akiba Commercial Bank Limited,No,10/08/11,2011-8-01
+Pwani,Bagamoyo,Dunda,-6.44428,38.90785,Commercial Bank,Akiba Commercial Bank Limited,Yes,14/11/11,2011-11-01
+Dar es Salaam,Kinondoni,Tandale,-6.79638,39.23719,Commercial Bank,Akiba Commercial Bank Limited,Yes,07/10/10,2010-10-01
+Dar es Salaam,Kinondoni,Ubungo,-6.79505,39.21708,Commercial Bank,Akiba Commercial Bank Limited,Yes,12/07/96,1996-7-01
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77512,39.24252,Commercial Bank,Akiba Commercial Bank Limited,No,21/02/10,2010-2-01
+Kilimanjaro,Moshi Urban,Mawenzi,-3.3562,37.33849,Commercial Bank,Akiba Commercial Bank Limited,Yes,08/09/04,2004-9-01
+Dar es Salaam,Kinondoni,Bunju,-6.65913,39.18149,Commercial Bank,Akiba Commercial Bank Limited,No,14/06/93,1993-6-01
+Arusha,Arusha,Kati,-3.3755,36.68083,Commercial Bank,Akiba Commercial Bank Limited,Yes,17/08/02,2002-8-01
+Dar es Salaam,Ilala,Segerea,-6.84677,39.18732,Commercial Bank,Amana Bank Limited,Yes,30/11/12,2012-11-01
+Dar es Salaam,Ilala,Buguruni,-6.83825,39.24356,Commercial Bank,Amana Bank Limited,Yes,20/01/14,2014-1-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83772,39.25915,Commercial Bank,Amana Bank Limited,No,19/04/12,2012-4-01
+Dar es Salaam,Ilala,Kariakoo,-6.82861,39.23148,Commercial Bank,Amana Bank Limited,Yes,19/12/13,2013-12-01
+Dar es Salaam,Ilala,Kariakoo,-6.81775,39.27866,Commercial Bank,Amana Bank Limited,Yes,18/12/13,2013-12-01
+Dar es Salaam,Ilala,Kivukoni,-6.81435,39.28875,Commercial Bank,Amana Bank Limited,Yes,14/10/12,2012-10-01
+Arusha,Arusha,Kati,-3.37224,36.68458,Commercial Bank,Amana Bank Limited,Yes,10/05/13,2013-5-01
+Mwanza,Nyamagana,Nyamagana,-2.52054,32.8995,Commercial Bank,Amana Bank Limited,No,12/11/13,2013-11-01
+Arusha,Arusha,Levolosi,-3.372,36.68468,Commercial Bank,Amana Bank Limited,Yes,25/07/13,2013-7-01
+Shinyanga,Kahama,Kahama Mjini,-3.83015,32.60485,Commercial Bank,Azania Bank Limited,Yes,14/12/13,2013-12-01
+Dar es Salaam,Ilala,Kariakoo,-6.82195,39.27321,Commercial Bank,Azania Bank Limited,Yes,05/02/09,2009-2-01
+Dar es Salaam,Ilala,Kivukoni,-6.81602,39.29003,Commercial Bank,Azania Bank Limited,Yes,13/06/08,2008-6-01
+Dar es Salaam,Kinondoni,Sinza,-6.78415,39.21382,Commercial Bank,Azania Bank Limited,Yes,08/02/11,2011-2-01
+Dar es Salaam,Kinondoni,Kijitonyama,-6.76692,39.22826,Commercial Bank,Azania Bank Limited,Yes,11/12/11,2011-12-01
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35454,37.33965,Commercial Bank,Azania Bank Limited,Yes,06/11/11,2011-11-01
+Dar es Salaam,Kinondoni,Mbezi,-6.66333,39.18523,Commercial Bank,Azania Bank Limited,No,16/04/13,2013-4-01
+Mwanza,Geita,Kalangala,-2.87043,32.23758,Commercial Bank,Azania Bank Limited,Yes,15/01/08,2008-1-01
+Arusha,Arusha,Sombetini,-3.37734,36.66253,Commercial Bank,Azania Bank Limited,Yes,25/01/11,2011-1-01
+Mwanza,Nyamagana,Nyamagana,-2.51611,32.90146,Commercial Bank,Azania Bank Limited,Yes,06/01/10,2010-1-01
+Mwanza,Magu,Mkula,-2.24681,33.84891,Commercial Bank,Azania Bank Limited,Yes,24/01/10,2010-1-01
+Arusha,Arusha,Levolosi,-3.37179,36.68471,Commercial Bank,Azania Bank Limited,Yes,13/12/06,2006-12-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83954,39.25574,Commercial Bank,BancABC,No,16/04/12,2012-4-01
+Dar es Salaam,Ilala,Kisutu,-6.81163,39.28706,Commercial Bank,BancABC,Yes,03/08/12,2012-8-01
+Dar es Salaam,Ilala,Kisutu,-6.81095,39.28601,Commercial Bank,BancABC,Yes,05/02/13,2013-2-01
+Dar es Salaam,Temeke,Chang'ombe,-6.8407,39.25582,Commercial Bank,BancABC,No,27/06/12,2012-6-01
+Dar es Salaam,Ilala,Kivukoni,-6.81064,39.28706,Commercial Bank,BancABC,Yes,10/12/13,2013-12-01
+Dar es Salaam,Temeke,Chang'ombe,-6.8372,39.25916,Commercial Bank,Bank M (Tanzania) Limited,No,02/06/12,2012-6-01
+Dar es Salaam,Ilala,Kisutu,-6.81446,39.28683,Commercial Bank,Bank M (Tanzania) Limited,Yes,01/01/12,2012-1-01
+Dar es Salaam,Ilala,Upanga West,-6.80193,39.28656,Commercial Bank,Bank M (Tanzania) Limited,Yes,02/01/10,2010-1-01
+Mwanza,Nyamagana,Nyamagana,-2.52201,32.89824,Commercial Bank,Bank M (Tanzania) Limited,No,18/02/12,2012-2-01
+Arusha,Arusha,Kati,-3.37177,36.69351,Commercial Bank,Bank M (Tanzania) Limited,Yes,18/11/10,2010-11-01
+Dar es Salaam,Ilala,Kariakoo,-6.82277,39.27629,Commercial Bank,Bank M (Tanzania) Limited,Yes,18/06/07,2007-6-01
+Dar es Salaam,Temeke,Mtoni,-6.87318,39.27225,Commercial Bank,Bank of Africa (Tanzania) Limited,No,14/06/08,2008-6-01
+Dar es Salaam,Temeke,Tandika,-6.8684,39.25997,Commercial Bank,Bank of Africa (Tanzania) Limited,No,31/07/09,2009-7-01
+Dar es Salaam,Ilala,Vingunguti,-6.84489,39.24286,Commercial Bank,Bank of Africa (Tanzania) Limited,No,15/09/09,2009-9-01
+Dar es Salaam,Ilala,Ilala,-6.82772,39.25929,Commercial Bank,Bank of Africa (Tanzania) Limited,No,25/08/07,2007-8-01
+Dar es Salaam,Ilala,Kariakoo,-6.82172,39.27698,Commercial Bank,Bank of Africa (Tanzania) Limited,Yes,15/10/08,2008-10-01
+Dar es Salaam,Ilala,Kariakoo,-6.81931,39.27348,Commercial Bank,Bank of Africa (Tanzania) Limited,Yes,19/12/13,2013-12-01
+Morogoro,Morogoro Urban,Boma,-6.82743,37.66357,Commercial Bank,Bank of Africa (Tanzania) Limited,No,01/11/12,2012-11-01
+Shinyanga,Kahama,Kahama Mjini,-3.82737,32.5965,Commercial Bank,Bank of Africa (Tanzania) Limited,No,08/02/13,2013-2-01
+Dar es Salaam,Ilala,Kivukoni,-6.81763,39.29241,Commercial Bank,Bank of Africa (Tanzania) Limited,No,12/11/03,2003-11-01
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77434,39.24053,Commercial Bank,Bank of Africa (Tanzania) Limited,No,11/04/11,2011-4-01
+Dar es Salaam,Kinondoni,Mbezi,-6.70128,39.20687,Commercial Bank,Bank of Africa (Tanzania) Limited,Yes,28/06/07,2007-6-01
+Kilimanjaro,Moshi Urban,Kiusa,-3.35193,37.34236,Commercial Bank,Bank of Africa (Tanzania) Limited,No,11/08/02,2002-8-01
+Mtwara,Mtwara Urban,Railway,-10.27137,40.18777,Commercial Bank,Bank of Africa (Tanzania) Limited,Yes,20/10/13,2013-10-01
+Mbeya,Mbozi,Tunduma,-9.30604,32.76389,Commercial Bank,Bank of Africa (Tanzania) Limited,Yes,20/03/11,2011-3-01
+Mbeya,Mbeya Urban,Ruanda,-8.91059,33.4554,Commercial Bank,Bank of Africa (Tanzania) Limited,Yes,15/07/10,2010-7-01
+Mwanza,Nyamagana,Nyamagana,-2.52213,32.90152,Commercial Bank,Bank of Africa (Tanzania) Limited,No,07/02/01,2001-2-01
+Arusha,Arusha,Kati,-3.37355,36.69052,Commercial Bank,Bank of Africa (Tanzania) Limited,Yes,06/05/05,2005-5-01
+Dar es Salaam,Kinondoni,Sinza,-6.78671,39.22288,Commercial Bank,Bank of Africa (Tanzania) Limited,Yes,15/11/08,2008-11-01
+Dar es Salaam,Ilala,Kariakoo,-6.81868,39.27378,Commercial Bank,Bank of Baroda (Tanzania) Limited,Yes,10/01/08,2008-1-01
+Dar es Salaam,Ilala,Kivukoni,-6.81653,39.29093,Commercial Bank,Bank of Baroda (Tanzania) Limited,Yes,24/05/08,2008-5-01
+Dar es Salaam,Ilala,Kivukoni,-6.81642,39.29164,Commercial Bank,Bank of Baroda (Tanzania) Limited,Yes,06/01/12,2012-1-01
+Mwanza,Nyamagana,Nyamagana,-2.52398,32.90038,Commercial Bank,Bank of Baroda (Tanzania) Limited,No,07/01/14,2014-1-01
+Arusha,Arusha,Kati,-3.37215,36.69314,Commercial Bank,Bank of Baroda (Tanzania) Limited,Yes,17/11/05,2005-11-01
+Dar es Salaam,Ilala,Kisutu,-6.85434,39.3228,Commercial Bank,Bank of India (Tanzania) Limited,Yes,20/07/12,2012-7-01
+Dar es Salaam,Ilala,Kisutu,-6.81771,39.28528,Commercial Bank,Bank of India (Tanzania) Limited,Yes,13/09/12,2012-9-01
+Dar es Salaam,Ilala,Kivukoni,-6.81205,39.28556,Commercial Bank,Bank of India (Tanzania) Limited,Yes,23/04/11,2011-4-01
+Iringa,Iringa Urban,Gangilonga,-7.77669,35.69893,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,01/12/08,2008-12-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83695,39.25885,Commercial Bank,Barclays Bank (Tanzania) Limited,No,20/07/11,2011-7-01
+Dar es Salaam,Ilala,Kariakoo,-6.82158,39.27877,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,13/03/12,2012-3-01
+Dar es Salaam,Ilala,Kariakoo,-6.81808,39.27702,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,15/10/12,2012-10-01
+Morogoro,Morogoro Urban,Kingo,-6.82603,37.66424,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,15/03/10,2010-3-01
+Dodoma,Dodoma Urban,Madukani,-6.1811,35.74454,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,05/09/08,2008-9-01
+Dar es Salaam,Ilala,Kisutu,-6.81701,39.28219,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,01/07/07,2007-7-01
+Dar es Salaam,Ilala,Kivukoni,-6.81118,39.28723,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,03/01/10,2010-1-01
+Dar es Salaam,Kinondoni,Magomeni,-6.80803,39.25912,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,19/03/10,2010-3-01
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35517,37.34041,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,03/05/05,2005-5-01
+Dar es Salaam,Kinondoni,Kinondoni,-6.79042,39.2701,Commercial Bank,Barclays Bank (Tanzania) Limited,No,09/12/12,2012-12-01
+Dar es Salaam,Kinondoni,Kijitonyama,-6.76759,39.2343,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,17/09/08,2008-9-01
+Mbeya,Mbeya Urban,Sisimba,-8.89378,33.44189,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,16/04/06,2006-4-01
+Mwanza,Nyamagana,Pamba,-2.52245,32.90403,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,15/01/10,2010-1-01
+Arusha,Arusha,Ngarenaro,-3.3758,36.67988,Commercial Bank,Barclays Bank (Tanzania) Limited,No,10/02/12,2012-2-01
+Arusha,Arusha,Themi,-3.37339,36.69256,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,20/11/07,2007-11-01
+Zanzibar,Zanzibar,Welezo,-6.16428,39.19382,Commercial Bank,Barclays Bank (Tanzania) Limited,No,01/05/07,2007-5-01
+Dar es Salaam,Ilala,Buguruni,-6.83314,39.24774,Commercial Bank,Barclays Bank (Tanzania) Limited,Yes,01/05/09,2009-5-01
+Dar es Salaam,Ilala,Kivukoni,-6.81444,39.29006,Commercial Bank,China Commercial Bank,Yes,18/02/14,2014-2-01
+Dar es Salaam,Ilala,Kisutu,-6.81135,39.28694,Commercial Bank,Citibank (Tanzania) Limited,Yes,01/12/00,2000-12-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83639,39.26198,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,No,24/03/09,2009-3-01
+Dar es Salaam,Ilala,Kisutu,-6.81972,39.28591,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,Yes,08/08/08,2008-8-01
+Dar es Salaam,Kinondoni,Makumbusho,-6.77343,39.24238,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,No,12/08/07,2007-8-01
+Kilimanjaro,Moshi Urban,Mawenzi,-3.34927,37.34272,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,Yes,05/12/12,2012-12-01
+Mbeya,Mbozi,Tunduma,-9.31224,32.76452,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,Yes,20/05/12,2012-5-01
+Mbeya,Mbeya Urban,Maanga,-8.91241,33.46927,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,Yes,10/02/11,2011-2-01
+Mwanza,Nyamagana,Nyamagana,-2.5224,32.89995,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,No,11/01/09,2009-1-01
+Arusha,Arusha,Kati,-3.37312,36.69408,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,Yes,20/01/13,2013-1-01
+Mtwara,Mtwara Urban,Shangani,-10.27185,40.18608,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,Yes,12/02/10,2010-2-01
+Mtwara,Mtwara Urban,Shangani,-10.27015,40.1864,Commercial Bank,Commercial Bank of Africa (Tanzania) Limited,Yes,05/05/13,2013-5-01
+Dar es Salaam,Kinondoni,Kijitonyama,-6.7755,39.2439,Commercial Bank,Covenant Bank ,No,01/11/12,2012-11-01
+Ruvuma,Mbinga,Mbinga Urban,-10.948,34.99195,Commercial Bank,CRDB Bank Plc,Yes,05/10/07,2007-10-01
+Tabora,Urambo,Urambo,-5.07638,32.07101,Commercial Bank,CRDB Bank Plc,Yes,21/05/12,2012-5-01
+Iringa,Njombe,Njombe Mjini,-9.33958,34.77022,Commercial Bank,CRDB Bank Plc,Yes,09/06/10,2010-6-01
+Shinyanga,Kahama,Kahama Mjini,-3.82759,32.59607,Commercial Bank,CRDB Bank Plc,Yes,14/02/03,2003-2-01
+Dar es Salaam,Temeke,Toangoma,-6.95355,39.28358,Commercial Bank,CRDB Bank Plc,Yes,04/09/13,2013-9-01
+Singida,Manyoni,Manyoni,-5.74801,34.83928,Commercial Bank,CRDB Bank Plc,No,30/04/05,2005-4-01
+Dar es Salaam,Temeke,Mbagala,-6.9159,39.27024,Commercial Bank,CRDB Bank Plc,Yes,15/03/09,2009-3-01
+Dar es Salaam,Temeke,Chang'ombe,-6.85494,39.26982,Commercial Bank,CRDB Bank Plc,No,02/05/11,2011-5-01
+Iringa,Njombe,Makambako,-8.85659,34.82471,Commercial Bank,CRDB Bank Plc,Yes,17/09/10,2010-9-01
+Dar es Salaam,Ilala,Kinyerezi,-6.84344,39.17148,Commercial Bank,CRDB Bank Plc,Yes,15/12/12,2012-12-01
+Dar es Salaam,Temeke,Kigamboni,-6.84065,39.31922,Commercial Bank,CRDB Bank Plc,Yes,06/12/12,2012-12-01
+Kilimanjaro,Rombo,Olele,-3.34935,37.34385,Commercial Bank,CRDB Bank Plc,Yes,08/06/00,2000-6-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83955,39.25585,Commercial Bank,CRDB Bank Plc,No,24/02/11,2011-2-01
+Lindi,Nachingwea,Nambambo,-10.3605,38.76145,Commercial Bank,CRDB Bank Plc,Yes,08/10/13,2013-10-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83484,39.26484,Commercial Bank,CRDB Bank Plc,No,27/07/10,2010-7-01
+Dar es Salaam,Ilala,Kisutu,-6.82522,39.28362,Commercial Bank,CRDB Bank Plc,Yes,02/01/11,2011-1-01
+Dar es Salaam,Ilala,Tabata,-6.82373,39.23526,Commercial Bank,CRDB Bank Plc,Yes,20/01/16,2016-1-01
+Dar es Salaam,Ilala,Kariakoo,-6.82206,39.28022,Commercial Bank,CRDB Bank Plc,Yes,19/12/13,2013-12-01
+Tanga,Korogwe,Korogwe,-5.15813,38.44886,Commercial Bank,CRDB Bank Plc,Yes,14/03/08,2008-3-01
+Dar es Salaam,Ilala,Kariakoo,-6.8218,39.27818,Commercial Bank,CRDB Bank Plc,Yes,17/12/13,2013-12-01
+Morogoro,Kilombero,Ifakara,-8.09695,36.6809,Commercial Bank,CRDB Bank Plc,Yes,15/10/13,2013-10-01
+Dar es Salaam,Ilala,Kisutu,-6.8197,39.28001,Commercial Bank,CRDB Bank Plc,Yes,07/01/12,2012-1-01
+Dodoma,Mpwapwa,Mpwapwa Mjini,-6.34607,36.48602,Commercial Bank,CRDB Bank Plc,Yes,28/10/13,2013-10-01
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.22129,35.81065,Commercial Bank,CRDB Bank Plc,Yes,18/04/11,2011-4-01
+Singida,Singida Urban,Ipembe,-4.81785,34.75296,Commercial Bank,CRDB Bank Plc,Yes,11/10/06,2006-10-01
+Morogoro,Kilombero,Kidatu,-7.6627,36.98847,Commercial Bank,CRDB Bank Plc,No,01/07/10,2010-7-01
+Rukwa,Sumbawanga Urban,Katandala,-7.96714,31.61679,Commercial Bank,CRDB Bank Plc,Yes,10/05/96,1996-5-01
+Dar es Salaam,Ilala,Tabata,-6.81949,39.21941,Commercial Bank,CRDB Bank Plc,Yes,09/11/13,2013-11-01
+Rukwa,Mpanda,Kashaulili,-6.34465,31.06997,Commercial Bank,CRDB Bank Plc,Yes,17/08/11,2011-8-01
+Morogoro,Mvomero,Mzumbe,-6.92737,37.56952,Commercial Bank,CRDB Bank Plc,Yes,30/01/02,2002-1-01
+Morogoro,Morogoro Urban,Mbuyuni,-6.85183,37.65839,Commercial Bank,CRDB Bank Plc,Yes,29/09/08,2008-9-01
+Kigoma,Kasulu,Kasulu Mjini,-4.58171,30.10193,Commercial Bank,CRDB Bank Plc,Yes,13/03/12,2012-3-01
+Dar es Salaam,Ilala,Kariakoo,-6.81689,39.27833,Commercial Bank,CRDB Bank Plc,Yes,18/12/13,2013-12-01
+Singida,Iramba,Kiomboi,-4.28174,34.40757,Commercial Bank,CRDB Bank Plc,Yes,15/01/10,2010-1-01
+Morogoro,Morogoro Urban,Kingo,-6.82705,37.66778,Commercial Bank,CRDB Bank Plc,Yes,20/07/02,2002-7-01
+Dodoma,Dodoma Urban,Madukani,-6.18135,35.74552,Commercial Bank,CRDB Bank Plc,Yes,13/01/12,2012-1-01
+Kagera,Karagwe,Kayanga,-1.53655,31.15448,Commercial Bank,CRDB Bank Plc,No,19/02/05,2005-2-01
+Dodoma,Dodoma Urban,Viwandani,-6.17881,35.74684,Commercial Bank,CRDB Bank Plc,Yes,06/03/09,2009-3-01
+Morogoro,Morogoro Urban,Sabasaba,-6.82453,37.66295,Commercial Bank,CRDB Bank Plc,Yes,06/03/10,2010-3-01
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.66987,33.42394,Commercial Bank,CRDB Bank Plc,Yes,22/09/89,1989-9-01
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34798,37.34442,Commercial Bank,CRDB Bank Plc,Yes,02/10/12,2012-10-01
+Kilimanjaro,Moshi Rural,Mamba Kaskazini,-3.33434,37.14559,Commercial Bank,CRDB Bank Plc,No,14/02/04,2004-2-01
+Ruvuma,Songea Urban,Songea Mjini,-10.67843,35.65308,Commercial Bank,CRDB Bank Plc,Yes,25/07/97,1997-7-01
+Kilimanjaro,Moshi Urban,Longuo,-3.31938,37.3285,Commercial Bank,CRDB Bank Plc,Yes,20/03/09,2009-3-01
+Dar es Salaam,Ilala,Kivukoni,-6.81469,39.28753,Commercial Bank,CRDB Bank Plc,No,12/12/82,1982-12-01
+Dar es Salaam,Kinondoni,Makuburi,-6.81413,39.21308,Commercial Bank,CRDB Bank Plc,Yes,02/12/12,2012-12-01
+Mara,Musoma Urban,Mukendo,-1.49542,33.8079,Commercial Bank,CRDB Bank Plc,Yes,10/09/11,2011-9-01
+Mara,Tarime,Tarime,-1.34533,34.38326,Commercial Bank,CRDB Bank Plc,Yes,07/11/12,2012-11-01
+Mbeya,Kyela,Katumba Songwe,-9.58739,33.77723,Commercial Bank,CRDB Bank Plc,Yes,29/11/12,2012-11-01
+Dar es Salaam,Ilala,Kivukoni,-6.81404,39.28926,Commercial Bank,CRDB Bank Plc,Yes,05/12/05,2005-12-01
+Dar es Salaam,Ilala,Kivukoni,-6.8136,39.28949,Commercial Bank,CRDB Bank Plc,Yes,06/08/00,2000-8-01
+Dar es Salaam,Kinondoni,Magomeni,-6.80622,39.25669,Commercial Bank,CRDB Bank Plc,Yes,10/09/13,2013-9-01
+Dar es Salaam,Kinondoni,Makuburi,-6.80518,39.20773,Commercial Bank,CRDB Bank Plc,Yes,17/02/06,2006-2-01
+Dar es Salaam,Kinondoni,Makuburi,-6.79862,39.20623,Commercial Bank,CRDB Bank Plc,Yes,28/01/14,2014-1-01
+Dodoma,Kongwa,Kibaigwa,-6.08117,36.64954,Commercial Bank,CRDB Bank Plc,Yes,15/01/12,2012-1-01
+Dar es Salaam,Kinondoni,Ubungo,-6.79641,39.21923,Commercial Bank,CRDB Bank Plc,Yes,20/01/12,2012-1-01
+Dar es Salaam,Kinondoni,Mbezi,-6.78742,39.15703,Commercial Bank,CRDB Bank Plc,Yes,23/01/12,2012-1-01
+Dar es Salaam,Kinondoni,Mbezi,-6.78708,39.11255,Commercial Bank,CRDB Bank Plc,No,02/01/11,2011-1-01
+Dar es Salaam,Kinondoni,Ubungo,-6.7809,39.20132,Commercial Bank,CRDB Bank Plc,Yes,06/01/11,2011-1-01
+Dar es Salaam,Kinondoni,Sinza,-6.77338,39.21963,Commercial Bank,CRDB Bank Plc,Yes,16/11/06,2006-11-01
+Tabora,Tabora Urban,Gongoni,-5.01904,32.80957,Commercial Bank,CRDB Bank Plc,Yes,13/02/14,2014-2-01
+Morogoro,Morogoro Urban,Mazimbu,-6.79647,37.62738,Commercial Bank,CRDB Bank Plc,Yes,01/10/06,2006-10-01
+Mbeya,Mbozi,Tunduma,-9.3148,32.76369,Commercial Bank,CRDB Bank Plc,Yes,15/11/12,2012-11-01
+Dar es Salaam,Kinondoni,Mikocheni,-6.76503,39.23921,Commercial Bank,CRDB Bank Plc,Yes,06/07/09,2009-7-01
+Dar es Salaam,Kinondoni,Mbezi,-6.72193,39.21301,Commercial Bank,CRDB Bank Plc,Yes,30/06/07,2007-6-01
+Dar es Salaam,Kinondoni,Bunju,-6.65764,39.18037,Commercial Bank,CRDB Bank Plc,Yes,13/12/96,1996-12-01
+Kilimanjaro,Moshi Rural,Marangu Magharibi,-3.28452,37.52281,Commercial Bank,CRDB Bank Plc,No,15/05/10,2010-5-01
+Kilimanjaro,Rombo,Mahida Holili,-3.28357,37.4965,Commercial Bank,CRDB Bank Plc,Yes,10/02/86,1986-2-01
+Mwanza,Geita,Kalangala,-2.87527,32.22529,Commercial Bank,CRDB Bank Plc,Yes,01/01/09,2009-1-01
+Iringa,Mufindi,Mafinga,-8.3004,35.30198,Commercial Bank,CRDB Bank Plc,Yes,11/11/10,2010-11-01
+Shinyanga,Bariadi,Bariadi,-2.80544,33.98531,Commercial Bank,CRDB Bank Plc,No,20/09/12,2012-9-01
+Arusha,Arusha,Kati,-3.37402,36.68564,Commercial Bank,CRDB Bank Plc,Yes,20/02/06,2006-2-01
+Arusha,Arumeru,Usa River,-3.37325,36.84746,Commercial Bank,CRDB Bank Plc,Yes,20/02/10,2010-2-01
+Arusha,Arusha,Kati,-3.37143,36.695,Commercial Bank,CRDB Bank Plc,Yes,12/07/99,1999-7-01
+Lindi,Lindi Urban,Ndoro,-9.99656,39.71288,Commercial Bank,CRDB Bank Plc,Yes,10/01/89,1989-1-01
+Arusha,Arumeru,Kimnyaki,-3.31998,36.63628,Commercial Bank,CRDB Bank Plc,No,10/07/13,2013-7-01
+Mbeya,Mbozi,Vwawa,-9.10911,32.93272,Commercial Bank,CRDB Bank Plc,Yes,11/02/08,2008-2-01
+Mbeya,Mbeya Rural,Utengule Usongwe,-8.93587,33.35067,Commercial Bank,CRDB Bank Plc,Yes,10/12/10,2010-12-01
+Dodoma,Kondoa,Kondoa Mjini,-4.90991,35.79084,Commercial Bank,CRDB Bank Plc,Yes,18/06/12,2012-6-01
+Mwanza,Nyamagana,Nyamagana,-2.6012,32.90016,Commercial Bank,CRDB Bank Plc,Yes,01/01/09,2009-1-01
+Mwanza,Nyamagana,Nyamagana,-2.52458,32.90704,Commercial Bank,CRDB Bank Plc,Yes,10/01/09,2009-1-01
+Mwanza,Nyamagana,Nyamagana,-2.5219,32.89983,Commercial Bank,CRDB Bank Plc,Yes,13/02/09,2009-2-01
+Kagera,Bukoba Urban,Mimbeni,-1.33036,31.81213,Commercial Bank,CRDB Bank Plc,No,09/10/07,2007-10-01
+Mbeya,Mbeya Urban,Maanga,-8.91114,33.45785,Commercial Bank,CRDB Bank Plc,Yes,08/02/11,2011-2-01
+Mbeya,Mbeya Urban,Sisimba,-8.89218,33.44552,Commercial Bank,CRDB Bank Plc,Yes,18/04/90,1990-4-01
+Mtwara,Masasi,Masasi,-10.7309,38.80265,Commercial Bank,CRDB Bank Plc,Yes,06/12/10,2010-12-01
+Mtwara,Mtwara Urban,Shangani,-10.27069,40.18555,Commercial Bank,CRDB Bank Plc,Yes,06/08/94,1994-8-01
+Kagera,Bukoba Urban,Bakoba,-1.3298,31.81031,Commercial Bank,CRDB Bank Plc,Yes,12/07/74,1974-7-01
+Mwanza,Nyamagana,Nyamagana,-2.52152,32.89962,Commercial Bank,CRDB Bank Plc,Yes,13/02/01,2001-2-01
+Mwanza,Nyamagana,Nyamagana,-2.51825,32.89852,Commercial Bank,CRDB Bank Plc,Yes,05/02/99,1999-2-01
+Mwanza,Ilemela,Ilemela,-2.5104,32.90273,Commercial Bank,CRDB Bank Plc,Yes,11/02/10,2010-2-01
+Mwanza,Ilemela,Kirumba,-2.50621,32.89499,Commercial Bank,CRDB Bank Plc,Yes,09/02/93,1993-2-01
+Zanzibar,Zanzibar,Mbuzini,-6.16354,39.19121,Commercial Bank,CRDB Bank Plc,No,10/08/09,2009-8-01
+Dar es Salaam,Ilala,Chanika,-6.99604,39.08481,Commercial Bank,DCB Commercial Bank Plc,Yes,01/08/12,2012-8-01
+Dar es Salaam,Temeke,Mtoni,-6.88484,39.28057,Commercial Bank,DCB Commercial Bank Plc,Yes,01/12/13,2013-12-01
+Dar es Salaam,Ilala,Ukonga,-6.8733,39.18834,Commercial Bank,DCB Commercial Bank Plc,Yes,27/11/12,2012-11-01
+Dar es Salaam,Temeke,Miburani,-6.85721,39.26352,Commercial Bank,DCB Commercial Bank Plc,Yes,11/04/09,2009-4-01
+Dar es Salaam,Ilala,Segerea,-6.84451,39.19833,Commercial Bank,DCB Commercial Bank Plc,Yes,25/10/13,2013-10-01
+Mtwara,Masasi,Masasi,-10.7309,38.80258,Commercial Bank,DCB Commercial Bank Plc,Yes,26/10/10,2010-10-01
+Dar es Salaam,Temeke,Mbagala,-6.90856,39.26969,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,26/05/11,2011-5-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83497,39.26456,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,No,27/03/11,2011-3-01
+Dar es Salaam,Ilala,Kisutu,-6.82032,39.28272,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,03/01/10,2010-1-01
+Dar es Salaam,Ilala,Kariakoo,-6.81543,39.27487,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,19/12/13,2013-12-01
+Dar es Salaam,Kinondoni,Magomeni,-6.80829,39.2597,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,No,29/05/09,2009-5-01
+Dar es Salaam,Kinondoni,Mbezi,-6.7254,39.21417,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,06/10/13,2013-10-01
+Morogoro,Morogoro Urban,Boma,-6.82638,37.66445,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,No,01/11/11,2011-11-01
+Tabora,Tabora Urban,Mbugani,-5.01868,32.80287,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,19/11/13,2013-11-01
+Dodoma,Dodoma Urban,Madukani,-6.18045,35.74616,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,31/01/10,2010-1-01
+Arusha,Arusha,Kati,-3.37366,36.68908,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,20/10/10,2010-10-01
+Arusha,Arusha,Sekei,-3.3639,36.70337,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,07/01/12,2012-1-01
+Mbeya,Mbeya Urban,Sisimba,-8.89387,33.4418,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,23/11/11,2011-11-01
+Tanga,Tanga,Ngamiani Kaskazini,-5.07642,39.0988,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,Yes,31/01/10,2010-1-01
+Mwanza,Nyamagana,Nyamagana,-2.52023,32.89944,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,No,13/02/10,2010-2-01
+Zanzibar,Zanzibar,Kama,-6.1617,39.189,Commercial Bank,Diamond Trust Bank (Tanzania) Limited,No,01/06/11,2011-6-01
+Dar es Salaam,Kinondoni,Mbezi,-6.82141,39.27296,Commercial Bank,Ecobank (Tanzania) Limited,Yes,05/10/12,2012-10-01
+Dar es Salaam,Ilala,Kisutu,-6.82133,39.28231,Commercial Bank,Ecobank (Tanzania) Limited,Yes,12/11/12,2012-11-01
+Dar es Salaam,Ilala,Kariakoo,-6.82079,39.27326,Commercial Bank,Ecobank (Tanzania) Limited,Yes,16/12/13,2013-12-01
+Dar es Salaam,Ilala,Kisutu,-6.81827,39.28999,Commercial Bank,Ecobank (Tanzania) Limited,Yes,10/01/12,2012-1-01
+Dar es Salaam,Kinondoni,Kijitonyama,-6.76707,39.22833,Commercial Bank,Ecobank (Tanzania) Limited,Yes,11/09/11,2011-9-01
+Mwanza,Nyamagana,Nyamagana,-2.51923,32.89835,Commercial Bank,Ecobank (Tanzania) Limited,Yes,07/01/13,2013-1-01
+Dar es Salaam,Ilala,Kinyerezi,-6.84527,39.19507,Commercial Bank,Equity bank (Tanzania) Limited,Yes,01/10/13,2013-10-01
+Dar es Salaam,Ilala,Kinyerezi,-6.84372,39.17056,Commercial Bank,Equity bank (Tanzania) Limited,Yes,11/03/14,2014-3-01
+Dar es Salaam,Temeke,Chang'ombe,-6.8398,39.25513,Commercial Bank,Equity bank (Tanzania) Limited,No,18/03/11,2011-3-01
+Dar es Salaam,Ilala,Kariakoo,-6.82199,39.2779,Commercial Bank,Equity bank (Tanzania) Limited,Yes,17/12/13,2013-12-01
+Dar es Salaam,Ilala,Kisutu,-6.81544,39.28795,Commercial Bank,Equity bank (Tanzania) Limited,Yes,18/10/13,2013-10-01
+Dar es Salaam,Ilala,Kivukoni,-6.81364,39.28949,Commercial Bank,Equity bank (Tanzania) Limited,Yes,31/10/12,2012-10-01
+Dar es Salaam,Kinondoni,Makuburi,-6.81202,39.21531,Commercial Bank,Equity bank (Tanzania) Limited,Yes,04/01/14,2014-1-01
+Dar es Salaam,Kinondoni,Kijitonyama,-6.76582,39.22838,Commercial Bank,Equity bank (Tanzania) Limited,Yes,03/01/14,2014-1-01
+Arusha,Arusha,Ngarenaro,-3.37536,36.67828,Commercial Bank,Equity bank (Tanzania) Limited,Yes,01/01/12,2012-1-01
+Arusha,Arusha,Kati,-3.37409,36.68606,Commercial Bank,Equity bank (Tanzania) Limited,Yes,07/11/11,2011-11-01
+Arusha,Arusha,Kati,-3.37296,36.69272,Commercial Bank,Equity bank (Tanzania) Limited,Yes,02/11/11,2011-11-01
+Mwanza,Nyamagana,Nyamagana,-2.51903,32.89938,Commercial Bank,Equity bank (Tanzania) Limited,Yes,20/12/12,2012-12-01
+Manyara,Babati,Babati,-4.2136,35.74888,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,10/12/12,2012-12-01
+Kigoma,Kigoma Urban,Kigoma town,-4.88047,29.63105,Commercial Bank,Exim Bank (Tanzania) Limited,No,22/10/12,2012-10-01
+Dar es Salaam,Temeke,Chang'ombe,-6.844,39.27271,Commercial Bank,Exim Bank (Tanzania) Limited,No,26/04/10,2010-4-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83678,39.25977,Commercial Bank,Exim Bank (Tanzania) Limited,No,17/08/12,2012-8-01
+Dar es Salaam,Ilala,Buguruni,-6.83407,39.24709,Commercial Bank,Exim Bank (Tanzania) Limited,No,30/11/11,2011-11-01
+Dar es Salaam,Ilala,Kisutu,-6.8208,39.28421,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,01/05/09,2009-5-01
+Dar es Salaam,Ilala,Kivukoni,-6.81455,39.29198,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,16/12/98,1998-12-01
+Dar es Salaam,Ilala,Kisutu,-6.81453,39.28745,Commercial Bank,Exim Bank (Tanzania) Limited,No,18/09/94,1994-9-01
+Dar es Salaam,Ilala,Kariakoo,-6.81441,39.27666,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,16/10/06,2006-10-01
+Dar es Salaam,Ilala,Kivukoni,-6.81369,39.28822,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,01/01/10,2010-1-01
+Dar es Salaam,Kinondoni,Sinza,-6.7964,39.21957,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,18/12/09,2009-12-01
+Dar es Salaam,Kinondoni,Sinza,-6.77219,39.22047,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,22/12/06,2006-12-01
+Dar es Salaam,Kinondoni,Kawe,-6.76847,39.2174,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,18/03/10,2010-3-01
+Dar es Salaam,Kinondoni,Mikocheni,-6.76551,39.2592,Commercial Bank,Exim Bank (Tanzania) Limited,No,19/10/09,2009-10-01
+Morogoro,Morogoro Urban,Sabasaba,-6.82625,37.66434,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,20/02/10,2010-2-01
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.67178,33.42954,Commercial Bank,Exim Bank (Tanzania) Limited,No,07/08/13,2013-8-01
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34818,37.34117,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,03/07/99,1999-7-01
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34794,37.34457,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,05/11/12,2012-11-01
+Mtwara,Mtwara Urban,Shangani,-10.27054,40.18505,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,06/11/04,2004-11-01
+Mwanza,Nyamagana,Nyamagana,-2.52116,32.89945,Commercial Bank,Exim Bank (Tanzania) Limited,No,10/02/00,2000-2-01
+Arusha,Arusha,Ngarenaro,-3.3781,36.70425,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,21/11/12,2012-11-01
+Arusha,Arusha,Kati,-3.37528,36.67869,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,17/12/07,2007-12-01
+Arusha,Arusha,Kati,-3.3731,36.69285,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,14/11/09,2009-11-01
+Arusha,Arusha,Kati,-3.37268,36.69283,Commercial Bank,Exim Bank (Tanzania) Limited,No,03/01/05,2005-1-01
+Arusha,Karatu,Karatu,-3.33885,35.67967,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,22/11/08,2008-11-01
+Zanzibar,Zanzibar,Shakani,-6.1617,39.19903,Commercial Bank,Exim Bank (Tanzania) Limited,No,11/07/10,2010-7-01
+Tanga,Tanga,Central,-5.07023,39.10534,Commercial Bank,Exim Bank (Tanzania) Limited,Yes,02/10/03,2003-10-01
+Dar es Salaam,Ilala,Kisutu,-6.81654,39.28789,Commercial Bank,FBME Bank (Tanzania) Limited,Yes,01/09/10,2010-9-01
+Dar es Salaam,Kinondoni,Kinondoni,-6.79077,39.27552,Commercial Bank,FBME Bank (Tanzania) Limited,No,09/02/13,2013-2-01
+Mwanza,Nyamagana,Nyamagana,-2.51927,32.90011,Commercial Bank,FBME Bank (Tanzania) Limited,Yes,13/01/11,2011-1-01
+Zanzibar,Zanzibar,Welezo,-6.1654,39.19442,Commercial Bank,FBME Bank (Tanzania) Limited,No,06/05/11,2011-5-01
+Arusha,Arusha,Levolosi,-3.37535,36.70036,Commercial Bank,FBME Bank (Tanzania) Limited,Yes,01/05/09,2009-5-01
+Manyara,Kiteto,Kibaya,-5.31378,36.5628,Commercial Bank,FINCA Tanzania Ltd,Yes,11/07/12,2012-7-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83972,39.25554,Commercial Bank,First National Bank (Tanzania) Limited,No,27/10/11,2011-10-01
+Dar es Salaam,Ilala,Ilala,-6.82593,39.26821,Commercial Bank,First National Bank (Tanzania) Limited,Yes,19/12/11,2011-12-01
+Dar es Salaam,Ilala,Kivukoni,-6.81151,39.2877,Commercial Bank,First National Bank (Tanzania) Limited,Yes,01/02/13,2013-2-01
+Dar es Salaam,Ilala,Kariakoo,-6.82206,39.27847,Commercial Bank,Habib African Bank Limited,Yes,17/12/13,2013-12-01
+Dar es Salaam,Ilala,Kisutu,-6.81731,39.28567,Commercial Bank,Habib African Bank Limited,Yes,06/01/05,2005-1-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83961,39.25571,Commercial Bank,I & M Bank (Tanzania) Limited,Yes,07/11/12,2012-11-01
+Dar es Salaam,Ilala,Kisutu,-6.81946,39.28354,Commercial Bank,I & M Bank (Tanzania) Limited,Yes,04/02/10,2010-2-01
+Dar es Salaam,Ilala,Kariakoo,-6.81586,39.27638,Commercial Bank,I & M Bank (Tanzania) Limited,Yes,15/10/11,2011-10-01
+Dar es Salaam,Ilala,Kisutu,-6.81253,39.28595,Commercial Bank,I & M Bank (Tanzania) Limited,Yes,16/01/13,2013-1-01
+Mwanza,Ilemela,Ilemela,-2.50981,32.90316,Commercial Bank,I & M Bank (Tanzania) Limited,Yes,16/01/11,2011-1-01
+Arusha,Arusha,Levolosi,-3.37502,36.68875,Commercial Bank,I & M Bank (Tanzania) Limited,Yes,14/12/10,2010-12-01
+Arusha,Arusha,Kati,-3.37495,36.68884,Commercial Bank,I & M Bank (Tanzania) Limited,Yes,27/11/10,2010-11-01
+Dar es Salaam,Ilala,Kariakoo,-6.8176,39.27839,Commercial Bank,International Commercial Bank (Tanzania) Limited,Yes,18/12/13,2013-12-01
+Dar es Salaam,Ilala,Kisutu,-6.81728,39.28277,Commercial Bank,International Commercial Bank (Tanzania) Limited,Yes,06/01/10,2010-1-01
+Dar es Salaam,Ilala,Upanga East,-6.8135,39.27872,Commercial Bank,International Commercial Bank (Tanzania) Limited,Yes,06/02/05,2005-2-01
+Dar es Salaam,Kinondoni,Ubungo,-6.79645,39.21978,Commercial Bank,International Commercial Bank (Tanzania) Limited,No,01/05/02,2002-5-01
+Dar es Salaam,Ilala,Buguruni,-6.83751,39.24277,Commercial Bank,KCB Bank (Tanzania) Limited,Yes,21/08/11,2011-8-01
+Dar es Salaam,Ilala,Kariakoo,-6.82174,39.27862,Commercial Bank,KCB Bank (Tanzania) Limited,Yes,08/07/07,2007-7-01
+Dar es Salaam,Ilala,Kariakoo,-6.82141,39.27295,Commercial Bank,KCB Bank (Tanzania) Limited,Yes,28/05/05,2005-5-01
+Dar es Salaam,Ilala,Kisutu,-6.81897,39.27906,Commercial Bank,KCB Bank (Tanzania) Limited,Yes,09/01/10,2010-1-01
+Dar es Salaam,Ilala,Kivukoni,-6.81556,39.29074,Commercial Bank,KCB Bank (Tanzania) Limited,Yes,05/01/03,2003-1-01
+Dar es Salaam,Kinondoni,Sinza,-6.77334,39.21964,Commercial Bank,KCB Bank (Tanzania) Limited,Yes,16/11/06,2006-11-01
+Morogoro,Morogoro Urban,Boma,-6.82987,37.66483,Commercial Bank,KCB Bank (Tanzania) Limited,No,01/02/09,2009-2-01
+Mwanza,Nyamagana,Nyamagana,-2.51854,32.89859,Commercial Bank,KCB Bank (Tanzania) Limited,Yes,07/02/00,2000-2-01
+Arusha,Arusha,Kati,-3.37191,36.69363,Commercial Bank,KCB Bank (Tanzania) Limited,Yes,21/07/11,2011-7-01
+Zanzibar,Zanzibar,Mwakaje,-6.15717,39.19412,Commercial Bank,KCB Bank (Tanzania) Limited,No,28/07/11,2011-7-01
+Dar es Salaam,Kinondoni,Kawe,-6.81669,39.29154,Commercial Bank,Maendeleo Bank,Yes,25/01/14,2014-1-01
+Dar es Salaam,Ilala,Kariakoo,-6.82352,39.27252,Commercial Bank,Mkombozi Commercial Bank Plc,Yes,01/05/10,2010-5-01
+Dar es Salaam,Ilala,Ilala,-6.8233,39.2591,Commercial Bank,Mkombozi Commercial Bank Plc,Yes,02/01/13,2013-1-01
+Dar es Salaam,Ilala,Kisutu,-6.81831,39.2885,Commercial Bank,Mkombozi Commercial Bank Plc,Yes,01/01/10,2010-1-01
+Mwanza,Nyamagana,Nyamagana,-2.51827,32.89998,Commercial Bank,Mkombozi Commercial Bank Plc,No,01/01/12,2012-1-01
+Manyara,Kiteto,Kibaya,-5.31632,36.56732,Commercial Bank,National Microfinance Bank Plc,Yes,25/10/97,1997-10-01
+Manyara,Hanang,Katesh,-4.52276,35.37691,Commercial Bank,National Microfinance Bank Plc,Yes,01/07/95,1995-7-01
+Manyara,Simanjiro,Orkesumet,-4.46021,37.1977,Commercial Bank,National Microfinance Bank Plc,Yes,12/09/08,2008-9-01
+Manyara,Babati,Babati,-4.21459,35.7479,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.67093,33.42758,Commercial Bank,National Microfinance Bank Plc,No,17/11/97,1997-11-01
+Manyara,Mbulu,Mbulu Mjini,-3.85642,35.54205,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Iringa,Ludewa,Ludewa,-10.09685,34.68648,Commercial Bank,National Microfinance Bank Plc,Yes,18/05/90,1990-5-01
+Iringa,Njombe,Njombe Mjini,-9.34669,34.76963,Commercial Bank,National Microfinance Bank Plc,Yes,01/07/96,1996-7-01
+Pwani,Mafia,Kilindoni,-7.91439,39.66146,Commercial Bank,National Microfinance Bank Plc,No,13/09/11,2011-9-01
+Singida,Manyoni,Manyoni,-5.74778,34.83752,Commercial Bank,National Microfinance Bank Plc,No,15/04/00,2000-4-01
+Pwani,Mkuranga,Mkuranga,-7.1232,39.20245,Commercial Bank,National Microfinance Bank Plc,Yes,08/02/07,2007-2-01
+Iringa,Njombe,Njombe Mjini,-9.33152,34.76814,Commercial Bank,National Microfinance Bank Plc,Yes,01/07/85,1985-7-01
+Singida,Manyoni,Itigi,-5.69499,34.49939,Commercial Bank,National Microfinance Bank Plc,No,21/03/04,2004-3-01
+Dodoma,Mpwapwa,Mpwapwa Mjini,-6.34938,36.48747,Commercial Bank,National Microfinance Bank Plc,Yes,25/09/03,2003-9-01
+Kigoma,Kigoma Urban,Kigoma town,-4.88017,29.63155,Commercial Bank,National Microfinance Bank Plc,No,27/11/83,1983-11-01
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.22093,35.81019,Commercial Bank,National Microfinance Bank Plc,No,29/05/12,2012-5-01
+Rukwa,Sumbawanga Urban,Katandala,-7.95983,31.61096,Commercial Bank,National Microfinance Bank Plc,Yes,31/12/01,2001-12-01
+Kigoma,Kasulu,Kasulu Mjini,-4.5733,30.09721,Commercial Bank,National Microfinance Bank Plc,No,22/04/87,1987-4-01
+Rukwa,Nkansi,Namanyere,-7.50253,31.03958,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Kilimanjaro,Same,Same Mjini,-4.06711,37.73741,Commercial Bank,National Microfinance Bank Plc,Yes,05/08/75,1975-8-01
+Dodoma,Kongwa,Kongwa,-6.19745,36.4146,Commercial Bank,National Microfinance Bank Plc,Yes,15/04/05,2005-4-01
+Tabora,Sikonge,Sikonge,-5.61082,32.74512,Commercial Bank,National Microfinance Bank Plc,Yes,12/09/01,2001-9-01
+Singida,Singida Urban,Majengo,-4.81879,34.75187,Commercial Bank,National Microfinance Bank Plc,Yes,10/03/00,2000-3-01
+Kigoma,Kibondo,Kibondo Mjini,-3.58551,30.71895,Commercial Bank,National Microfinance Bank Plc,Yes,24/01/90,1990-1-01
+Morogoro,Kilombero,Ifakara,-8.13761,36.67976,Commercial Bank,National Microfinance Bank Plc,Yes,11/04/99,1999-4-01
+Rukwa,Mpanda,Kashaulili,-6.33951,31.07014,Commercial Bank,National Microfinance Bank Plc,Yes,27/08/74,1974-8-01
+Tabora,Tabora Urban,Kanyenye,-5.02169,32.80706,Commercial Bank,National Microfinance Bank Plc,Yes,01/01/70,1970-1-01
+Iringa,Makete,Lupalilo,-9.25803,34.09861,Commercial Bank,National Microfinance Bank Plc,Yes,01/07/97,1997-7-01
+Singida,Iramba,Kiomboi,-4.27852,34.40684,Commercial Bank,National Microfinance Bank Plc,Yes,10/02/90,1990-2-01
+Iringa,Njombe,Makambako,-8.84434,34.82328,Commercial Bank,National Microfinance Bank Plc,Yes,01/07/97,1997-7-01
+Ruvuma,Mbinga,Litembo,-10.97951,34.82655,Commercial Bank,National Microfinance Bank Plc,Yes,25/02/95,1995-2-01
+Mbeya,Kyela,Kyela Mjini,-9.60449,33.87136,Commercial Bank,National Microfinance Bank Plc,Yes,10/02/97,1997-2-01
+Pwani,Kisarawe,Kisarawe,-6.90545,39.07378,Commercial Bank,National Microfinance Bank Plc,Yes,01/01/97,1997-1-01
+Kilimanjaro,Mwanga,Mwanga,-3.65518,37.58924,Commercial Bank,National Microfinance Bank Plc,Yes,28/01/87,1987-1-01
+Dar es Salaam,Temeke,Mbagala,-6.91126,39.26981,Commercial Bank,National Microfinance Bank Plc,Yes,06/07/05,2005-7-01
+Dar es Salaam,Temeke,Miburani,-6.86354,39.26336,Commercial Bank,National Microfinance Bank Plc,Yes,02/11/97,1997-11-01
+Mbeya,Ileje,Itumba,-9.40975,33.18331,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Lindi,Nachingwea,Nambambo,-10.36237,38.76124,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35418,37.33967,Commercial Bank,National Microfinance Bank Plc,Yes,04/03/72,1972-3-01
+Mbeya,Mbozi,Tunduma,-9.31214,32.76553,Commercial Bank,National Microfinance Bank Plc,Yes,24/06/75,1975-6-01
+Mara,Tarime,Tarime,-1.3421,34.37695,Commercial Bank,National Microfinance Bank Plc,No,21/01/11,2011-1-01
+Tanga,Kilindi,Songe,-5.57134,37.28975,Commercial Bank,National Microfinance Bank Plc,Yes,31/12/08,2008-12-01
+Tabora,Igunga,Igunga,-4.28487,33.87483,Commercial Bank,National Microfinance Bank Plc,Yes,10/02/99,1999-2-01
+Mbeya,Rungwe,Bulyaga,-9.25881,33.64597,Commercial Bank,National Microfinance Bank Plc,Yes,10/02/97,1997-2-01
+Lindi,Ruangwa,Ruangwa,-10.0745,38.93625,Commercial Bank,National Microfinance Bank Plc,Yes,02/01/09,2009-1-01
+Tanga,Handeni,Chanika,-5.42647,38.01688,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Dar es Salaam,Ilala,Kipawa,-6.86228,39.20749,Commercial Bank,National Microfinance Bank Plc,Yes,04/09/10,2010-9-01
+Dar es Salaam,Temeke,Kurasini,-6.85295,39.28283,Commercial Bank,National Microfinance Bank Plc,No,16/05/11,2011-5-01
+Shinyanga,Meatu,Mwanhuze,-3.523,34.31014,Commercial Bank,National Microfinance Bank Plc,No,17/12/13,2013-12-01
+Iringa,Iringa Urban,Gangilonga,-7.77677,35.69846,Commercial Bank,National Microfinance Bank Plc,Yes,01/02/97,1997-2-01
+Dar es Salaam,Ilala,Tabata,-6.82059,39.2275,Commercial Bank,National Microfinance Bank Plc,No,16/02/14,2014-2-01
+Dar es Salaam,Ilala,Kariakoo,-6.81987,39.27346,Commercial Bank,National Microfinance Bank Plc,Yes,11/08/08,2008-8-01
+Shinyanga,Maswa,Nyalikungu,-3.1826,33.78071,Commercial Bank,National Microfinance Bank Plc,No,02/07/87,1987-7-01
+Dar es Salaam,Ilala,Kariakoo,-6.81938,39.27807,Commercial Bank,National Microfinance Bank Plc,Yes,10/06/08,2008-6-01
+Dar es Salaam,Ilala,Kisutu,-6.81801,39.28289,Commercial Bank,National Microfinance Bank Plc,Yes,01/02/00,2000-2-01
+Dar es Salaam,Ilala,Kivukoni,-6.81737,39.29026,Commercial Bank,National Microfinance Bank Plc,No,13/12/89,1989-12-01
+Dar es Salaam,Ilala,Kivukoni,-6.81564,39.28999,Commercial Bank,National Microfinance Bank Plc,No,02/05/02,2002-5-01
+Dar es Salaam,Ilala,Kisutu,-6.81555,39.28809,Commercial Bank,National Microfinance Bank Plc,No,29/06/75,1975-6-01
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34631,37.34092,Commercial Bank,National Microfinance Bank Plc,Yes,04/01/00,2000-1-01
+Dar es Salaam,Ilala,Kivukoni,-6.8127,39.28581,Commercial Bank,National Microfinance Bank Plc,Yes,17/08/12,2012-8-01
+Lindi,Lindi Urban,Makonde,-9.99784,39.71537,Commercial Bank,National Microfinance Bank Plc,Yes,30/12/01,2001-12-01
+Dar es Salaam,Kinondoni,Magomeni,-6.80697,39.25566,Commercial Bank,National Microfinance Bank Plc,Yes,05/01/07,2007-1-01
+Dar es Salaam,Kinondoni,Ubungo,-6.79463,39.21475,Commercial Bank,National Microfinance Bank Plc,Yes,11/08/05,2005-8-01
+Morogoro,Kilombero,Kidatu,-7.66169,36.9876,Commercial Bank,National Microfinance Bank Plc,No,01/08/00,2000-8-01
+Dar es Salaam,Kinondoni,Ubungo,-6.7835,39.20731,Commercial Bank,National Microfinance Bank Plc,Yes,12/07/08,2008-7-01
+Dodoma,Dodoma Urban,Viwandani,-6.17801,35.74629,Commercial Bank,National Microfinance Bank Plc,Yes,04/01/07,2007-1-01
+Mbeya,Mbozi,Vwawa,-9.11133,32.93334,Commercial Bank,National Microfinance Bank Plc,Yes,16/07/97,1997-7-01
+Ruvuma,Mbinga,Mbinga Urban,-10.95118,34.99629,Commercial Bank,National Microfinance Bank Plc,Yes,04/07/80,1980-7-01
+Mbeya,Mbeya Rural,Utengule Usongwe,-8.93526,33.34227,Commercial Bank,National Microfinance Bank Plc,Yes,01/08/10,2010-8-01
+Dar es Salaam,Kinondoni,Sinza,-6.77747,39.22775,Commercial Bank,National Microfinance Bank Plc,Yes,21/11/13,2013-11-01
+Dar es Salaam,Kinondoni,Msasani,-6.77619,39.26828,Commercial Bank,National Microfinance Bank Plc,No,30/10/06,2006-10-01
+Dar es Salaam,Kinondoni,Sinza,-6.7733,39.21967,Commercial Bank,National Microfinance Bank Plc,Yes,16/11/06,2006-11-01
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77073,39.23033,Commercial Bank,National Microfinance Bank Plc,Yes,15/03/05,2005-3-01
+Dar es Salaam,Kinondoni,Mbezi,-6.70175,39.2077,Commercial Bank,National Microfinance Bank Plc,No,21/02/11,2011-2-01
+Dar es Salaam,Kinondoni,Bunju,-6.6577,39.18026,Commercial Bank,National Microfinance Bank Plc,No,08/01/13,2013-1-01
+Kilimanjaro,Moshi Rural,Marangu Magharibi,-3.28403,37.52312,Commercial Bank,National Microfinance Bank Plc,No,20/01/08,2008-1-01
+Tabora,Nzega,Nzega Mjini,-4.21614,33.1867,Commercial Bank,National Microfinance Bank Plc,Yes,04/04/02,2002-4-01
+Pwani,Bagamoyo,Dunda,-6.44641,38.90771,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Dodoma,Dodoma Urban,Nzuguni,-6.14641,35.83213,Commercial Bank,National Microfinance Bank Plc,Yes,08/06/09,2009-6-01
+Morogoro,Morogoro Urban,Mji Kuu,-6.82841,37.66351,Commercial Bank,National Microfinance Bank Plc,Yes,19/03/79,1979-3-01
+Lindi,Liwale,Liwale Mjini,-9.80503,37.92694,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Lindi,Kilwa,Masoko,-8.93061,39.5128,Commercial Bank,National Microfinance Bank Plc,Yes,01/01/70,1970-1-01
+Shinyanga,Bariadi,Bariadi,-2.80155,33.98802,Commercial Bank,National Microfinance Bank Plc,Yes,02/09/74,1974-9-01
+Mbeya,Mbeya Urban,Maanga,-8.91258,33.46692,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Dodoma,Kongwa,Kibaigwa,-6.07966,36.64596,Commercial Bank,National Microfinance Bank Plc,Yes,07/03/12,2012-3-01
+Mtwara,Tandahimba,Tandahimba,-10.7685,39.63182,Commercial Bank,National Microfinance Bank Plc,Yes,07/08/95,1995-8-01
+Ruvuma,Songea Urban,Songea Mjini,-10.67869,35.64967,Commercial Bank,National Microfinance Bank Plc,Yes,22/01/91,1991-1-01
+Dodoma,Kondoa,Kondoa Mjini,-4.90822,35.78931,Commercial Bank,National Microfinance Bank Plc,Yes,22/01/06,2006-1-01
+Mbeya,Mbeya Urban,Sisimba,-8.89428,33.44076,Commercial Bank,National Microfinance Bank Plc,Yes,06/01/95,1995-1-01
+Mbeya,Mbeya Urban,Sisimba,-8.89227,33.44302,Commercial Bank,National Microfinance Bank Plc,Yes,16/07/06,2006-7-01
+Mbeya,Chunya,Itewe,-8.52437,33.42276,Commercial Bank,National Microfinance Bank Plc,Yes,01/07/97,1997-7-01
+Tanga,Muheza,Majengo,-5.17676,38.79311,Commercial Bank,National Microfinance Bank Plc,Yes,25/03/97,1997-3-01
+Mtwara,Masasi,Masasi,-10.72288,38.81644,Commercial Bank,National Microfinance Bank Plc,Yes,04/10/97,1997-10-01
+Mtwara,Mtwara Urban,Vigaeni,-10.27206,40.18435,Commercial Bank,National Microfinance Bank Plc,Yes,04/10/89,1989-10-01
+Mtwara,Masasi,Mwena,-6.86193,39.20781,Commercial Bank,National Microfinance Bank Plc,Yes,11/07/92,1992-7-01
+Mwanza,Geita,Kalangala,-2.8732,32.22879,Commercial Bank,National Microfinance Bank Plc,No,16/01/99,1999-1-01
+Mwanza,Misungwi,Misungwi,-2.83156,33.07785,Commercial Bank,National Microfinance Bank Plc,Yes,20/01/09,2009-1-01
+Mwanza,Magu,Kiloleni,-2.59167,33.44263,Commercial Bank,National Microfinance Bank Plc,No,10/01/07,2007-1-01
+Mtwara,Tandahimba,Tandahimba,-6.85979,39.21327,Commercial Bank,National Microfinance Bank Plc,Yes,19/11/09,2009-11-01
+Mwanza,Magu,Mwamabanza,-2.53912,32.95571,Commercial Bank,National Microfinance Bank Plc,Yes,31/01/13,2013-1-01
+Mwanza,Ilemela,Nyakato,-2.53543,32.93826,Commercial Bank,National Microfinance Bank Plc,No,22/06/12,2012-6-01
+Mwanza,Magu,Magu Mjini,-2.53468,32.94011,Commercial Bank,National Microfinance Bank Plc,Yes,29/06/12,2012-6-01
+Mwanza,Nyamagana,Nyamagana,-2.5201,32.89932,Commercial Bank,National Microfinance Bank Plc,No,12/02/08,2008-2-01
+Mwanza,Nyamagana,Nyamagana,-2.51867,32.89771,Commercial Bank,National Microfinance Bank Plc,No,23/01/10,2010-1-01
+Kagera,Ngara,Ngara Mjini,-2.50943,30.65881,Commercial Bank,National Microfinance Bank Plc,No,01/10/97,1997-10-01
+Tanga,Korogwe,Korogwe,-5.15729,38.44849,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Arusha,Arusha,Ngarenaro,-3.37495,36.68035,Commercial Bank,National Microfinance Bank Plc,Yes,25/11/07,2007-11-01
+Arusha,Arusha,Kati,-3.3726,36.69428,Commercial Bank,National Microfinance Bank Plc,Yes,19/09/01,2001-9-01
+Arusha,Arusha,Kati,-3.37043,36.69492,Commercial Bank,National Microfinance Bank Plc,Yes,28/11/11,2011-11-01
+Arusha,Karatu,Karatu,-3.33864,35.67838,Commercial Bank,National Microfinance Bank Plc,Yes,20/01/78,1978-1-01
+Arusha,Monduli,Monduli Mjini,-3.29897,36.44644,Commercial Bank,National Microfinance Bank Plc,No,01/01/70,1970-1-01
+Arusha,Monduli,Namanga,-2.55923,36.78033,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/13,2013-10-01
+Arusha,Monduli,Namanga,-2.54898,36.78584,Commercial Bank,National Microfinance Bank Plc,No,20/02/05,2005-2-01
+Arusha,Ngorongoro,Orgosorok,-2.05282,35.62522,Commercial Bank,National Microfinance Bank Plc,No,01/01/78,1978-1-01
+Kagera,Muleba,Muleba,-1.845,31.64795,Commercial Bank,National Microfinance Bank Plc,No,18/11/97,1997-11-01
+Tanga,Tanga,Central,-5.07162,39.10158,Commercial Bank,National Microfinance Bank Plc,Yes,29/06/06,2006-6-01
+Kagera,Bukoba Urban,Mimbeni,-1.33116,31.81315,Commercial Bank,National Microfinance Bank Plc,No,28/11/01,2001-11-01
+Tanga,Tanga,Central,-5.0712,39.10258,Commercial Bank,National Microfinance Bank Plc,Yes,30/10/97,1997-10-01
+Tanga,Korogwe,Mombo,-4.88762,38.29037,Commercial Bank,National Microfinance Bank Plc,Yes,01/10/97,1997-10-01
+Tanga,Lushoto,Lushoto,-4.79396,38.29226,Commercial Bank,National Microfinance Bank Plc,Yes,31/10/97,1997-10-01
+Morogoro,Morogoro Urban,Kingo,-6.82352,37.66294,Commercial Bank,National Microfinance Bank Plc,Yes,01/12/10,2010-12-01
+Mwanza,Sengerema,Sengerema,-2.65089,32.64353,Commercial Bank,National Microfinance Bank Plc,No,24/02/99,1999-2-01
+Zanzibar,Zanzibar,Mwera,-6.15908,39.19506,Commercial Bank,National Microfinance Bank Plc,No,30/11/08,2008-11-01
+Tabora,Urambo,Urambo,-5.07257,32.07051,Commercial Bank,National Microfinance Bank Plc,Yes,27/11/99,1999-11-01
+Dodoma,Dodoma Urban,Madukani,-6.17956,35.74668,Commercial Bank,National Microfinance Bank Plc,Yes,18/06/07,2007-6-01
+Manyara,Babati,Babati,-4.2132,35.74894,Commercial Bank,NBC Bank Limited,Yes,14/09/08,2008-9-01
+Singida,Singida Urban,Ipembe,-4.81517,34.74944,Commercial Bank,NBC Bank Limited,Yes,07/02/08,2008-2-01
+Rukwa,Sumbawanga Urban,Katandala,-7.96276,31.61349,Commercial Bank,NBC Bank Limited,Yes,18/02/72,1972-2-01
+Kigoma,Kigoma Urban,Kigoma town,-4.88114,29.63162,Commercial Bank,NBC Bank Limited,No,06/08/87,1987-8-01
+Mara,Musoma Urban,Mukendo,-1.4987,33.80921,Commercial Bank,NBC Bank Limited,Yes,10/08/10,2010-8-01
+Mara,Tarime,Tarime,-1.34154,34.37763,Commercial Bank,NBC Bank Limited,Yes,14/03/10,2010-3-01
+Dar es Salaam,Temeke,Mbagala,-6.91446,39.27,Commercial Bank,NBC Bank Limited,Yes,14/10/03,2003-10-01
+Dar es Salaam,Temeke,Chang'ombe,-6.85127,39.27143,Commercial Bank,NBC Bank Limited,Yes,08/10/05,2005-10-01
+Dar es Salaam,Temeke,Chang'ombe,-6.84169,39.25011,Commercial Bank,NBC Bank Limited,No,02/04/06,2006-4-01
+Dar es Salaam,Ilala,Kariakoo,-6.823,39.27654,Commercial Bank,NBC Bank Limited,Yes,31/10/08,2008-10-01
+Dar es Salaam,Ilala,Kariakoo,-6.82071,39.28109,Commercial Bank,NBC Bank Limited,Yes,01/01/98,1998-1-01
+Dar es Salaam,Ilala,Kisutu,-6.82021,39.28547,Commercial Bank,NBC Bank Limited,Yes,04/02/03,2003-2-01
+Dar es Salaam,Ilala,Kariakoo,-6.82005,39.27791,Commercial Bank,NBC Bank Limited,Yes,03/01/06,2006-1-01
+Dar es Salaam,Ilala,Kivukoni,-6.81801,39.28996,Commercial Bank,NBC Bank Limited,No,01/01/70,1970-1-01
+Dar es Salaam,Ilala,Upanga East,-6.80599,39.27391,Commercial Bank,NBC Bank Limited,Yes,08/02/04,2004-2-01
+Dar es Salaam,Kinondoni,Ubungo,-6.79289,39.21255,Commercial Bank,NBC Bank Limited,Yes,05/03/79,1979-3-01
+Dar es Salaam,Kinondoni,Ubungo,-6.78139,39.20252,Commercial Bank,NBC Bank Limited,Yes,04/03/78,1978-3-01
+Dar es Salaam,Kinondoni,Sinza,-6.77333,39.21966,Commercial Bank,NBC Bank Limited,Yes,16/11/06,2006-11-01
+Iringa,Njombe,Makambako,-8.84414,34.82323,Commercial Bank,NBC Bank Limited,Yes,28/01/07,2007-1-01
+Ruvuma,Songea Urban,Songea Mjini,-10.67801,35.64992,Commercial Bank,NBC Bank Limited,Yes,30/08/95,1995-8-01
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34795,37.34381,Commercial Bank,NBC Bank Limited,Yes,22/05/89,1989-5-01
+Mbeya,Mbozi,Tunduma,-9.30521,32.76331,Commercial Bank,NBC Bank Limited,Yes,18/05/08,2008-5-01
+Mbeya,Rungwe,Bulyaga,-9.25808,33.64527,Commercial Bank,NBC Bank Limited,Yes,01/01/70,1970-1-01
+Shinyanga,Kahama,Kahama Mjini,-3.83013,32.60474,Commercial Bank,NBC Bank Limited,No,14/12/13,2013-12-01
+Tabora,Tabora Urban,Kanyenye,-5.01968,32.80472,Commercial Bank,NBC Bank Limited,Yes,01/01/70,1970-1-01
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.67312,33.42662,Commercial Bank,NBC Bank Limited,No,10/05/96,1996-5-01
+Lindi,Lindi Urban,Msinjahili,-10.00154,39.71791,Commercial Bank,NBC Bank Limited,Yes,15/01/90,1990-1-01
+Mbeya,Mbeya Urban,Sisimba,-8.89272,33.44724,Commercial Bank,NBC Bank Limited,Yes,03/06/75,1975-6-01
+Mtwara,Masasi,Masasi,-10.72298,38.81536,Commercial Bank,NBC Bank Limited,Yes,11/02/04,2004-2-01
+Mtwara,Mtwara Urban,Shangani,-10.2737,40.18684,Commercial Bank,NBC Bank Limited,Yes,04/07/83,1983-7-01
+Kilimanjaro,Moshi Rural,Mamba Kaskazini,-3.33429,37.14645,Commercial Bank,NBC Bank Limited,No,15/08/96,1996-8-01
+Dodoma,Dodoma Urban,Viwandani,-6.17567,35.74736,Commercial Bank,NBC Bank Limited,Yes,25/10/90,1990-10-01
+Mwanza,Geita,Kalangala,-2.87273,32.22859,Commercial Bank,NBC Bank Limited,No,01/01/01,2001-1-01
+Mwanza,Ilemela,Igoma,-2.5405,32.96061,Commercial Bank,NBC Bank Limited,No,01/01/09,2009-1-01
+Mwanza,Nyamagana,Nyamagana,-2.52332,32.90017,Commercial Bank,NBC Bank Limited,No,12/02/00,2000-2-01
+Mwanza,Nyamagana,Nyamagana,-2.51855,32.90244,Commercial Bank,NBC Bank Limited,No,18/01/05,2005-1-01
+Arusha,Arusha,Kati,-3.3709,36.68541,Commercial Bank,NBC Bank Limited,Yes,18/10/12,2012-10-01
+Arusha,Karatu,Karatu,-3.33854,35.67217,Commercial Bank,NBC Bank Limited,Yes,20/01/00,2000-1-01
+Kagera,Bukoba Urban,Birere,-1.3317,31.81268,Commercial Bank,NBC Bank Limited,No,13/09/96,1996-9-01
+Zanzibar,Zanzibar,Welezo,-6.16178,39.18772,Commercial Bank,NBC Bank Limited,No,28/04/98,1998-4-01
+Morogoro,Morogoro Urban,Kingo,-6.82672,37.66905,Commercial Bank,NBC Bank Limited,Yes,01/01/70,1970-1-01
+Tanga,Tanga,Central,-5.07138,39.10165,Commercial Bank,NBC Bank Limited,Yes,01/01/70,1970-1-01
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35663,36.69984,Commercial Bank,NBC Bank Limited,Yes,03/10/93,1993-10-01
+Dar es Salaam,Kinondoni,Mwananyamala,-6.79109,39.2636,Commercial Bank,NBC Bank Limited,No,25/02/10,2010-2-01
+Dodoma,Dodoma Urban,Viwandani,-6.17569,35.74729,Commercial Bank,NBC Bank Limited,Yes,10/05/85,1985-5-01
+Dar es Salaam,Ilala,Kariakoo,-6.82196,39.27705,Commercial Bank,NIC Bank (Tanzania) Limited,Yes,17/12/13,2013-12-01
+Dar es Salaam,Ilala,Kivukoni,-6.81351,39.28871,Commercial Bank,NIC Bank (Tanzania) Limited,Yes,15/08/12,2012-8-01
+Shinyanga,Kahama,Kahama Mjini,-3.83043,32.6044,Commercial Bank,NIC Bank (Tanzania) Limited,No,02/07/11,2011-7-01
+Mwanza,Nyamagana,Nyamagana,-2.52105,32.90331,Commercial Bank,NIC Bank (Tanzania) Limited,Yes,09/01/12,2012-1-01
+Arusha,Arusha,Kati,-3.37318,36.69308,Commercial Bank,NIC Bank (Tanzania) Limited,No,23/05/11,2011-5-01
+Tabora,Nzega,Nzega Mjini,-4.21839,33.19507,Commercial Bank,NIC Bank (Tanzania) Limited,Yes,18/02/04,2004-2-01
+Mtwara,Mtwara Urban,Vigaeni,-10.27624,40.18235,Commercial Bank,Tanzania Postal Bank,Yes,05/10/08,2008-10-01
+Mwanza,Sengerema,Sengerema,-2.65021,32.64314,Commercial Bank,Tanzania Postal Bank,No,26/02/11,2011-2-01
+Zanzibar,Zanzibar,Bububu,-6.15884,39.19744,Commercial Bank,Tanzania Postal Bank,No,11/04/06,2006-4-01
+Dar es Salaam,Ilala,Kisutu,-6.82001,39.27943,Commercial Bank,Peoples' Bank of Zanzibar Limited,Yes,01/02/12,2012-2-01
+Dar es Salaam,Ilala,Kariakoo,-6.81429,39.27675,Commercial Bank,Peoples' Bank of Zanzibar Limited,Yes,21/06/10,2010-6-01
+Zanzibar,Zanzibar,Fuoni Kibondeni,-6.41352,39.55512,Commercial Bank,Peoples' Bank of Zanzibar Limited,No,06/05/11,2011-5-01
+Zanzibar,Zanzibar,Mtoni,-6.19667,39.21155,Commercial Bank,Peoples' Bank of Zanzibar Limited,No,01/06/12,2012-6-01
+Zanzibar,Zanzibar,Mwanakwerekwe,-6.17699,39.22488,Commercial Bank,Peoples' Bank of Zanzibar Limited,No,09/01/10,2010-1-01
+Zanzibar,Zanzibar,Maungani,-6.17152,39.19838,Commercial Bank,Peoples' Bank of Zanzibar Limited,Yes,08/01/11,2011-1-01
+Zanzibar,Zanzibar,Bweleo,-6.15962,39.19486,Commercial Bank,Peoples' Bank of Zanzibar Limited,No,01/07/88,1988-7-01
+Zanzibar,Zanzibar,Bububu,-6.15897,39.19932,Commercial Bank,Peoples' Bank of Zanzibar Limited,Yes,12/07/12,2012-7-01
+Zanzibar,Zanzibar,Welezo,-6.15854,39.19524,Commercial Bank,Peoples' Bank of Zanzibar Limited,No,01/01/70,1970-1-01
+Dar es Salaam,Temeke,Chang'ombe,-6.83522,39.26434,Commercial Bank,Stanbic Bank (Tanzania) Limited,No,19/07/11,2011-7-01
+Dar es Salaam,Ilala,Kariakoo,-6.81972,39.27513,Commercial Bank,Stanbic Bank (Tanzania) Limited,Yes,18/12/13,2013-12-01
+Dar es Salaam,Ilala,Kariakoo,-6.81934,39.27821,Commercial Bank,Stanbic Bank (Tanzania) Limited,Yes,06/11/00,2000-11-01
+Dar es Salaam,Ilala,Kivukoni,-6.81361,39.28957,Commercial Bank,Stanbic Bank (Tanzania) Limited,Yes,01/01/12,2012-1-01
+Dar es Salaam,Kinondoni,Kinondoni,-6.79231,39.27995,Commercial Bank,Stanbic Bank (Tanzania) Limited,No,12/02/10,2010-2-01
+Dar es Salaam,Kinondoni,Mikocheni,-6.76731,39.26141,Commercial Bank,Stanbic Bank (Tanzania) Limited,No,20/12/12,2012-12-01
+Mbeya,Mbeya Urban,Sisimba,-8.89167,33.44361,Commercial Bank,Stanbic Bank (Tanzania) Limited,Yes,17/02/07,2007-2-01
+Mwanza,Nyamagana,Nyamagana,-2.52045,32.90458,Commercial Bank,Stanbic Bank (Tanzania) Limited,No,14/01/08,2008-1-01
+Arusha,Arusha,Kati,-3.37327,36.69238,Commercial Bank,Stanbic Bank (Tanzania) Limited,Yes,20/10/10,2010-10-01
+Shinyanga,Kahama,Bugarama,-3.29172,32.40645,Commercial Bank,Stanbic Bank (Tanzania) Limited,No,20/11/03,2003-11-01
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34801,37.34153,Commercial Bank,Stanbic Bank (Tanzania) Limited,Yes,02/09/02,2002-9-01
+Dar es Salaam,Temeke,Chang'ombe,-6.8352,39.26433,Commercial Bank,Standard Chartered Bank (Tanzania) Limited,No,10/03/09,2009-3-01
+Dar es Salaam,Ilala,Kariakoo,-6.82019,39.27665,Commercial Bank,Standard Chartered Bank (Tanzania) Limited,Yes,04/05/10,2010-5-01
+Dar es Salaam,Ilala,Kivukoni,-6.81179,39.29283,Commercial Bank,Standard Chartered Bank (Tanzania) Limited,Yes,12/12/06,2006-12-01
+Dar es Salaam,Kinondoni,Mikocheni,-6.76924,39.26271,Commercial Bank,Standard Chartered Bank (Tanzania) Limited,No,20/08/95,1995-8-01
+Dar es Salaam,Kinondoni,Mbezi,-6.72545,39.21445,Commercial Bank,Standard Chartered Bank (Tanzania) Limited,No,10/01/13,2013-1-01
+Mwanza,Nyamagana,Nyamagana,-2.51835,32.90043,Commercial Bank,Standard Chartered Bank (Tanzania) Limited,Yes,10/01/08,2008-1-01
+Arusha,Arusha,Kati,-3.37247,36.69276,Commercial Bank,Standard Chartered Bank (Tanzania) Limited,Yes,19/12/08,2008-12-01
+Kilimanjaro,Moshi Urban,Mawenzi,-3.34941,37.34157,Commercial Bank,Standard Chartered Bank (Tanzania) Limited,Yes,11/10/04,2004-10-01
+Dar es Salaam,Ilala,Kivukoni,-6.81865,39.28709,Commercial Bank,Tanzania Investment Bank,Yes,10/01/00,2000-1-01
+Dar es Salaam,Kinondoni,Kawe,-6.77532,39.21817,Commercial Bank,Tanzania Investment Bank,Yes,27/01/08,2008-1-01
+Arusha,Arusha,Kati,-3.37291,36.69303,Commercial Bank,Tanzania Investment Bank,No,12/10/06,2006-10-01
+Arusha,Arusha,Kati,-3.37284,36.6933,Commercial Bank,Tanzania Investment Bank,Yes,15/11/00,2000-11-01
+Mwanza,Magu,Magu Mjini,-2.52006,32.89972,Commercial Bank,Tanzania Investment Bank Limited,Yes,06/12/08,2008-12-01
+Manyara,Babati,Babati,-4.21416,35.74862,Commercial Bank,Tanzania Postal Bank,No,01/01/07,2007-1-01
+Iringa,Njombe,Njombe Mjini,-9.34155,34.76832,Commercial Bank,Tanzania Postal Bank,Yes,01/08/12,2012-8-01
+Rukwa,Sumbawanga Urban,Katandala,-7.96457,31.6156,Commercial Bank,Tanzania Postal Bank,No,07/01/09,2009-1-01
+Rukwa,Mpanda,Kashaulili,-6.34332,31.07407,Commercial Bank,Tanzania Postal Bank,Yes,15/09/11,2011-9-01
+Kigoma,Kigoma Urban,Kigoma town,-4.87856,29.62983,Commercial Bank,Tanzania Postal Bank,Yes,29/09/12,2012-9-01
+Pwani,Rufiji,Ikwiriri,-7.95037,38.98457,Commercial Bank,Tanzania Postal Bank,No,23/11/94,1994-11-01
+Lindi,Nachingwea,Nambambo,-10.36065,38.76135,Commercial Bank,Tanzania Postal Bank,Yes,01/08/12,2012-8-01
+Dar es Salaam,Temeke,Charambe,-6.93482,39.24741,Commercial Bank,Tanzania Postal Bank,Yes,08/06/13,2013-6-01
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.35479,37.33935,Commercial Bank,Tanzania Postal Bank,Yes,17/06/98,1998-6-01
+Dar es Salaam,Temeke,Mbagala,-6.91512,39.27305,Commercial Bank,Tanzania Postal Bank,No,18/11/13,2013-11-01
+Kilimanjaro,Moshi Urban,Bondeni,-3.34677,37.34522,Commercial Bank,Tanzania Postal Bank,Yes,05/06/85,1985-6-01
+Mbeya,Mbozi,Tunduma,-9.31235,32.76393,Commercial Bank,Tanzania Postal Bank,Yes,25/04/12,2012-4-01
+Dar es Salaam,Temeke,Mbagala,-6.91473,39.26055,Commercial Bank,Tanzania Postal Bank,Yes,07/12/13,2013-12-01
+Lindi,Lindi Urban,Makonde,-9.99718,39.71704,Commercial Bank,Tanzania Postal Bank,Yes,01/01/70,1970-1-01
+Dar es Salaam,Temeke,Mbagala,-6.90597,39.2853,Commercial Bank,Tanzania Postal Bank,Yes,15/08/13,2013-8-01
+Dar es Salaam,Temeke,Temeke,-6.86508,39.2671,Commercial Bank,Tanzania Postal Bank,No,27/05/95,1995-5-01
+Dar es Salaam,Ilala,Buguruni,-6.83712,39.24501,Commercial Bank,Tanzania Postal Bank,No,07/11/13,2013-11-01
+Dar es Salaam,Ilala,Kariakoo,-6.82137,39.27311,Commercial Bank,Tanzania Postal Bank,Yes,17/01/08,2008-1-01
+Dar es Salaam,Ilala,Kisutu,-6.81852,39.28951,Commercial Bank,Tanzania Postal Bank,Yes,01/01/10,2010-1-01
+Mwanza,Nyamagana,Nyamagana,-2.52939,32.90746,Commercial Bank,Tanzania Postal bank,No,18/01/10,2010-1-01
+Dar es Salaam,Ilala,Kivukoni,-6.81844,39.28752,Commercial Bank,Tanzania Postal Bank,No,10/08/98,1998-8-01
+Dar es Salaam,Ilala,Kivukoni,-6.816,39.28949,Commercial Bank,Tanzania Postal Bank,No,03/06/05,2005-6-01
+Dar es Salaam,Ilala,Kariakoo,-6.81566,39.27687,Commercial Bank,Tanzania Postal Bank,Yes,18/12/13,2013-12-01
+Dar es Salaam,Ilala,Kivukoni,-6.8143,39.2873,Commercial Bank,Tanzania Postal Bank,No,28/02/77,1977-2-01
+Dar es Salaam,Kinondoni,Manzese,-6.79801,39.22897,Commercial Bank,Tanzania Postal Bank,Yes,01/01/09,2009-1-01
+Tabora,Tabora Urban,Kanyenye,-5.02292,32.80934,Commercial Bank,Tanzania Postal Bank,Yes,23/04/02,2002-4-01
+Dar es Salaam,Kinondoni,Ubungo,-6.79463,39.21464,Commercial Bank,Tanzania Postal Bank,Yes,09/02/05,2005-2-01
+Iringa,Njombe,Makambako,-8.84419,34.82428,Commercial Bank,Tanzania Postal Bank,Yes,03/06/12,2012-6-01
+Dodoma,Dodoma Urban,Viwandani,-6.18134,35.74884,Commercial Bank,Tanzania Postal Bank,No,17/10/99,1999-10-01
+Dar es Salaam,Kinondoni,Kunduchi,-6.66493,39.18633,Commercial Bank,Tanzania Postal Bank,No,02/10/99,1999-10-01
+Pwani,Bagamoyo,Dunda,-6.44655,38.90876,Commercial Bank,Tanzania Postal Bank,Yes,01/01/70,1970-1-01
+Mwanza,Nyamagana,Nyamagana,-2.52424,32.90055,Commercial Bank,Tanzania Postal Bank,No,09/02/07,2007-2-01
+Ruvuma,Songea Urban,Songea Mjini,-10.67941,35.6515,Commercial Bank,Tanzania Postal Bank,Yes,04/02/14,2014-2-01
+Kagera,Bukoba Urban,Mimbeni,-1.32979,31.81142,Commercial Bank,Tanzania Postal Bank,No,04/05/00,2000-5-01
+Lindi,Kilwa,Masoko,-8.93525,39.51085,Commercial Bank,Tanzania Postal Bank,Yes,07/01/70,1970-1-01
+Mwanza,Magu,Magu Mjini,-2.52242,32.90387,Commercial Bank,Tanzania Postal Bank,Yes,24/01/01,2001-1-01
+Morogoro,Morogoro Urban,Boma,-6.82758,37.66337,Commercial Bank,Tanzania Postal Bank,No,25/01/13,2013-1-01
+Arusha,Arusha,Kati,-3.37448,36.6829,Commercial Bank,Tanzania Postal Bank,Yes,08/01/11,2011-1-01
+Dar es Salaam,Ilala,Kivukoni,-6.8186,39.28956,Commercial Bank,Tanzania Womans Bank ,Yes,20/02/14,2014-2-01
+Mwanza,Nyamagana,Nyamagana,-2.51977,32.89706,Commercial Bank,TANZANIA WOMEN'S BANK PUBLIC LIMITED COMPANY,No,11/05/11,2011-5-01
+Dar es Salaam,Kinondoni,Mbezi,-6.82369,39.27198,Commercial Bank,TANZANIA WOMEN'S BANK PUBLIC LIMITED COMPANY,Yes,19/10/05,2005-10-01
+Dar es Salaam,Ilala,Kivukoni,-6.81823,39.28901,Commercial Bank,TANZANIA WOMEN'S BANK PUBLIC LIMITED COMPANY,Yes,03/01/10,2010-1-01
+Shinyanga,Shinyanga Urban,Kambarage,-3.66953,33.42327,Commercial Bank,Tanzanian Postal Bank,No,02/12/13,2013-12-01
+Dodoma,Dodoma Urban,Nzuguni,-6.14351,35.83026,Commercial Bank,TIB Development Bank,No,03/08/09,2009-8-01
+Mbeya,Mbeya Urban,Sisimba,-8.89626,33.44148,Commercial Bank,TIB Development Bank - Tanzania,Yes,20/07/12,2012-7-01
+Arusha,Arusha,Kati,-3.37403,36.68771,Commercial Bank,Tiwga BanCorp ,Yes,17/11/08,2008-11-01
+Mwanza,Nyamagana,Nyamagana,-2.51855,32.90237,Commercial Bank,Twiga Bancorp,Yes,18/01/11,2011-1-01
+Dodoma,Dodoma Urban,Madukani,-6.17927,35.74337,Commercial Bank,Twiga Bancorp,Yes,01/11/12,2012-11-01
+Dar es Salaam,Temeke,Kigamboni,-6.82432,39.30201,Commercial Bank,Twiga Bancorp,Yes,01/01/12,2012-1-01
+Dar es Salaam,Ilala,Kisutu,-6.816,39.28796,Commercial Bank,UBL Bank (Tanzania) Limited,No,01/01/13,2013-1-01
+Dar es Salaam,Temeke,Chang'ombe,-6.84101,39.25117,Commercial Bank,United Bank for Africa (Tanzania) Limited,No,20/02/08,2008-2-01
+Dar es Salaam,Ilala,Kariakoo,-6.81852,39.27305,Commercial Bank,United Bank for Africa (Tanzania) Limited,Yes,20/12/13,2013-12-01
+Dar es Salaam,Ilala,Kisutu,-6.81981,39.28582,Community Bank,Dar es Salaam Community Bank,Yes,13/10/13,2013-10-01
+Dar es Salaam,Ilala,Kisutu,-6.81937,39.28205,Community Bank,Dar es Salaam Community Bank,No,26/02/13,2013-2-01
+Dar es Salaam,Ilala,Kisutu,-6.81745,39.28106,Community Bank,Dar es Salaam Community Bank,No,05/06/13,2013-6-01
+Dar es Salaam,Ilala,Tabata,-6.82772,39.21165,Community Bank,Dar es Salaam Community Bank,Yes,02/10/14,2014-10-01
+Dar es Salaam,Ilala,Segerea,-6.84579,39.21415,Community Bank,Dar es Salaam Community Bank,Yes,07/10/13,2013-10-01
+Dar es Salaam,Ilala,Segerea,-6.84386,39.21177,Community Bank,Dar es Salaam Community Bank,Yes,08/08/13,2013-8-01
+Dar es Salaam,Temeke,Charambe,-6.92506,39.25129,Community Bank,Dar es Salaam Community Bank,Yes,08/10/13,2013-10-01
+Dar es Salaam,Ilala,Segerea,-6.82746,39.19835,Community Bank,Dar es Salaam Community Bank,Yes,17/10/13,2013-10-01
+Dar es Salaam,Ilala,Segerea,-6.82623,39.19569,Community Bank,Dar es Salaam Community Bank,Yes,20/09/13,2013-9-01
+Dar es Salaam,Ilala,Tabata,-6.8212,39.22741,Community Bank,Dar es Salaam Community Bank,Yes,24/10/13,2013-10-01
+Dar es Salaam,Ilala,Segerea,-6.82568,39.201,Community Bank,Dar es Salaam Community Bank,Yes,27/10/13,2013-10-01
+Dar es Salaam,Temeke,Toangoma,-6.9492,39.28131,Community Bank,Dar es Salaam Community Bank,Yes,15/12/13,2013-12-01
+Dar es Salaam,Ilala,Kisutu,-6.81727,39.28107,Community Bank,Dar es Salaam Community Bank,No,12/08/13,2013-8-01
+Dar es Salaam,Ilala,Segerea,-6.8265,39.21543,Community Bank,Dar es Salaam Community Bank,Yes,18/08/07,2007-8-01
+Dar es Salaam,Ilala,Kariakoo,-6.81896,39.28031,Community Bank,Dar es Salaam Community Bank,Yes,19/12/13,2013-12-01
+Dar es Salaam,Ilala,Kisutu,-6.81806,39.28016,Community Bank,Dar es Salaam Community Bank,Yes,25/06/10,2010-6-01
+Dar es Salaam,Ilala,Kisutu,-6.81895,39.27997,Community Bank,Dar es Salaam Community Bank,Yes,07/01/08,2008-1-01
+Dar es Salaam,Ilala,Segerea,-6.82752,39.19862,Community Bank,Dar es Salaam Community Bank,Yes,05/11/12,2012-11-01
+Dar es Salaam,Ilala,Segerea,-6.82754,39.21123,Community Bank,Dar es Salaam Community Bank,Yes,12/12/13,2013-12-01
+Dar es Salaam,Kinondoni,Magomeni,-6.80458,39.2522,Community Bank,Dar es Salaam Community Bank,Yes,10/04/10,2010-4-01
+Dar es Salaam,Ilala,Tabata,-6.8153,39.22,Community Bank,Dar es Salaam Community Bank,Yes,22/01/14,2014-1-01
+Kagera,Bukoba Urban,Birere,-1.33703,31.81703,Community Bank,Kagera Farmers Co-operative Bank,No,06/09/04,2004-9-01
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.35122,37.34267,Community Bank,Kilimanjaro Cooperative Bank,Yes,15/09/09,2009-9-01
+Dar es Salaam,Ilala,Kivukoni,-6.81761,39.29234,Community Bank,Maendeleo Community Bank,No,05/08/13,2013-8-01
+Pwani,Mafia,Kilindoni,-7.91269,39.66207,Community Bank,Mafia Community Bank,No,23/07/13,2013-7-01
+Ruvuma,Songea Urban,Songea Mjini,-10.67845,35.64959,Community Bank,Mbinga Community Bank,Yes,05/08/00,2000-8-01
+Ruvuma,Mbinga,Mbinga Urban,-10.95148,35.00051,Community Bank,Mbinga Community Bank,Yes,07/11/07,2007-11-01
+Arusha,Arumeru,Usa River,-3.37316,36.84859,Community Bank,Meru Community Bank Limited,No,25/10/11,2011-10-01
+Iringa,Mufindi,Mafinga,-8.30163,35.29572,Community Bank,Mufindi Community Bank,Yes,24/09/99,1999-9-01
+Kilimanjaro,Mwanga,Mwanga,-3.65704,37.59048,Community Bank,Mwanga Rural Community Bank,Yes,02/10/99,1999-10-01
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.3463,37.34505,Community Bank,Mwanga Rural Community Bank,Yes,02/11/12,2012-11-01
+Kilimanjaro,Same,Same Mjini,-4.06781,37.7411,Community Bank,Mwanga Rural Community Bank,Yes,03/12/12,2012-12-01
+Iringa,Njombe,Makambako,-8.84617,34.8216,Community Bank,Njombe Community Bank,No,01/05/05,2005-5-01
+Iringa,Njombe,Njombe Mjini,-9.33645,34.76739,Community Bank,Njombe Community Bank,No,28/02/12,2012-2-01
+Iringa,Makete,Lupalilo,-9.25801,34.08937,Community Bank,Njombe Community Bank,Yes,27/10/11,2011-10-01
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35117,37.34171,Community Bank,Uchumi Community Bank,Yes,22/09/05,2005-9-01
+Kilimanjaro,Hai,Machame Kusini,-3.21435,37.22197,Community Bank,Village Community Bank (VICOBA),Yes,08/10/04,2004-10-01

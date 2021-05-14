@@ -1,0 +1,976 @@
+region,district,ward,latitude,longitude,onsite_offsite,bank_type,bank_name,bank_name_short,yr_operation_started,number_atms,services_deposits,services_withdrawls,services_bill_payment,services_buy_airtime,other_services,visa_mastercard,umoja_nmb
+Dar es Salaam,Ilala,Kariakoo,-6.82175,39.28,On-site,Commercial Bank ATM,Accessbank (Tanzania) Limited,Access,11/12/2003,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.81967,39.27322,On-site,UMOJA SWITCH ATM,Accessbank (Tanzania) Limited,Access,09/01/2014,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Manzese,-6.80376,39.26055,On-site,Commercial Bank ATM,Accessbank (Tanzania) Limited,Access,07/05/2010,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Makumbusho,-6.77668,39.24587,On-site,Commercial Bank ATM,Accessbank (Tanzania) Limited,Access,17/11/2011,1,,Yes,,,,Mastercard, 
+Tabora,Tabora Urban,Kanyenye,-5.02275,32.80941,On-site,Commercial Bank ATM,Accessbank (Tanzania) Limited,Access,18/12/2013,2,Yes,Yes,Yes,Yes,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.8195,39.27768,On-site,Commercial Bank ATM,Advans Bank (Tanzania) Limited,Advans,11/08/2009,1,,Yes,,,,Both, 
+Arusha,Arusha,Baraa,-6.77025,39.26077,On-site,Commercial Bank ATM,Advans Bank (Tanzania) Limited,Advans,05/10/2013,1,Yes,,,,,Mastercard, 
+Arusha,Arusha,Kati,-3.37269,36.68863,On-site,Commercial Bank ATM,African Banking Corporation (Tanzania) Limited,African Banking Corp,16/04/2012,2,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Ukonga,-6.87068,39.19028,On-site,Commercial Bank ATM,Akiba Commercial Bank Limited,Akiba,28/08/1996,1,Yes,Yes,Yes,Yes,,Both, 
+Dar es Salaam,Ilala,Ilala,-6.83579,39.24499,On-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,06/09/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82791,39.26804,On-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,12/09/2009,1,Yes,Yes,Yes,Yes,,VISA, 
+Dar es Salaam,Ilala,Kariakoo,-6.82401,39.27281,On-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,10/12/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82246,39.2752,On-site,Commercial Bank ATM,Akiba Commercial Bank Limited,Akiba,28/06/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kinondoni,-6.79012,39.2647,On-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,20/02/2010,1,,Yes,,,,VISA, 
+Arusha,Arusha,Kaloleni,-3.36176,36.68451,On-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,24/07/2010,1,Yes,,Yes,Yes,,VISA, 
+Dar es Salaam,Ilala,Kariakoo,-6.81804,39.27869,On-site,Commercial Bank ATM,Amana Bank Limited,Amana,01/05/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82226,39.2733,On-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,30/10/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kimara,-6.79147,39.14871,On-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,11/03/2008,1,,Yes,,,,Both, 
+Mwanza,Geita,Kalangala,-2.87066,32.23779,On-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,17/01/2008,2,Yes,,,,,VISA, 
+Mwanza,Ilemela,Kirumba,-2.50632,32.89476,On-site,Commercial Bank ATM,Azania Bank Limited,Azania,27/03/2010,1,,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83954,39.25581,On-site,Commercial Bank ATM,Banc ABC,BancABC,22/06/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81045,39.28679,On-site,Commercial Bank ATM,Banc ABC,BancABC,01/01/2014,2,,Yes,Yes,Yes,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81731,39.29438,On-site,Commercial Bank ATM,BancABC,BancABC,15/01/2006,1,,Yes,Yes,Yes,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.81657,39.27462,On-site,Commercial Bank ATM,BancABC,BancABC,10/12/2013,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kariakoo,-6.82281,39.27608,On-site,Commercial Bank ATM,Bank M (Tanzania) Limited,Bank M,10/03/2012,1,,Yes,,,,Both, 
+Mtwara,Mtwara Urban,Railway,-10.26701,40.18717,On-site,Commercial Bank ATM,Bank of Africa (Tanzania) Limited,BoA,10/09/2013,1,,Yes,Yes,Yes,,Mastercard, 
+Dar es Salaam,Ilala,Vingunguti,-6.84492,39.24294,On-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,15/09/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82766,39.25904,On-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,12/12/2003,1,,Yes,,,,Both, 
+Morogoro,Morogoro Urban,Mji Kuu,-6.82751,37.66355,On-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,09/11/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82278,39.27469,On-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,10/10/2005,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.81932,39.27343,On-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,05/09/2012,1,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37289,36.69424,On-site,Commercial Bank ATM,Bank of Africa (Tanzania) Limited,BoA,11/12/2012,1,,Yes,,,,VISA, 
+Mbeya,Mbeya Urban,Sisimba,-8.89431,33.44173,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,23/05/2008,1,,Yes,Yes,Yes,,Mastercard, 
+Iringa,Iringa Urban,Gangilonga,-7.77703,35.69863,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,01/07/2008,1,Yes,Yes,Yes,,,Both, 
+Dar es Salaam,Ilala,Ilala,-6.83116,39.24915,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,17/02/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82127,39.27911,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,08/04/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.81821,39.27731,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,06/12/2013,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kisutu,-6.81147,39.28751,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,06/01/2007,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kinondoni,-6.79015,39.27151,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,16/12/2012,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Msasani,-6.7477,39.28415,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,28/01/2008,1,,Yes,,,,VISA, 
+Dodoma,Dodoma Urban,Madukani,-6.18111,35.74444,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,20/02/2009,1,,Yes,Yes,,,Both, 
+Zanzibar,Zanzibar,Welezo,-6.16427,39.19378,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,27/06/2007,1,,Yes,,,,Mastercard, 
+Kilimanjaro,Moshi Urban,Bondeni,-3.35661,37.33954,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,14/09/2003,1,,Yes,Yes,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.52232,32.90417,On-site,Community Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,05/02/2010,1,Yes,,,,,Mastercard, 
+Mbeya,Mbozi,Vwawa,-9.10913,32.93277,On-site,Commercial Bank ATM,Commercial Bank of Africa (Tanzania) Limited,CBA,15/05/2008,1,,Yes,Yes,Yes,,Mastercard, 
+Mbeya,Mbeya Urban,Iyela,-8.91212,33.46879,On-site,Commercial Bank ATM,Commercial Bank of Africa (Tanzania) Limited,CBA,01/03/2014,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Ilala,-6.82637,39.26395,On-site,Commercial Bank ATM,Commercial Bank of Africa (Tanzania) Limited,CBA,28/04/2004,1,,,,Yes,,VISA, 
+Dar es Salaam,Ilala,Kariakoo,-6.81999,39.27678,On-site,Commercial Bank ATM,Commercial Bank of Africa (Tanzania) Limited,CBA,06/12/2013,1,,Yes,,,,Mastercard, 
+Ruvuma,Mbinga,Mbinga Urban,-10.94787,34.99121,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/09/2011,1,,Yes,,,,Both, 
+Ruvuma,Songea Urban,Songea Mjini,-10.67832,35.65321,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,25/03/2001,2,,Yes,,,,Both, 
+Lindi,Nachingwea,Nambambo,-10.36053,38.7614,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/11/2013,1,Yes,Yes,,,,Both, 
+Mbeya,Kyela,Katumba Songwe,-9.5874,33.77722,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,24/11/2012,1,Yes,Yes,,,,Both, 
+Mbeya,Mbozi,Tunduma,-9.31495,32.76371,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,15/11/2012,1,Yes,Yes,Yes,Yes,,VISA, 
+Mbeya,Mbeya Rural,Utengule Usongwe,-8.93592,33.35063,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/12/2010,1,,Yes,Yes,Yes,,Mastercard, 
+Mbeya,Mbeya Urban,Maanga,-8.91148,33.45752,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/02/2011,4,Yes,Yes,Yes,Yes,,Both, 
+Mbeya,Mbeya Urban,Sisimba,-8.89168,33.44585,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/07/2005,2,,Yes,Yes,Yes,,VISA, 
+Iringa,Njombe,Makambako,-8.85657,34.82475,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,25/10/2011,1,Yes,Yes,Yes,Yes,,Both, 
+Morogoro,Kilombero,Ifakara,-8.09647,36.68008,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,22/09/2013,3,,Yes,,,,Mastercard, 
+Rukwa,Sumbawanga Urban,Katandala,-7.96715,31.6167,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/12/2011,2,,Yes,,,,Mastercard, 
+Iringa,Iringa Urban,Mkwawa,-7.76266,35.68402,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,25/10/2008,1,,Yes,,,,Both, 
+Morogoro,Kilombero,Kidatu,-7.66271,36.98849,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/07/2011,2,,Yes,Yes,,,Both, 
+Morogoro,Mvomero,Mzumbe,-6.92742,37.56951,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,30/01/2002,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Mbagala,-6.9157,39.2702,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,12/10/2009,2,,Yes,,,,VISA, 
+Morogoro,Morogoro Urban,Mbuyuni,-6.85167,37.65849,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,29/09/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Tabata,-6.84645,39.18691,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,26/07/2009,2,,Yes,,Yes,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.8396,39.25584,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/01/2013,3,,Yes,Yes,Yes,,Both, 
+Dar es Salaam,Ilala,Segerea,-6.83627,39.21547,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,19/02/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Chang'ombe,-6.8348,39.26475,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,28/11/2009,1,Yes,,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82806,39.27487,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,11/12/2009,2,,Yes,,,,Mastercard, 
+Morogoro,Morogoro Urban,Boma,-6.82738,37.66692,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/02/2002,1,,Yes,,,,Both, 
+Morogoro,Morogoro Urban,Kingo,-6.82696,37.66779,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/07/2002,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.8265,39.26977,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,12/12/2008,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Gerezani,-6.82577,39.2832,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,06/01/2009,1,,Yes,Yes,Yes,,Both, 
+Morogoro,Morogoro Urban,Sabasaba,-6.82437,37.66286,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,23/01/2010,3,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.8226,39.28034,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,09/05/2000,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82228,39.27753,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,04/03/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.81977,39.27984,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/07/2010,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kariakoo,-6.81873,39.27511,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,13/06/2013,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kariakoo,-6.81683,39.27816,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,12/12/2002,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79639,39.21927,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/01/2012,2,Yes,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Mbezi,-6.78739,39.11272,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,09/04/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.78066,39.20148,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,25/01/2009,2,Yes,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77516,39.24428,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,28/06/1995,4,Yes,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.77422,39.23429,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/05/2010,1,,Yes,,Yes,,VISA, 
+Dar es Salaam,Kinondoni,Kawe,-6.73601,39.22447,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,03/10/2013,1,,Yes,Yes,,,Both, 
+Dar es Salaam,Kinondoni,Bunju,-6.65773,39.18037,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,26/06/2012,3,Yes,Yes,Yes,,,Both, 
+Pwani,Bagamoyo,Dunda,-6.44437,38.90786,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,14/11/2011,1,,Yes,Yes,Yes,,VISA, 
+Dodoma,Mpwapwa,Mpwapwa Mjini,-6.34631,36.48615,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,23/11/2012,1,,Yes,Yes,Yes,,Both, 
+Rukwa,Mpanda,Kashaulili,-6.34471,31.0701,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,17/08/2011,1,,Yes,Yes,Yes,,Both, 
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.22139,35.81074,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,22/11/2009,2,,Yes,Yes,Yes,,Both, 
+Dodoma,Dodoma Urban,Madukani,-6.18151,35.74556,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,29/05/2013,2,,Yes,Yes,Yes,,Both, 
+Dodoma,Dodoma Urban,Viwandani,-6.17874,35.74674,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,13/01/2003,3,,Yes,Yes,Yes,,Both, 
+Dodoma,Dodoma Urban,Makole,-6.1747,35.76251,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,10/08/2008,1,,Yes,Yes,Yes,,Both, 
+Zanzibar,Zanzibar,Fuoni Kibondeni,-6.16354,39.19135,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,17/08/2008,1,,Yes,,,,Both, 
+Singida,Manyoni,Manyoni,-5.74858,34.83866,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,27/05/2013,1,Yes,Yes,,,,Both, 
+Tanga,Korogwe,Korogwe,-5.15818,38.44875,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,02/04/2008,1,,Yes,Yes,Yes,,Mastercard, 
+Tabora,Urambo,Urambo,-5.07654,32.07137,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/05/2012,2,Yes,Yes,Yes,Yes,,Both, 
+Tabora,Tabora Urban,Mbugani,-5.01321,32.7866,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,06/10/2013,1,,Yes,Yes,Yes,,Mastercard, 
+Dodoma,Kondoa,Kondoa Mjini,-4.90997,35.79095,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,02/01/2013,1,Yes,Yes,Yes,Yes,,Mastercard, 
+Singida,Singida Urban,Majengo,-4.81776,34.75284,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,15/05/2009,2,,Yes,,,,Both, 
+Singida,Iramba,Kiomboi,-4.28178,34.40744,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,25/05/2013,1,Yes,Yes,Yes,,,Both, 
+Shinyanga,Kahama,Kahama Mjini,-3.82758,32.59603,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,10/05/2002,2,,Yes,,,,Both, 
+Kilimanjaro,Mwanga,Mwanga,-3.65637,37.58802,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,10/08/2005,1,Yes,Yes,Yes,Yes,,VISA, 
+Arusha,Arusha,Kati,-3.37549,36.6776,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,27/06/2012,4,,Yes,,,,VISA, 
+Arusha,Arumeru,Usa River,-3.37318,36.84752,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/10/2011,3,,Yes,Yes,Yes,,Both, 
+Arusha,Arusha,Kati,-3.37211,36.69461,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,13/01/1999,5,,Yes,Yes,Yes,,VISA, 
+Arusha,Arusha,Kati,-3.37133,36.69511,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,16/11/1994,4,Yes,,Yes,Yes,,Both, 
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34926,37.34366,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/02/1996,3,,Yes,,,,VISA, 
+Arusha,Arumeru,Kimnyaki,-3.32034,36.63641,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,10/07/2013,1,,Yes,Yes,Yes,,Both, 
+Mwanza,Geita,Kalangala,-2.8753,32.22541,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,19/09/2008,2,Yes,,,,,VISA, 
+Shinyanga,Bariadi,Bariadi,-2.80544,33.98532,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,02/02/2014,2,,Yes,Yes,Yes,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.6013,32.90017,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,23/06/2011,3,Yes,,,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.52932,32.90742,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,12/01/2009,3,Yes,,,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.51822,32.89824,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,13/11/2003,1,Yes,,,,,Mastercard, 
+Mwanza,Nyamagana,Nyamagana,-2.51819,32.89821,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/01/2009,1,Yes,,,,,Mastercard, 
+Mwanza,Ilemela,Kirumba,-2.5098,32.90298,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,23/03/2007,1,,Yes,,,,Both, 
+Mwanza,Ilemela,Kirumba,-2.50631,32.89493,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,24/06/2011,1,,Yes,,,,Both, 
+Mara,Bunda,Bunda,-2.02026,33.87076,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,16/02/2013,1,,Yes,,,,Both, 
+Mara,Tarime,Tarime,-1.50859,33.80649,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/06/2009,1,,Yes,,,,VISA, 
+Mara,Musoma Urban,Nyasho,-1.50711,33.80631,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,19/05/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Magomeni,-6.80549,39.25249,On-site,UMOJA SWITCH ATM,DCB Commercial Bank Plc,DCB,10/05/2011,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83496,39.26451,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,23/08/2010,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kariakoo,-6.81905,39.27976,On-site,UMOJA SWITCH ATM,DCB Commercial Bank Plc,DCB,06/09/2009,1,,Yes,,,,Both, 
+Mbeya,Mbeya Urban,Sisimba,-8.89394,33.44162,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,17/11/2011,1,Yes,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Mbagala,-6.90627,39.2688,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,26/03/2012,1,,Yes,,,,VISA, 
+Morogoro,Morogoro Urban,Kingo,-6.82637,37.66444,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,03/01/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81861,39.28392,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,08/08/2012,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.81514,39.27504,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,30/03/2008,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Kinondoni,Kinondoni,-6.77759,39.26626,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,20/11/2011,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Mbezi,-6.72536,39.21444,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,10/12/2012,1,,Yes,,,,Both, 
+Zanzibar,Zanzibar,Fuoni Kibondeni,-6.16176,39.1891,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,11/04/2011,1,,Yes,,,,Both, 
+Tabora,Tabora Urban,Mbugani,-5.01861,32.80279,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,02/10/2013,1,Yes,Yes,Yes,Yes,,Both, 
+Kilimanjaro,Moshi Urban,Bondeni,-3.34802,37.34447,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,03/02/2013,1,,Yes,,,,VISA, 
+Mwanza,Nyamagana,Nyamanoro,-2.52039,32.89914,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,15/07/2010,1,,Yes,,,,Both, 
+Mbeya,Mbeya Urban,Iyela,-8.91293,33.47025,On-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,15/10/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82127,39.27306,On-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,07/09/2010,1,,Yes,,,,Both, 
+Manyara,Babati,Babati,-4.21365,35.74908,On-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,10/12/2012,1,,Yes,,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.51917,32.89867,On-site,Commercial Bank ATM,Equity bank (Tanzania) Limited,Equity,20/12/2012,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kariakoo,-6.82311,39.27527,On-site,Commercial Bank ATM,Equity bank (Tanzania) Limited,Equity,01/04/2011,1,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37356,36.68552,On-site,Commercial Bank ATM,Equity bank (Tanzania) Limited,Equity,15/07/2010,2,,Yes,,,,VISA, 
+Mtwara,Mtwara Urban,Shangani,-10.27963,40.18078,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,05/02/2000,1,,Yes,,Yes,,Both, 
+Dar es Salaam,Ilala,Kipawa,-6.86312,39.20597,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,15/10/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Buguruni,-6.83844,39.24374,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,10/07/2008,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Buguruni,-6.83806,39.24351,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,30/12/2002,1,,Yes,Yes,Yes,,VISA, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83708,39.25937,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,16/09/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Buguruni,-6.83403,39.2473,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,03/12/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82735,39.27593,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,11/12/2001,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Ilala,-6.8271,39.26487,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,10/09/2010,1,,Yes,,,,Mastercard, 
+Morogoro,Morogoro Urban,Sabasaba,-6.82641,37.66429,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,18/08/2008,1,,Yes,,,,Both, 
+Morogoro,Morogoro Urban,Sabasaba,-6.82615,37.66424,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,27/02/2014,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kisutu,-6.82067,39.28462,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,01/05/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.81608,39.27803,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,06/03/2001,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81438,39.29228,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,15/08/1998,2,,Yes,Yes,Yes,,Both, 
+Dar es Salaam,Kinondoni,Manzese,-6.79649,39.21948,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,24/04/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.76596,39.25982,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,19/09/2009,1,,Yes,Yes,Yes,,Both, 
+Zanzibar,Zanzibar,Mwera,-6.16188,39.1991,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,29/07/2011,1,,Yes,,,,Both, 
+Tanga,Tanga,Central,-5.07031,39.10558,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,02/05/2006,1,,Yes,,,,Mastercard, 
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.6712,33.42819,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,09/12/2011,1,,Yes,,,,Both, 
+Arusha,Arusha,Ngarenaro,-3.37499,36.67888,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,07/09/2011,1,,Yes,,,,Both, 
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.3481,37.34095,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,16/01/2005,1,,Yes,,,,Both, 
+Arusha,Karatu,Karatu,-3.3389,35.6796,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,22/11/2008,1,,Yes,Yes,Yes,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.60761,32.93232,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,19/01/2009,1,Yes,,,,,Both, 
+Zanzibar,Zanzibar,Welezo,-6.16531,39.19464,On-site,Commercial Bank ATM,FBME Bank (Tanzania) Limited,FBME,06/05/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83952,39.25589,On-site,Commercial Bank ATM,First National Bank (Tanzania) Limited,First National,28/10/2011,2,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kariakoo,-6.82615,39.27845,On-site,Commercial Bank ATM,Habib African Bank Limited,Habib African,08/05/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82351,39.27913,On-site,Commercial Bank ATM,Habib African Bank Limited,Habib African,05/07/1995,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Upanga East,-6.81304,39.27713,On-site,Commercial Bank ATM,International Commercial Bank (Tanzania) Limited,International Commercial,06/01/2006,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.8172,39.27839,On-site,Commercial Bank ATM,International Commercial Bank (Tanzania) Limited,International Commercial,10/06/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.76953,39.26337,On-site,Commercial Bank ATM,International Commercial Bank (Tanzania) Limited,International Commercial,20/05/2010,1,,Yes,,,,Mastercard, 
+Morogoro,Morogoro Urban,Boma,-6.82987,37.66493,On-site,Commercial Bank ATM,KCB Bank (Tanzania) Limited,KCB,25/01/2009,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kariakoo,-6.82361,39.27927,On-site,Commercial Bank ATM,KCB Bank (Tanzania) Limited,KCB,11/07/2005,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82152,39.27252,On-site,Commercial Bank ATM,KCB Bank (Tanzania) Limited,KCB,10/11/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.8194,39.27919,On-site,Commercial Bank ATM,KCB Bank (Tanzania) Limited,KCB,12/08/2011,1,,Yes,,,,Both, 
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34851,37.34202,On-site,Commercial Bank ATM,KCB Bank (Tanzania) Limited,KCB,15/02/2010,1,,Yes,,,,VISA, 
+Mwanza,Nyamagana,Nyamagana,-2.51857,32.89851,On-site,Commercial Bank ATM,KCB Bank (Tanzania) Limited,KCB,05/07/2000,1,Yes,,,,,VISA, 
+Dar es Salaam,Ilala,Kariakoo,-6.82357,39.27223,On-site,UMOJA SWITCH ATM,Mkombozi Commercial Bank Plc,Mkombozi Commercial Plc,24/03/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Ilala,-6.82338,39.25992,On-site,UMOJA SWITCH ATM,Mkombozi Commercial Bank Plc,Mkombozi Commercial Plc,03/01/2013,1,,Yes,,,,Both, 
+Mwanza,Ilemela,Nyakato,-2.51763,32.89889,On-site,Commercial Bank ATM,Mkombozi Commercial Bank Plc,Mkombozi Commercial Plc,26/02/2012,1,,Yes,,,,Both, 
+Mtwara,Tandahimba,Tandahimba,-10.76841,39.63179,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/01/1995,1,,Yes,Yes,Yes,,Both,NMB Bank Card
+Mtwara,Masasi,Masasi,-10.72288,38.81641,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,30/05/1997,2,,Yes,Yes,Yes,,VISA,NMB Bank Card
+Lindi,Nachingwea,Nambambo,-10.3624,38.76111,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,02/01/2009,2,Yes,Yes,,,,Both,NMB Bank Card
+Lindi,Lindi Urban,Makonde,-9.99815,39.71533,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/02/1997,2,Yes,Yes,,,,Both,NMB Bank Card
+Mbeya,Kyela,Kyela Mjini,-9.60426,33.87125,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,21/12/1999,2,,Yes,,,,Both,NMB Bank Card
+Iringa,Njombe,Njombe Mjini,-9.33128,34.7682,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,08/11/2007,1,,Yes,,Yes,,Both,NMB Bank Card
+Mbeya,Mbozi,Tunduma,-9.31202,32.76568,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,21/07/2006,2,,Yes,Yes,Yes,,Both,NMB Bank Card
+Mbeya,Mbozi,Vwawa,-9.11135,32.9332,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/07/2005,2,,Yes,Yes,Yes,,Both,NMB Bank Card
+Mbeya,Mbeya Rural,Utengule Usongwe,-8.93509,33.34227,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/08/2010,2,,Yes,Yes,Yes,,Both,NMB Bank Card
+Lindi,Kilwa,Masoko,-8.93046,39.51283,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,03/01/1995,2,Yes,Yes,,,,Both,NMB Bank Card
+Mbeya,Mbeya Urban,Sisimba,-8.89446,33.44079,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/07/2007,3,,Yes,,,,Both,NMB Bank Card
+Mbeya,Mbeya Urban,Sisimba,-8.89198,33.44306,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/07/2008,2,,Yes,Yes,Yes,,Both,NMB Bank Card
+Iringa,Njombe,Makambako,-8.8441,34.8233,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/08/2006,2,,Yes,Yes,Yes,,Both,NMB Bank Card
+Mbeya,Chunya,Itewe,-8.52404,33.4228,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,08/05/2003,2,,Yes,,,,Both,NMB Bank Card
+Morogoro,Kilombero,Ifakara,-8.13773,36.67975,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,18/09/2005,3,,Yes,,,,VISA,NMB Bank Card
+Rukwa,Sumbawanga Urban,Katandala,-7.96013,31.6109,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/06/2008,3,,Yes,,,,Both,NMB Bank Card
+Pwani,Rufiji,Kibiti,-7.72383,38.93874,On-site,UMOJA SWITCH ATM,National Microfinance Bank Plc,NMB,26/02/2004,1,,Yes,,,,Both,NMB Bank Card
+Morogoro,Kilombero,Kidatu,-7.66178,36.98775,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/05/2009,3,,Yes,Yes,Yes,,VISA,NMB Bank Card
+Rukwa,Nkansi,Namanyere,-7.50237,31.0397,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,28/08/2009,2,,Yes,Yes,Yes,,Both,NMB Bank Card
+Pwani,Kisarawe,Kisarawe,-6.90541,39.07387,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/01/1997,2,,Yes,Yes,,,Both,NMB Bank Card
+Dar es Salaam,Ilala,Ukonga,-6.8654,39.20173,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/05/2010,1,,Yes,,,,Both,NMB Bank Card
+Mtwara,Masasi,Mwena,-6.86232,39.20758,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,02/12/1993,3,,Yes,Yes,Yes,,VISA,NMB Bank Card
+Dar es Salaam,Ilala,Kariakoo,-6.83716,39.24495,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/10/2010,1,,Yes,,,,Mastercard,NMB Bank Card
+Dar es Salaam,Ilala,Segerea,-6.82777,39.20235,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,18/04/2010,1,,Yes,,,,VISA,NMB Bank Card
+Dar es Salaam,Ilala,Ilala,-6.82676,39.26466,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/09/2008,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Ilala,Ilala,-6.8263,39.26454,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,08/08/2009,1,,Yes,,,,Both,NMB Bank Card
+Morogoro,Morogoro Urban,Kingo,-6.82351,37.66289,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/12/2010,2,,Yes,,,,VISA,NMB Bank Card
+Dar es Salaam,Ilala,Kariakoo,-6.82063,39.2734,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,08/04/2012,2,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Ilala,Kariakoo,-6.81947,39.27772,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,06/12/2013,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Ilala,Kivukoni,-6.8174,39.29011,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/08/1985,3,,Yes,Yes,Yes,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Mwananyamala,-6.78766,39.2531,On-site,Community Bank ATM,National Microfinance Bank Plc,NMB,30/10/2008,1,,Yes,Yes,Yes,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77866,39.24693,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,14/02/2013,1,,Yes,,,,Mastercard,NMB Bank Card
+Dar es Salaam,Kinondoni,Sinza,-6.77736,39.22794,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,24/01/2014,1,,Yes,,,,VISA,NMB Bank Card
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77101,39.23045,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,25/04/2005,1,,Yes,,,,Mastercard,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.75376,39.22266,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,03/02/2008,1,,Yes,,,,Both,NMB Bank Card
+Pwani,Bagamoyo,Dunda,-6.4465,38.90784,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/10/1997,2,,Yes,Yes,Yes,,VISA,NMB Bank Card
+Dodoma,Mpwapwa,Mpwapwa Mjini,-6.34931,36.48761,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/04/2003,1,Yes,Yes,Yes,Yes,,Both,NMB Bank Card
+Rukwa,Mpanda,Kashaulili,-6.33942,31.07008,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,23/01/2008,2,,Yes,,,,Both,NMB Bank Card
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.22099,35.81016,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,28/06/2013,3,,Yes,,,,Both,NMB Bank Card
+Dodoma,Kongwa,Kongwa,-6.19741,36.41432,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,16/01/2009,2,Yes,Yes,Yes,Yes,,Both,NMB Bank Card
+Dodoma,Dodoma Urban,Viwandani,-6.17945,35.74683,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,03/09/2007,3,,Yes,Yes,Yes,,Both,NMB Bank Card
+Dodoma,Dodoma Urban,Madukani,-6.17909,35.74774,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,16/04/2011,1,,Yes,,,,Both,NMB Bank Card
+Singida,Manyoni,Manyoni,-5.74772,34.83773,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,25/05/2007,2,,Yes,,,,Both,NMB Bank Card
+Singida,Manyoni,Itigi,-5.69517,34.49945,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,20/10/2010,1,,Yes,,,,Both,NMB Bank Card
+Tabora,Sikonge,Sikonge,-5.61063,32.74508,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,08/09/2004,2,,Yes,Yes,Yes,,Both,NMB Bank Card
+Tabora,Tabora Urban,Kanyenye,-5.02167,32.80696,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,27/02/2003,4,,Yes,Yes,Yes,,Both,NMB Bank Card
+Dodoma,Kondoa,Kondoa Mjini,-4.90827,35.78942,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/01/2006,2,Yes,Yes,Yes,Yes,,Both,NMB Bank Card
+Kigoma,Kigoma Urban,Kigoma town,-4.88101,29.63157,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/01/1970,1,,Yes,,,,VISA,NMB Bank Card
+Singida,Singida Urban,Majengo,-4.81903,34.75194,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,06/07/2005,4,,Yes,,,,Both,NMB Bank Card
+Tabora,Igunga,Igunga,-4.2847,33.87464,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,08/09/2003,1,,Yes,Yes,Yes,,VISA,NMB Bank Card
+Singida,Iramba,Kiomboi,-4.27827,34.40677,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,24/04/2009,2,,Yes,,,,Both,NMB Bank Card
+Manyara,Babati,Babati,-4.21469,35.74791,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/07/1997,4,,Yes,,,,Both,NMB Bank Card
+Shinyanga,Bukombe,Ushirombo,-3.47143,31.90143,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,03/09/2004,2,,Yes,,,,VISA,NMB Bank Card
+Arusha,Arumeru,Usa River,-3.37327,36.84548,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/07/2013,1,,Yes,Yes,Yes,,Both,NMB Bank Card
+Arusha,Arusha,Kati,-3.37288,36.68613,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,15/06/2012,3,,Yes,,,,Both,NMB Bank Card
+Arusha,Arusha,Kati,-3.37254,36.6935,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,13/10/2000,1,,Yes,,Yes,,VISA,NMB Bank Card
+Kilimanjaro,Rombo,Mahida Holili,-3.35396,37.3399,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,21/10/2001,3,,Yes,,,,VISA,NMB Bank Card
+Mwanza,Geita,Kalangala,-2.87323,32.22885,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,02/01/1995,3,Yes,,,,,VISA,NMB Bank Card
+Mwanza,Sengerema,Sengerema,-2.65134,32.64389,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,24/02/1999,3,Yes,,,,,VISA,NMB Bank Card
+Mwanza,Magu,Kiloleni,-2.59362,33.44332,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/01/2007,3,Yes,,,,,VISA,NMB Bank Card
+Arusha,Monduli,Namanga,-2.55965,36.78003,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/10/2013,1,,Yes,Yes,Yes,,Both,NMB Bank Card
+Mwanza,Nyamagana,Nyamagana,-2.53552,32.93788,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/01/2012,3,Yes,,,,,Mastercard,NMB Bank Card
+Mwanza,Ilemela,Nyakato,-2.53541,32.93833,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,20/04/2012,3,,Yes,,,,Both,NMB Bank Card
+Mwanza,Nyamagana,Nyamagana,-2.51962,32.89897,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,17/02/2009,3,Yes,,,,,VISA,NMB Bank Card
+Mwanza,Ilemela,Kirumba,-2.51933,32.89887,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,25/02/2002,4,,Yes,,,,Both,NMB Bank Card
+Mwanza,Ilemela,Kirumba,-2.51886,32.89866,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/04/1999,3,,Yes,,,,Both,NMB Bank Card
+Mwanza,Nyamagana,Nyamagana,-2.5187,32.89767,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,23/01/2010,3,Yes,,,,,VISA,NMB Bank Card
+Mwanza,Nyamagana,Nyamagana,-2.51828,32.89843,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/03/2001,4,Yes,,,,,VISA,NMB Bank Card
+Mara,Serengeti,Mugumu Mjini,-2.02241,33.87113,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,25/01/2012,2,,Yes,,,,Both,NMB Bank Card
+Mara,Musoma Urban,Mukendo,-1.49664,33.80637,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/03/2012,3,,Yes,,,,Both,NMB Bank Card
+Mara,Tarime,Tarime,-1.34215,34.37668,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/03/2011,3,,Yes,,,,Both,NMB Bank Card
+Mtwara,Masasi,Masasi,-10.72301,38.81559,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/02/2014,2,,Yes,,,,VISA, 
+Ruvuma,Songea Urban,Songea Mjini,-10.67798,35.6501,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,27/11/2010,3,,Yes,,,,Both, 
+Lindi,Lindi Urban,Msinjahili,-10.00052,39.71807,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,02/01/1990,1,Yes,Yes,,,,Both, 
+Mbeya,Mbozi,Tunduma,-9.30519,32.76339,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,16/05/2008,2,,Yes,Yes,Yes,,Mastercard, 
+Mbeya,Rungwe,Bulyaga,-9.25816,33.64523,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,25/02/2005,2,,Yes,Yes,Yes,,VISA, 
+Mbeya,Mbeya Urban,Iyela,-8.91283,33.47026,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,15/10/2010,1,,Yes,,,,VISA, 
+Mbeya,Mbeya Urban,Sisimba,-8.89279,33.44715,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,14/01/2006,3,,Yes,Yes,Yes,,VISA, 
+Iringa,Njombe,Makambako,-8.84414,34.82328,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,14/09/2007,2,,Yes,Yes,Yes,,VISA, 
+Rukwa,Sumbawanga Urban,Katandala,-7.96304,31.61345,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,23/08/2007,2,,Yes,,Yes,,VISA, 
+Dar es Salaam,Temeke,Mbagala,-6.91441,39.2701,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,14/07/2003,4,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Ukonga,-6.8708,39.19023,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/09/2010,1,,Yes,,Yes,,Both, 
+Dar es Salaam,Ilala,Ukonga,-6.86627,39.2072,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,04/05/2002,1,,Yes,,Yes,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.85138,39.27137,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/10/2005,4,,Yes,,Yes,,Both, 
+Dar es Salaam,Ilala,Segerea,-6.84676,39.18742,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/11/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Chang'ombe,-6.84153,39.24997,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,16/01/2008,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Buguruni,-6.83808,39.24357,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/12/2000,1,,Yes,Yes,Yes,,VISA, 
+Dar es Salaam,Ilala,Ilala,-6.82654,39.2632,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/07/2010,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kariakoo,-6.82546,39.27476,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/12/2011,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kisutu,-6.82136,39.28134,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,17/04/2007,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kisutu,-6.8209,39.28135,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,15/04/2000,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.82034,39.28524,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,03/01/2006,1,,Yes,Yes,Yes,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.81694,39.27414,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,03/10/2012,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kariakoo,-6.81355,39.27478,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,12/12/2009,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Upanga East,-6.80611,39.27373,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,13/04/2001,1,,Yes,Yes,Yes,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.7937,39.21256,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,03/10/2005,2,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Mwananyamala,-6.79051,39.26349,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,03/02/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77418,39.23384,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/04/2012,1,,Yes,,,,VISA, 
+Dodoma,Dodoma Urban,Viwandani,-6.17563,35.74718,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,13/09/2002,2,Yes,Yes,Yes,Yes,,Mastercard, 
+Zanzibar,Zanzibar,Welezo,-6.16168,39.18784,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,29/05/2010,2,,Yes,,,,Both, 
+Tanga,Tanga,Central,-5.07133,39.1015,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,02/05/2007,3,,Yes,,Yes,,Mastercard, 
+Tabora,Tabora Urban,Kanyenye,-5.01978,32.80462,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,15/10/2003,3,Yes,Yes,Yes,Yes,,Both, 
+Singida,Singida Urban,Ipembe,-4.81526,34.74978,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,25/04/2010,3,,Yes,,,,Both, 
+Manyara,Babati,Babati,-4.21318,35.74899,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,14/09/2008,2,,Yes,,,,Both, 
+Shinyanga,Kahama,Kahama Mjini,-3.82997,32.60459,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,14/12/2013,2,,Yes,Yes,,,Both, 
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.67295,33.42684,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,22/11/2013,4,,Yes,Yes,,,Both, 
+Arusha,Arusha,Kati,-3.36623,36.68439,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/12/2013,2,,Yes,,,,VISA, 
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.349,37.34337,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,03/02/2000,4,,Yes,Yes,,,Both, 
+Arusha,Karatu,Karatu,-3.33869,35.6722,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,20/01/2000,2,,Yes,,,,Both, 
+Mwanza,Geita,Kalangala,-2.8733,32.22862,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/01/2001,2,Yes,,,,,Both, 
+Mwanza,Ilemela,Igoma,-2.54371,32.97711,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/01/2009,4,Yes,,,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.51865,32.90223,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,15/01/2005,3,Yes,,,,,Both, 
+Mara,Musoma Urban,Nyasho,-1.50713,33.80636,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,18/02/2011,1,,Yes,,,,Both, 
+Mara,Tarime,Sirari,-1.24739,34.4753,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,15/01/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82689,39.27,On-site,UMOJA SWITCH ATM,NIC Bank (Tanzania) Limited,NIC,20/01/2011,1,Yes,Yes,,Yes,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82175,39.27718,On-site,UMOJA SWITCH ATM,NIC Bank (Tanzania) Limited,NIC,10/12/2009,1,,Yes,,,,Both, 
+Tabora,Tabora Urban,Kanyenye,-5.01963,32.80486,On-site,Commercial Bank ATM,NIC Bank (Tanzania) Limited,NIC,05/10/2002,3,Yes,Yes,Yes,Yes,,Both, 
+Tabora,Nzega,Nzega Mjini,-4.21849,33.19482,On-site,Commercial Bank ATM,NIC Bank (Tanzania) Limited,NIC,02/05/2005,2,,Yes,Yes,Yes,,VISA, 
+Kagera,Bukoba Urban,Birere,-1.33123,31.81301,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/06/1982,2,,Yes,,,,Mastercard,NMB Bank Card
+Kagera,Muleba,Izigo,-1.84502,31.64796,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/02/2003,1,,Yes,,,,Both,NMB Bank Card
+Kagera,Muleba,Muleba,-1.84131,31.65216,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,26/02/1982,1,Yes,Yes,,,,Both,NMB Bank Card
+Kagera,Bukoba Rural,Katoma,-1.25357,31.41986,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,04/01/2012,2,,Yes,,,,Both,NMB Bank Card
+Kagera,Karagwe,Kayanga,-1.53612,31.15426,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,17/03/1997,2,Yes,,,,,Both,NMB Bank Card
+Dar es Salaam,Ilala,Kariakoo,-6.81895,39.27557,On-site,Community Bank ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,06/12/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83513,39.26395,On-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,20/06/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82023,39.27654,On-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,06/12/2013,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kariakoo,-6.81947,39.27531,On-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,06/12/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kivukoni,-6.81241,39.291,On-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,01/01/2012,1,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37341,36.69232,On-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,28/02/2006,2,Yes,,,,,VISA, 
+Kilimanjaro,Moshi Urban,Bondeni,-3.34813,37.34163,On-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,02/08/2003,1,,Yes,Yes,,,Both, 
+Shinyanga,Kahama,Bugarama,-3.29178,32.40634,On-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,19/10/2003,2,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kariakoo,-6.82007,39.27644,On-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,06/12/2013,1,,Yes,,,,Mastercard, 
+Arusha,Arusha,Kati,-3.37263,36.6927,On-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,02/09/2010,1,,Yes,Yes,,,VISA, 
+Kilimanjaro,Hai,Hai Mjini,-3.35352,37.34018,On-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,15/11/2010,1,,Yes,,,,VISA, 
+Kilimanjaro,Moshi Urban,Mawenzi,-3.34918,37.34163,On-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,24/05/2000,1,,Yes,Yes,,,VISA, 
+Dar es Salaam,Ilala,Ilala,-6.82673,39.26406,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,12/10/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Manzese,-6.7976,39.22814,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,03/07/2009,1,,Yes,,,,Mastercard, 
+Lindi,Lindi Urban,Makonde,-9.99762,39.71726,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,02/02/2000,1,Yes,Yes,,,,Both, 
+Mbeya,Mbeya Urban,Sisimba,-8.89237,33.44582,On-site,Commercial Bank ATM,Tanzania Postal Bank,Tanzania Postal,01/06/2006,1,,Yes,Yes,Yes,,Both, 
+Rukwa,Sumbawanga Urban,Katandala,-7.96469,31.61558,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,08/01/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82365,39.27222,On-site,UMOJA SWITCH ATM,Tanzania Women Bank,Tanzania Womans,11/01/2013,1,,Yes,,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.51888,32.90245,On-site,UMOJA SWITCH ATM,Twiga BanCorp Limited,Twiga BanCorp,17/01/2010,1,Yes,,,,,Mastercard, 
+Arusha,Arusha,Kati,-3.37402,36.68751,On-site,UMOJA SWITCH ATM,Twiga BanCorp Limited,Twiga BanCorp,27/12/2007,2,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Manzese,-6.79991,39.23845,On-site,UMOJA SWITCH ATM,UBL Bank (Tanzania) Limited,UBL,20/06/2012,1,,Yes,,,,Mastercard, 
+Kagera,Bukoba Urban,Birere,-1.3302,31.81151,On-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,14/02/2013,1,,Yes,,,,VISA, 
+Mwanza,Geita,Katoro,-3.0006,31.92982,On-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,23/03/2013,1,,Yes,,,,Mastercard, 
+Kagera,Bukoba Urban,Bakoba,-1.33003,31.8087,On-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,13/11/2002,1,,Yes,,,,VISA, 
+Arusha,Arumeru,Usa River,-3.37364,36.8479,On-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,10/05/2012,1,Yes,Yes,Yes,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82384,39.27277,On-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,10/08/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82373,39.27231,On-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,01/03/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Tabata,-6.82964,39.22485,On-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,22/10/2008,1,,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Chang'ombe,-6.84086,39.25115,On-site,Commercial Bank ATM,United Bank for Africa (Tanzania) Limited,United for Africa,16/02/2008,1,,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Mbagala,-6.92255,39.27105,Off-site,UMOJA SWITCH ATM,Accessbank (Tanzania) Limited,Access,30/11/2013,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kisutu,-6.81897,39.28718,Off-site,Commercial Bank ATM,Accessbank (Tanzania) Limited,Access,07/12/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81506,39.28824,Off-site,UMOJA SWITCH ATM,Accessbank (Tanzania) Limited,Access,04/01/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.76995,39.23617,Off-site,Commercial Bank ATM,Accessbank (Tanzania) Limited,Access,18/02/2011,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Kivukoni,-6.81428,39.28874,Off-site,UMOJA SWITCH ATM,Advans Bank (Tanzania) Limited,Advans,01/01/2012,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81698,39.28611,Off-site,Commercial Bank ATM,Akiba Commercial Bank Limited,Akiba,20/08/2009,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Sinza,-6.79523,39.21862,Off-site,Commercial Bank ATM,Akiba Commercial Bank Limited,Akiba,30/07/2008,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Ubungo,-6.7951,39.20743,Off-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,12/10/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Ubungo,-6.79478,39.21574,Off-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,07/06/2006,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Ubungo,-6.79434,39.21596,Off-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,30/04/2006,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Sinza,-6.78912,39.20891,Off-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,06/08/2008,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Magomeni,-6.77776,39.24667,Off-site,Commercial Bank ATM,Akiba Commercial Bank Limited,Akiba,23/01/2005,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Kawe,-6.76948,39.19243,Off-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,25/05/2008,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Kawe,-6.73608,39.22313,Off-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,04/04/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Mbezi,-6.72326,39.23038,Off-site,Commercial Bank ATM,Akiba Commercial Bank Limited,Akiba,09/04/2013,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Mbezi,-6.71433,39.21099,Off-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,27/09/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Bunju,-6.65965,39.18153,Off-site,Commercial Bank ATM,Akiba Commercial Bank Limited,Akiba,15/04/2012,1,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81448,39.28917,Off-site,UMOJA SWITCH ATM,Amana Bank Limited,Amana,01/01/2011,1,,Yes,,,,,Umoja Switch 
+Arusha,Arusha,Kati,-3.37219,36.68458,Off-site,Commercial Bank ATM,Amana Bank Limited,Amana,21/08/2012,1,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Ilala,Kisutu,-6.81964,39.27995,Off-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,07/01/2006,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kariakoo,-6.81938,39.27231,Off-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,04/02/2013,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81734,39.28869,Off-site,Commercial Bank ATM,Azania Bank Limited,Azania,16/08/2008,2,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Ubungo,-6.79194,39.20888,Off-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,22/08/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Ubungo,-6.78314,39.20792,Off-site,Commercial Bank ATM,Azania Bank Limited,Azania,15/10/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.76706,39.22821,Off-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,16/08/2011,1,,Yes,,,,VISA,Umoja Switch 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.76684,39.2286,Off-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,26/05/2012,1,,Yes,,,,,Umoja Switch 
+Shinyanga,Kahama,Nyihogo,-3.84019,32.59392,Off-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,02/06/2013,1,,Yes,,,,,Umoja Switch 
+Arusha,Arusha,Kati,-3.37176,36.68452,Off-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,02/07/2011,1,,Yes,,,,Both,Umoja Switch 
+Kilimanjaro,Hai,Hai Mjini,-3.35518,37.3308,Off-site,Commercial Bank ATM,Azania Bank Limited,Azania,12/08/2010,2,,Yes,,,,,Umoja Switch 
+Mwanza,Nyamagana,Nyamagana,-2.52452,32.90054,Off-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,10/10/2011,1,,Yes,,,,,Umoja Switch 
+Arusha,Arusha,Kati,-3.37192,36.69338,Off-site,Commercial Bank ATM,Bank M (Tanzania) Limited,Bank M,14/09/2010,1,,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Kurasini,-6.85969,39.28503,Off-site,Commercial Bank ATM,Bank of Africa (Tanzania) Limited,BoA,04/11/2013,1,,Yes,,,,VISA,Umoja Switch 
+Dar es Salaam,Ilala,Tabata,-6.82962,39.22494,Off-site,Commercial Bank ATM,Bank of Africa (Tanzania) Limited,BoA,14/12/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Ubungo,-6.7921,39.20903,Off-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,04/05/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Sinza,-6.78659,39.22289,Off-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,16/07/2007,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Mikocheni,-6.70125,39.20696,Off-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,29/06/2008,1,,Yes,,,,,Umoja Switch 
+Arusha,Arumeru,Kikwe,-3.40404,36.763,Off-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,11/12/2012,1,,Yes,,,,,Umoja Switch 
+Arusha,Arusha,Kati,-3.37358,36.69065,Off-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,24/04/2007,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81687,39.29127,Off-site,Commercial Bank ATM,Bank of Baroda (Tanzania) Limited,Bank of Baroda,01/09/2010,1,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37219,36.69308,Off-site,Community Bank ATM,Bank of Baroda (Tanzania) Limited,Bank of Baroda,14/07/2011,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kisutu,-6.81861,39.28164,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,16/05/2004,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Magomeni,-6.80809,39.25894,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,12/03/2006,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.7866,39.22268,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,18/01/2007,1,,Yes,,,,Both, 
+Arusha,Arusha,Lemara,-3.40672,36.70569,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,01/01/2005,1,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37808,36.70092,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,16/06/2008,2,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37175,36.68517,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,11/02/2010,1,,Yes,,,,Both, 
+Mwanza,Nyamagana,Pamba,-2.51949,32.90046,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,17/09/2010,2,,Yes,,,,Both, 
+Tabora,Tabora Urban,Kanyenye,-5.02292,32.80917,Off-site,Commercial Bank ATM,Commercial Bank of Africa (Tanzania) Limited,CBA,16/09/1999,1,,Yes,,,,Both, 
+Lindi,Nachingwea,Nambambo,-10.37405,38.76183,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,10/02/2005,1,,Yes,,,,Both, 
+Mbeya,Rungwe,Ikuti,-9.25737,33.64546,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,30/01/2014,1,,Yes,,,,Both, 
+Mbeya,Mbeya Urban,Iyunga,-8.9388,33.4161,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,06/07/2010,1,,Yes,,,,Both, 
+Mbeya,Mbeya Urban,Sisimba,-8.9128,33.47039,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,27/08/2009,1,,Yes,,,,Both, 
+Mbeya,Mbeya Urban,Nsalaga,-8.90043,33.54216,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/02/2009,1,,Yes,,,,Both, 
+Iringa,Njombe,Makambako,-8.84765,34.82291,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,19/10/2007,1,,Yes,,,,Both, 
+Morogoro,Kilombero,Ifakara,-8.14245,36.67749,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,26/06/2011,1,,Yes,,,,Both, 
+Rukwa,Sumbawanga Urban,Katandala,-7.95597,31.60721,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,06/07/2010,1,,Yes,,,,Both, 
+Iringa,Iringa Urban,Mkwawa,-7.76289,35.68671,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,25/10/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Mbagala,-6.90729,39.26945,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,14/08/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Ukonga,-6.87898,39.1655,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,24/01/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Kurasini,-6.84849,39.28186,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,30/04/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.84478,39.26822,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,24/05/2005,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Buguruni,-6.83805,39.244,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,14/09/2010,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Temeke,Keko,-6.83252,39.26899,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,25/07/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Segerea,-6.82787,39.20228,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,17/12/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Ilala,-6.82671,39.27021,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/08/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Tabata,-6.82452,39.23077,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,24/01/2010,1,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Temeke,Kigamboni,-6.82137,39.30858,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,03/01/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.82048,39.2756,Off-site,Community Bank ATM,CRDB Bank Plc,CRDB,13/05/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81848,39.28341,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,24/02/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81658,39.28155,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,16/01/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81653,39.28241,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,21/02/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kigogo,-6.81614,39.25413,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,13/02/2014,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81608,39.28304,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/01/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81598,39.29177,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/11/2008,4,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81551,39.28857,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/09/2004,3,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81421,39.29403,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,21/11/2009,5,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Upanga West,-6.81325,39.28936,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,15/06/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81317,39.29118,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,02/02/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Upanga East,-6.80804,39.27978,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,12/07/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Magomeni,-6.8076,39.2577,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,10/06/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Upanga East,-6.80735,39.28218,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,03/01/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Upanga East,-6.8027,39.27269,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,09/01/2002,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.80038,39.25319,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,19/11/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79541,39.21958,Off-site,Community Bank ATM,CRDB Bank Plc,CRDB,05/02/2014,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.79539,39.21983,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,26/08/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79351,39.21797,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/01/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79222,39.20894,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,18/07/2009,2,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Sinza,-6.78847,39.21585,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,28/05/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.78283,39.20332,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/02/2011,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.77862,39.20608,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,28/05/2008,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.77838,39.20573,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/03/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.77718,39.20696,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/03/2009,2,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Kawe,-6.77407,39.21039,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,06/08/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77359,39.2335,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,12/12/2009,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Kinondoni,Kawe,-6.77335,39.2196,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,16/11/2006,2,,Yes,,,,Mastercard, 
+Dar es Salaam,Kinondoni,Kawe,-6.77304,39.21996,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,30/10/2013,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.77205,39.22151,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/09/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.7693,39.26272,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,28/10/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.7689,39.22595,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,19/09/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.7666,39.21476,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,27/04/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kimara,-6.71414,39.21096,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/09/2007,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.23027,35.83432,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,28/03/2012,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.2244,35.83631,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,19/06/2009,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.2138,35.79811,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,16/02/2012,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.21246,35.79817,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,11/05/2010,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.2091,35.8019,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/09/2008,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Kikuyu South,-6.19732,35.72916,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/08/2010,1,,Yes,,,,Both, 
+Tanga,Muheza,Majengo,-5.17656,38.79324,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,29/06/2013,1,,Yes,,,,Both, 
+Tabora,Tabora Urban,Kanyenye,-5.02293,32.80932,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/07/2005,1,,Yes,,,,Both, 
+Tabora,Tabora Urban,Kanyenye,-5.01915,32.80957,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/07/2005,2,,Yes,,,,Both, 
+Tabora,Tabora Urban,Kanyenye,-5.019,32.80957,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,06/09/2006,2,,Yes,,,,Both, 
+Kigoma,Kigoma Urban,Maweni,-4.88793,29.62588,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/04/2012,1,,Yes,,,,Both, 
+Tabora,Nzega,Nzega Mjini,-4.21453,33.18286,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,03/02/2007,1,,Yes,,,,VISA, 
+Kilimanjaro,Same,Same Mjini,-4.0673,37.73666,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,15/06/2009,1,,Yes,,,,Both, 
+Shinyanga,Kahama,Kahama Mjini,-3.83755,32.61489,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/08/2008,1,,Yes,,,,Both, 
+Kilimanjaro,Moshi Rural,Arusha Chini,-3.534,37.32728,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,13/10/2005,1,,Yes,,,,Both, 
+Arusha,Arusha,Engutoto,-3.41301,36.70673,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,12/01/2012,1,,Yes,,,,Both, 
+Arusha,Arusha,Lemara,-3.40679,36.70564,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/01/2005,1,,Yes,,,,Both, 
+Kilimanjaro,Moshi Rural,Marangu Mashariki,-3.38772,37.54994,Off-site,Community Bank ATM,CRDB Bank Plc,CRDB,04/11/1999,1,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37392,36.68553,Off-site,Community Bank ATM,CRDB Bank Plc,CRDB,15/11/2008,2,,Yes,,,,Both, 
+Arusha,Arumeru,Akheri,-3.3733,36.78551,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/01/2011,1,,Yes,,,,Both, 
+Arusha,Arusha,Elerai,-3.36262,36.67071,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/05/2011,1,,Yes,,,,Both, 
+Kilimanjaro,Moshi Urban,Longuo,-3.33581,37.33777,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/04/2005,1,,Yes,,,,VISA, 
+Kilimanjaro,Moshi Urban,Longuo,-3.30274,37.32344,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/02/2014,1,,Yes,,,,Both, 
+Shinyanga,Maswa,Nyalikungu,-3.18077,33.78543,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/06/2013,1,,Yes,,,,Both, 
+Mwanza,Ilemela,Ilemela,-2.46967,32.91217,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,26/07/2012,1,,Yes,,,,Both, 
+Kagera,Karagwe,Kayanga,-1.53414,31.15466,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,23/01/2005,2,,Yes,,,,Both, 
+Kagera,Karagwe,Kayanga,-1.53295,31.15471,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,21/09/2013,2,,Yes,,,,Both, 
+Kagera,Bukoba Urban,Mimbeni,-1.32962,31.81066,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,03/01/2007,3,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81481,39.28911,Off-site,UMOJA SWITCH ATM,DCB Commercial Bank Plc,DCB,01/01/2006,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Ukonga,-6.87235,39.18783,Off-site,UMOJA SWITCH ATM,DCB Commercial Bank Plc,DCB,01/11/2012,1,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Ilala,Ukonga,-6.86626,39.20731,Off-site,Commercial Bank ATM,DCB Commercial Bank Plc,DCB,04/12/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mwananyamala,-6.79051,39.26357,Off-site,Commercial Bank ATM,DCB Commercial Bank Plc,DCB,28/02/2014,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kisutu,-6.82093,39.28353,Off-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,01/02/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.81446,39.27542,Off-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,06/01/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Magomeni,-6.80819,39.25992,Off-site,Community Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,19/12/2006,1,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Ilala,Kisutu,-6.80405,39.28703,Off-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,12/10/2009,1,,Yes,,,,VISA, 
+Arusha,Arusha,Kati,-3.37376,36.68926,Off-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,26/09/2008,1,,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Mbagala,-6.91314,39.27007,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,29/07/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Tabata,-6.82444,39.23098,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,24/01/2012,2,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.8184,39.28982,Off-site,UMOJA SWITCH ATM,Ecobank (Tanzania) Limited,Ecobank,04/09/2012,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Manzese,-6.80418,39.24829,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,06/08/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.79327,39.21134,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,19/10/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79232,39.20905,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,19/08/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.78656,39.22285,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,11/06/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.77417,39.19983,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,30/08/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Mikocheni,-6.76933,39.26266,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,26/10/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.7673,39.26134,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,23/12/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kimara,-6.81738,39.29008,Off-site,Community Bank ATM,Equity bank (Tanzania) Limited,Equity,16/11/2013,1,,Yes,,,,,Umoja Switch 
+Mtwara,Mtwara Urban,Shangani,-10.27242,40.18748,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,13/06/2005,1,,Yes,,,,Both, 
+Mtwara,Mtwara Urban,Shangani,-10.2703,40.18599,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,14/03/1995,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Mbagala,-6.90795,39.26917,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,27/04/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Mtoni,-6.86362,39.26701,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,13/09/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kitunda,-6.86291,39.20591,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,12/08/2004,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Buguruni,-6.84366,39.24556,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,01/01/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Buguruni,-6.83817,39.24348,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,16/12/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Kigamboni,-6.82131,39.30418,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,03/01/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Kigamboni,-6.82102,39.31023,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,26/02/2000,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Tabata,-6.82074,39.22732,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,24/01/2010,1,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Ilala,Kisutu,-6.81731,39.28239,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,15/04/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81681,39.29368,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,06/01/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81672,39.29419,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,01/02/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.8148,39.29163,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,04/01/2009,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81374,39.28838,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,02/08/2006,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81352,39.29089,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,16/01/2010,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kimara,-6.79068,39.18858,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,03/08/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.77869,39.20611,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,16/08/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.77205,39.22127,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,14/11/2006,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.76444,39.22855,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,09/04/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Msasani,-6.74813,39.28431,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,19/11/2011,1,,Yes,,,,Both, 
+Tanga,Tanga,Central,-5.07387,39.10226,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,02/01/2014,1,,Yes,,,,Both, 
+Arusha,Arusha,Oloirien,-3.37811,36.70438,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,01/01/2014,1,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37312,36.69301,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,28/09/2004,2,,Yes,,,,VISA, 
+Arusha,Arusha,Kaloleni,-3.36139,36.68569,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,03/08/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Msasani,-6.76892,39.26964,Off-site,UMOJA SWITCH ATM,FBME Bank (Tanzania) Limited,FBME,29/07/2009,1,,Yes,,,,VISA,Umoja Switch 
+Arusha,Arusha,Kati,-3.37577,36.69995,Off-site,Commercial Bank ATM,FBME Bank (Tanzania) Limited,FBME,22/03/2002,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81114,39.28697,Off-site,Commercial Bank ATM,First National Bank (Tanzania) Limited,First National,06/01/2012,3,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79228,39.20883,Off-site,Commercial Bank ATM,First National Bank (Tanzania) Limited,First National,18/02/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.77212,39.2215,Off-site,Commercial Bank ATM,First National Bank (Tanzania) Limited,First National,10/07/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.76936,39.26269,Off-site,Commercial Bank ATM,First National Bank (Tanzania) Limited,First National,28/10/2011,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Mbezi,-6.7233,39.23033,Off-site,Commercial Bank ATM,First National Bank (Tanzania) Limited,First National,12/02/2013,1,,Yes,,,,VISA, 
+Kagera,Bukoba Urban,Bakoba,-1.33691,31.81717,Off-site,UMOJA SWITCH ATM,Kagera Farmers Co-operative Bank,Kagera Farmers Co-op,15/07/1999,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81585,39.29031,Off-site,Commercial Bank ATM,KCB Bank (Tanzania) Limited,KCB,08/01/2005,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.7731,39.21989,Off-site,Commercial Bank ATM,KCB Bank (Tanzania) Limited,KCB,16/11/2006,2,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kivukoni,-6.81905,39.28693,Off-site,UMOJA SWITCH ATM,Mkombozi Commercial Bank Plc,Mkombozi Commercial Plc,19/08/2009,2,,Yes,,,,,Umoja Switch 
+Ruvuma,Songea Rural,Maposeni,-10.63584,35.46048,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,21/12/1991,1,,Yes,,,,VISA,NMB Bank Card
+Mtwara,Mtwara Urban,Chikongola,-10.28213,40.18743,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/08/2012,1,,Yes,,,,VISA,NMB Bank Card
+Iringa,Njombe,Njombe Mjini,-9.33612,34.76844,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,12/12/2013,1,,Yes,,,,Both,NMB Bank Card
+Rukwa,Sumbawanga Urban,Katandala,-7.96478,31.61449,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/10/2008,2,,Yes,,,,,Both
+Iringa,Iringa Urban,Mshindo,-7.74629,35.71258,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,16/08/2005,1,,Yes,,,,Both,NMB Bank Card
+Morogoro,Mvomero,Mzumbe,-6.92734,37.56848,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,20/04/2011,2,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Temeke,Mbagala,-6.91743,39.27038,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/07/2010,1,,Yes,,,,,Both
+Dar es Salaam,Ilala,Ukonga,-6.88517,39.14955,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,28/01/1998,2,,Yes,,,,Both,Both
+Dar es Salaam,Temeke,Kurasini,-6.8601,39.27837,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,28/10/2008,2,,Yes,,,,,NMB Bank Card
+Morogoro,Morogoro Urban,Mbuyuni,-6.85165,37.6585,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,29/09/2007,2,,Yes,,,,VISA,Both
+Dar es Salaam,Temeke,Chang'ombe,-6.84992,39.26762,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,26/06/2012,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Temeke,Temeke,-6.84834,39.2589,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,27/01/2014,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Segerea,-6.84285,39.18614,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/05/2011,1,,Yes,,,,Mastercard,NMB Bank Card
+Dar es Salaam,Temeke,Keko,-6.83083,39.27065,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/01/2009,2,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Kinondoni,Magomeni,-6.80572,39.25848,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/02/2013,1,,Yes,,,,Both,NMB Bank Card
+Morogoro,Morogoro Urban,Kihonda,-6.8023,37.66229,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,20/04/2009,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Kinondoni,Magomeni,-6.80125,39.24135,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,15/03/2007,3,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Ubungo,-6.79426,39.21594,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,13/01/2006,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Ubungo,-6.79182,39.20881,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,15/03/2008,2,,Yes,,,,Mastercard,NMB Bank Card
+Dar es Salaam,Kinondoni,Kinondoni,-6.79121,39.26364,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,25/08/2004,1,,Yes,,,,VISA,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.78958,39.20858,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/08/2010,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.78799,39.21386,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,22/06/2008,2,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Sinza,-6.78651,39.22276,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,28/07/2006,3,,Yes,,,,Both,NMB Bank Card
+Pwani,Kibaha,Maili Mmoja,-6.78279,38.99109,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,20/04/2010,1,,Yes,,,,Mastercard,NMB Bank Card
+Dar es Salaam,Kinondoni,Ubungo,-6.77902,39.2065,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/09/2008,1,,Yes,,,,Mastercard,NMB Bank Card
+Dar es Salaam,Ilala,Kariakoo,-6.77897,39.2472,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,24/05/2011,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.77872,39.20578,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,15/05/2009,2,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.7759,39.20033,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/09/2008,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Ubungo,-6.77529,39.20937,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,24/07/2009,1,,Yes,,,,VISA,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.77316,39.21981,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,02/09/2008,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.773,39.21987,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,21/02/2008,3,,Yes,,,,VISA,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.77141,39.18876,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,27/01/2010,2,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.77119,39.1893,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/07/2009,2,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.77017,39.2195,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/08/2007,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Mbezi,-6.77003,39.22378,Off-site,UMOJA SWITCH ATM,National Microfinance Bank Plc,NMB,15/02/2011,2,,Yes,,,,,Both
+Dar es Salaam,Kinondoni,Kawe,-6.76975,39.19713,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/11/2007,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Goba,-6.76921,39.19325,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/04/2009,2,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Goba,-6.76823,39.19707,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,08/02/2012,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Kijitonyama,-6.76714,39.23225,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,14/10/2010,1,,Yes,,,,Mastercard,NMB Bank Card
+Dar es Salaam,Kinondoni,Goba,-6.76383,39.18943,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,12/08/2010,2,,Yes,,,,Both,NMB Bank Card
+Pwani,Kibaha,Mlandizi,-6.71869,38.74209,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,14/08/2007,1,,Yes,,,,Mastercard,NMB Bank Card
+Morogoro,Kilosa,Dumila,-6.3828,37.34304,Off-site,Community Bank ATM,National Microfinance Bank Plc,NMB,19/12/2013,1,,Yes,,,,,Both
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.2244,35.83725,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,16/04/2009,1,,Yes,,,,VISA,NMB Bank Card
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.20585,35.79514,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,17/08/2010,1,,Yes,,,,VISA,NMB Bank Card
+Dodoma,Dodoma Urban,Tambukareli,-6.1824,35.75415,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,23/01/2014,3,,Yes,,,,Both,NMB Bank Card
+Zanzibar,Zanzibar,Mwanakwerekwe,-6.17709,39.22224,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,21/09/2013,1,,Yes,,,,,NMB Bank Card
+Tabora,Tabora Urban,Kanyenye,-5.02408,32.81231,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,26/06/2004,1,,Yes,,,,Both,NMB Bank Card
+Arusha,Monduli,Sepeko,-3.41919,36.45526,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,11/12/1990,1,,Yes,,,,Both,NMB Bank Card
+Arusha,Arumeru,Usa River,-3.37404,36.8277,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/06/2012,1,,Yes,,,,Both,NMB Bank Card
+Arusha,Arusha,Kati,-3.37277,36.68592,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/10/2011,3,,Yes,,,,VISA,NMB Bank Card
+Arusha,Arusha,Kati,-3.37222,36.68579,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,16/02/2011,3,,Yes,,,,Both,NMB Bank Card
+Arusha,Arumeru,Usa River,-3.37172,36.85723,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,20/05/2009,1,,Yes,,,,Both,NMB Bank Card
+Arusha,Arusha,Kati,-3.37043,36.68551,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,15/09/2010,3,,Yes,,,,Both,NMB Bank Card
+Arusha,Arusha,Levolosi,-3.36573,36.68352,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,02/05/2012,1,,Yes,,,,Both,NMB Bank Card
+Arusha,Arusha,Ngarenaro,-3.32776,36.6346,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,08/01/2012,1,,Yes,,,,Both,NMB Bank Card
+Arusha,Monduli,Esilalei,-3.29956,36.44644,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,22/09/2005,2,,Yes,,,,VISA,NMB Bank Card
+Mwanza,Ilemela,Ilemela,-2.60897,32.93194,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,23/11/2011,1,,Yes,,,,VISA,NMB Bank Card
+Kagera,Ngara,Ngara Mjini,-2.51766,30.67062,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/01/1997,2,,Yes,,,,,NMB Bank Card
+Mwanza,Nyamagana,Isamilo,-2.51107,32.9029,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,05/08/2009,1,,Yes,,,,,NMB Bank Card
+Kagera,Muleba,Muleba,-1.84356,31.65219,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,23/11/1998,2,,Yes,,,,,NMB Bank Card
+Kagera,Muleba,Muyondwe,-1.6009,31.72374,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,18/07/2002,2,,Yes,,,,,NMB Bank Card
+Kagera,Bukoba Urban,Mimbeni,-1.33105,31.81298,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,28/11/2001,3,,Yes,,,,,NMB Bank Card
+Ruvuma,Songea Urban,Songea Mjini,-10.67862,35.64587,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/08/2011,1,,Yes,,,,Both, 
+Mtwara,Masasi,Marika,-10.49745,39.02703,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/09/2013,1,,Yes,,,,Both, 
+Mtwara,Mtwara Urban,Magengeni,-10.28435,40.17881,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,13/07/2000,1,,Yes,,,,Both, 
+Mtwara,Mtwara Urban,Vigaeni,-10.27367,40.187,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/07/1980,1,,Yes,,,,Both, 
+Lindi,Lindi Urban,Makonde,-9.99807,39.71338,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,20/04/2010,1,,Yes,,,,Both, 
+Iringa,Njombe,Njombe Mjini,-9.33835,34.76983,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,02/08/2011,1,,Yes,,,,Both, 
+Mbeya,Mbozi,Vwawa,-9.11068,32.93196,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/02/2012,1,,Yes,,,,Both, 
+Mbeya,Mbeya Rural,Utengule Usongwe,-8.93669,33.35768,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,13/07/2009,1,,Yes,,,,Both, 
+Mbeya,Mbeya Urban,Itezi,-8.90293,33.53525,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/02/2008,1,,Yes,,,,VISA, 
+Iringa,Njombe,Ilembula,-8.89825,34.57889,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,08/09/2009,1,,Yes,,,,Both, 
+Mbeya,Mbeya Urban,Sisimba,-8.8947,33.44081,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,21/05/2010,1,,Yes,,,,Both, 
+Iringa,Mufindi,Mafinga,-8.30073,35.30054,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/08/2012,1,,Yes,,,,Both, 
+Rukwa,Sumbawanga Urban,Katandala,-7.96056,31.61077,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,20/02/2009,1,,Yes,,,,Both, 
+Rukwa,Sumbawanga Urban,Katandala,-7.95783,31.61501,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,20/04/2013,1,,Yes,,,,Both, 
+Pwani,Mafia,Kilindoni,-7.91417,39.66167,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,08/02/2011,1,,Yes,,,,, 
+Morogoro,Mvomero,Mzumbe,-6.92645,37.56898,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,30/01/2014,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Ukonga,-6.8951,39.16726,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/01/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Mtoni,-6.88485,39.27916,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/08/2010,1,,Yes,,,,Both, 
+Morogoro,Morogoro Urban,Mbuyuni,-6.85185,37.6585,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,29/09/2008,1,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Temeke,Chang'ombe,-6.84149,39.27349,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,24/03/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kariakoo,-6.83081,39.27102,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/01/2007,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Ilala,Upanga East,-6.82755,39.27506,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/10/2008,1,,Yes,,,,VISA, 
+Morogoro,Morogoro Urban,Kingo,-6.82739,37.66247,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,20/03/2006,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Tabata,-6.82521,39.23062,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,24/01/2007,1,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Ilala,Tabata,-6.82505,39.23108,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/04/2008,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Temeke,Kigamboni,-6.82272,39.30379,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,20/11/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.82134,39.27684,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,07/01/2010,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.82052,39.28491,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,03/01/2002,3,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.82022,39.27993,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,16/10/2006,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.81979,39.27456,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/10/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81737,39.29012,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,02/05/2000,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81713,39.28403,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/07/2007,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81691,39.28974,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,07/10/2009,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81555,39.29524,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,14/11/2012,1,,Yes,,,,Both, 
+Morogoro,Morogoro Urban,Uwanja wa Ndege,-6.81495,37.65581,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,28/10/2002,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81468,39.29443,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/10/2012,2,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Upanga East,-6.81001,39.28068,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/01/2005,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Upanga East,-6.80832,39.2799,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,17/12/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Magomeni,-6.80764,39.25737,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,02/06/2008,1,,Yes,,,,Both, 
+Morogoro,Morogoro Urban,Mwembesongo,-6.80532,37.66474,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/07/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Magomeni,-6.80359,39.25962,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/06/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.79494,39.21573,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,14/11/2005,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kinondoni,-6.79368,39.26458,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,04/01/2012,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79355,39.21219,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,09/04/2005,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79004,39.20854,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/04/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kimara,-6.7885,39.17241,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,05/10/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.78623,39.22233,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/09/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.78123,39.20248,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,27/05/1978,3,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77349,39.23515,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,29/01/2012,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Kawe,-6.77347,39.21953,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,16/11/2008,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Sinza,-6.77214,39.22141,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,12/05/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77047,39.23642,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,07/09/2006,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.76516,39.22887,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,13/09/2006,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.76451,39.22928,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,29/09/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Msasani,-6.74807,39.28406,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,14/12/2011,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Ng'ong'ona,-6.20591,35.79528,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,12/03/2012,2,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Kikuyu South,-6.19697,35.72908,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,15/01/2010,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Viwandani,-6.18138,35.74945,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,07/06/2007,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Tambukareli,-6.18058,35.75729,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/05/2009,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Makole,-6.17999,35.75804,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,26/02/2008,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Makole,-6.17454,35.7627,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,07/11/2008,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Miyuji,-6.12146,35.74505,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/07/2008,1,,Yes,,,,Both, 
+Tabora,Tabora Urban,Kanyenye,-5.02063,32.80599,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,26/09/2004,1,,Yes,,,,Both, 
+Kigoma,Kigoma Urban,Mwanga,-4.88895,29.64422,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,12/05/2012,1,,Yes,,,,Both, 
+Singida,Singida Urban,Kindai,-4.82276,34.74774,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,30/05/2011,1,,Yes,,,,Both, 
+Singida,Singida Urban,Majengo,-4.81954,34.75291,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,10/08/2011,2,,Yes,,,,Both,Umoja Switch 
+Tabora,Nzega,Nzega Mjini,-4.21772,33.18621,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,03/09/2009,1,,Yes,,,,Both, 
+Kilimanjaro,Same,Same Mjini,-4.06835,37.73805,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,13/10/2006,1,,Yes,,,,Both, 
+Shinyanga,Kahama,Kahama Mjini,-3.84204,32.60096,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,04/12/2013,1,,Yes,,,,Both, 
+Arusha,Monduli,Mto wa Mbu,-3.37385,35.86475,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,27/11/2005,1,,Yes,,,,Both, 
+Arusha,Arumeru,Usa River,-3.37196,36.85707,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,25/03/2009,1,,Yes,,,,Both, 
+Arusha,Arusha,Sekei,-3.36564,36.70706,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/05/2011,1,,Yes,,,,Both, 
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35522,37.3391,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,16/05/2002,1,,Yes,,,,Both, 
+Arusha,Monduli,Monduli Mjini,-3.34669,36.45879,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/01/1970,1,,Yes,,,,Both, 
+Kilimanjaro,Hai,Hai Mjini,-3.32334,37.25208,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,12/06/2010,2,,Yes,,,,VISA, 
+Kilimanjaro,Moshi Urban,Longuo,-3.31936,37.32847,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,08/10/2004,1,,Yes,,,,Both, 
+Kilimanjaro,Moshi Urban,Longuo,-3.30155,37.32388,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,29/05/2011,1,,Yes,,,,Both, 
+Mwanza,Ilemela,Nyakato,-2.53586,32.93994,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,17/08/2011,2,,Yes,,,,Both, 
+Mwanza,Ilemela,Kirumba,-2.5062,32.89592,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,18/10/2006,1,,Yes,,,,Both, 
+Mwanza,Ilemela,Pasiansi,-2.44168,32.92298,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,22/05/2010,1,,Yes,,,,Both, 
+Kagera,Bukoba Urban,Birere,-1.33144,31.81299,Off-site,Community Bank ATM,NBC Bank Limited,NBC,03/08/1982,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81993,39.28608,Off-site,UMOJA SWITCH ATM,NIC Bank (Tanzania) Limited,NIC,28/01/2013,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kariakoo,-6.81953,39.2789,Off-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,07/01/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kariakoo,-6.77572,39.24471,Off-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,08/06/2012,1,,Yes,,,,,Umoja Switch 
+Zanzibar,Zanzibar,Welezo,-6.15991,39.1948,Off-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,28/08/2010,3,,Yes,,,,,Umoja Switch 
+Mbeya,Mbeya Urban,Sisimba,-8.88993,33.44223,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,25/09/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79225,39.20893,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,15/05/2009,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79207,39.20764,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,21/11/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Ubungo,-6.79183,39.2087,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,17/06/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.72325,39.23037,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,11/08/2013,1,,Yes,,,,VISA, 
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.35099,37.34257,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,20/09/2009,1,,Yes,,,,Both, 
+Kilimanjaro,Moshi Urban,Longuo,-3.32056,37.33318,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,08/10/2012,1,,Yes,,,,Both, 
+Mwanza,Ilemela,Nyakato,-2.53543,32.93962,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,01/03/2013,2,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83948,39.25577,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,25/04/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.82033,39.28533,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,19/02/2006,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81661,39.29222,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,03/01/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81536,39.29308,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,12/10/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.8141,39.28974,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,04/01/2005,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81432,39.2875,Off-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,06/05/2005,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Temeke,Kigamboni,-6.82296,39.30255,Off-site,UMOJA SWITCH ATM,Twiga Bancorp,Twiga Bancorp,25/02/2013,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Ukonga,-6.87067,39.19026,Off-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,01/01/2008,1,,Yes,,,,,Umoja Switch 
+Arusha,Arusha,Levolosi,-3.36165,36.68411,Off-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,08/10/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.72561,39.21409,On-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,08/01/2013,2,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Madukani,-6.18042,35.74607,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,31/12/2009,1,Yes,Yes,,,Mobile Money,VISA, 
+Mwanza,Nyamagana,Pamba,-2.52204,32.90164,On-site,Commercial Bank ATM,Bank of Africa (Tanzania) Limited,BoA,24/05/2007,1,,Yes,,,Mobile Money,VISA, 
+Dar es Salaam,Ilala,Ukonga,-6.87036,39.19058,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,11/09/2010,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kimara,-6.79132,39.14895,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,06/10/2010,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Kinondoni,Manzese,-6.79888,39.23359,On-site,UMOJA SWITCH ATM,Accessbank (Tanzania) Limited,Access,03/10/2013,2,Yes,Yes,,,Provide loans,Both, 
+Tanga,Korogwe,Korogwe,-5.15729,38.44868,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/02/2005,3,,Yes,Yes,Yes,Mobile Money,Mastercard,NMB Bank Card
+Tanga,Tanga,Ngamiani Kaskazini,-5.07655,39.09888,On-site,Commercial Bank ATM,Diamond Trust Bank (Tanzania) Limited,Diamond Trust,31/01/2010,1,,Yes,Yes,Yes,Mobile Money,VISA, 
+Mwanza,Magu,Mkula,-2.24687,33.84888,On-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,24/02/2010,2,Yes,,,,,VISA, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.76043,39.25216,Off-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,28/08/2008,1,,Yes,,,,Both,Umoja Switch 
+Zanzibar,Zanzibar,Mwanakwerekwe,-6.17738,39.22228,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,04/08/2011,1,,Yes,,,,Both, 
+Zanzibar,Zanzibar,Welezo,-6.15944,39.19473,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,03/06/2009,1,,Yes,,,,Both, 
+Zanzibar,Zanzibar,Welezo,-6.16371,39.18739,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,04/09/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.76941,39.26272,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,13/05/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Msasani,-6.74047,39.28341,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,06/04/2004,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Msasani,-6.73998,39.28385,Off-site,Commercial Bank ATM,Commercial Bank of Africa (Tanzania) Limited,CBA,04/09/2012,1,,Yes,,,,Both, 
+Mtwara,Mtwara Urban,Vigaeni,-10.28189,40.18709,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,06/01/2012,1,,Yes,,,,Both, 
+Mtwara,Mtwara Urban,Shangani,-10.27043,40.18548,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,13/06/1998,1,,Yes,,,,Both, 
+Shinyanga,Kishapu,Songwa,-3.54758,33.55862,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,22/09/2011,1,,Yes,,,,Both, 
+Tanga,Tanga,Ngamiani Kati,-5.08037,39.09794,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/02/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.77341,39.2215,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,25/11/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.7138,39.21106,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,12/08/2006,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.695,39.20492,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,02/04/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.66449,39.1859,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/05/2009,1,,Yes,,,,Both, 
+Morogoro,Morogoro Urban,Kihonda,-6.80236,37.66227,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,28/10/2008,1,,Yes,,,,Both, 
+Mwanza,Magu,Kiloleni,-2.59208,33.44353,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,13/01/2000,1,,Yes,,,,Both, 
+Mwanza,Ilemela,Ilemela,-2.53558,32.93992,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,24/02/2012,2,,Yes,,,,Both, 
+Tanga,Lushoto,Lushoto,-4.79009,38.29056,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,18/01/2014,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.85054,39.27465,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/01/2006,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Magomeni,-6.80281,39.24601,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,05/07/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Manzese,-6.79825,39.23265,Off-site,Community Bank ATM,CRDB Bank Plc,CRDB,03/10/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Mbezi,-6.7286,39.21439,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,03/02/2003,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.72342,39.23018,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,27/07/2013,1,,Yes,,,,Both, 
+Arusha,Arusha,Kimandolu,-3.39059,36.73364,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,06/12/2012,1,,Yes,,,,Both, 
+Arusha,Arusha,Kimandolu,-3.36911,36.69299,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,27/03/2003,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83948,39.25584,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,16/05/2012,3,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.7692,39.26311,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/07/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.72534,39.21419,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,04/09/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.72333,39.23026,Off-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,28/03/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kawe,-6.70144,39.20786,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,13/02/2002,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.72828,39.21515,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,29/03/2004,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Mtoni,-6.86798,39.27467,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,04/12/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.77465,39.2428,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,23/03/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kinondoni,-6.76926,39.26272,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,24/12/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.8396,39.25576,Off-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,19/05/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.76911,39.26265,Off-site,Commercial Bank ATM,FBME Bank (Tanzania) Limited,FBME,17/11/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Msasani,-6.76879,39.26949,Off-site,Commercial Bank ATM,First National Bank (Tanzania) Limited,First National,01/12/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83972,39.25552,Off-site,Commercial Bank ATM,First National Bank (Tanzania) Limited,First National,21/02/2014,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Mbezi,-6.72532,39.21427,Off-site,Commercial Bank ATM,First National Bank (Tanzania) Limited,First National,09/01/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kisutu,-6.81806,39.2831,Off-site,UMOJA SWITCH ATM,International Commercial Bank (Tanzania) Limited,International Commercial,01/10/2012,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kisutu,-6.82296,39.2831,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/01/2010,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Kivukoni,-6.8186,39.29726,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,04/01/2004,2,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Kivukoni,-6.81699,39.29698,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/01/2009,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Kivukoni,-6.81643,39.29572,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,02/01/2008,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Kisutu,-6.81564,39.28878,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/01/2008,2,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Temeke,Kigamboni,-6.82552,39.30432,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/01/2013,2,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Kivukoni,-6.81678,39.29671,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,03/09/2010,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Kisutu,-6.81435,39.28249,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/01/2009,2,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Kivukoni,-6.8138,39.28915,Off-site,Community Bank ATM,National Microfinance Bank Plc,NMB,09/12/2009,6,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Upanga East,-6.80948,39.27626,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,04/12/2006,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Upanga East,-6.80887,39.28019,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/01/2009,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Upanga West,-6.80491,39.27984,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,11/02/2010,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Kinondoni,Msasani,-6.77202,39.27041,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/09/2009,2,,Yes,,,,VISA,Both
+Kilimanjaro,Moshi Urban,Longuo,-3.33266,37.33582,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/01/2012,1,,Yes,,,,,NMB Bank Card
+Mbeya,Mbeya Urban,Itezi,-8.90252,33.53528,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/02/2008,2,,Yes,,,,,NMB Bank Card
+Morogoro,Morogoro Urban,Sabasaba,-6.82733,37.6627,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,25/10/2006,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Kinondoni,Msasani,-6.76846,39.27029,Off-site,UMOJA SWITCH ATM,National Microfinance Bank Plc,NMB,27/01/2005,1,,Yes,,,,,Both
+Dar es Salaam,Kinondoni,Mbezi,-6.66392,39.18511,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,19/12/2011,2,,Yes,,,,VISA,NMB Bank Card
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.66456,33.42229,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,05/10/2012,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Temeke,Temeke,-6.84842,39.25886,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/10/2010,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Ilala,Kivukoni,-6.81953,39.2975,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/01/2003,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.73598,39.22307,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,28/01/2009,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Kinondoni,Mbezi,-6.72336,39.23027,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,15/10/2013,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Kinondoni,Mbezi,-6.66438,39.18506,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,09/02/2011,2,,Yes,,,,Both, 
+Iringa,Iringa Urban,Ruaha,-7.79061,35.70059,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,25/06/2009,1,,Yes,,,,Both, 
+Iringa,Iringa Urban,Kitanzini,-7.78054,35.6953,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,04/06/2011,1,,Yes,,,,Both, 
+Iringa,Iringa Urban,Gangilonga,-7.77764,35.69825,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,23/10/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Mtoni,-6.86509,39.27653,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,04/10/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Miburani,-6.86078,39.26321,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,04/05/2010,1,,Yes,,,,Both, 
+Tanga,Muheza,Masuguru,-5.17409,38.78828,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,21/02/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81826,39.28958,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,12/06/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81739,39.28201,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,19/09/2000,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81362,39.29072,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,21/03/2000,1,,Yes,,,,Both, 
+Zanzibar,Zanzibar,Mwera,-6.15992,39.19467,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,30/04/2011,1,,Yes,,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.52924,32.9075,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,17/01/2010,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Manzese,-6.7968,39.2264,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,11/03/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.78595,39.11365,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,08/10/2013,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Msasani,-6.77474,39.27049,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,30/11/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Bunju,-6.62392,39.1416,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,03/07/2006,1,,Yes,,,,Both, 
+Tabora,Tabora Urban,Kanyenye,-5.02273,32.80911,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,14/06/1999,1,,Yes,,,,Both, 
+Tanga,Tanga,Kiomoni,-5.06341,39.05444,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,02/05/2013,1,,Yes,,,,Both, 
+Mtwara,Masasi,Lulindi,-6.86386,39.20633,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,05/05/2000,1,,Yes,,,,Both, 
+Zanzibar,Zanzibar,Dimani,-6.16086,39.19916,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,30/05/2012,1,,Yes,,,,Both, 
+Mwanza,Geita,Kalangala,-2.87025,32.24194,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,16/04/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Temeke,-6.85037,39.2523,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,23/07/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83959,39.25585,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,24/03/2012,2,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37187,36.69371,Off-site,Community Bank ATM,KCB Bank (Tanzania) Limited,KCB,01/10/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kisutu,-6.81694,39.29135,Off-site,UMOJA SWITCH ATM,Maendeleo Bank,Maendeleo,03/01/2012,1,,Yes,,,,,Umoja Switch 
+Iringa,Iringa Urban,Gangilonga,-7.77951,35.69737,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,23/10/2009,2,,Yes,,,,,NMB Bank Card
+Iringa,Iringa Urban,Gangilonga,-7.77762,35.69821,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,23/10/2013,1,,Yes,,,,Both,NMB Bank Card
+Tanga,Tanga,Pongwe,-5.11712,38.99551,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/02/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Kigamboni,-6.82192,39.30326,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/03/2001,1,,Yes,,,,Both,NMB Bank Card
+Tanga,Tanga,Ngamiani Kati,-5.07898,39.0991,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,07/02/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Kimara,-6.78766,39.17265,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/04/2006,1,,Yes,,,,Both,NMB Bank Card
+Tanga,Tanga,Ngamiani Kaskazini,-5.07785,39.09178,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,05/04/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Mjimwema,-6.85133,39.35567,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,07/02/2010,1,,Yes,,,,Both, 
+Arusha,Arusha,Terrat,-3.416,36.65654,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/04/2009,2,,Yes,,,,Both,NMB Bank Card
+Arusha,Arusha,Kati,-3.3733,36.69222,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,14/05/2004,2,,Yes,,,,VISA,NMB Bank Card
+Arusha,Arusha,Ngarenaro,-3.36289,36.6761,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,15/10/2013,2,,Yes,,,,Both,NMB Bank Card
+Mbeya,Mbeya Urban,Iyela,-8.91098,33.45615,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,21/10/2010,1,,Yes,,,,Both, 
+Mbeya,Mbeya Urban,Forest (Mbeya ward),-8.90965,33.44545,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,24/10/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Mtoni,-6.86795,39.27447,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,30/09/2007,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Temeke,-6.86438,39.26589,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,04/10/2013,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kiwalani,-6.86158,39.22215,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,05/06/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Upanga East,-6.80914,39.28033,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,17/03/2012,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81796,39.28997,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/05/2004,5,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kivukoni,-6.81706,39.29106,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,19/07/2000,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Magomeni,-6.80299,39.24619,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/10/2009,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.77498,39.24262,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,16/07/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.78582,39.11395,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/01/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.7234,39.23023,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,18/05/2013,1,,Yes,,,,Both, 
+Arusha,Arusha,Kimandolu,-3.38195,36.70885,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,24/06/2009,1,,Yes,,,,Both, 
+Tabora,Tabora Urban,Kanyenye,-5.02418,32.8123,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,12/08/2005,1,,Yes,,,,Both, 
+Kigoma,Kigoma Urban,Maweni,-4.89855,29.65419,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,24/09/2012,1,,Yes,,,,Both, 
+Manyara,Babati,Dareda,-4.24039,35.49291,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/10/2011,1,,Yes,,,,Both, 
+Manyara,Babati,Babati,-4.21526,35.7176,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/10/2011,1,,Yes,,,,Both, 
+Manyara,Mbulu,Haidom,-4.19387,35.02543,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/10/2012,1,,Yes,,,,Both, 
+Manyara,Babati,Magugu,-3.99445,35.78306,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/07/2011,1,,Yes,,,,Both, 
+Shinyanga,Kahama,Kahama Mjini,-3.82769,32.59758,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/06/2012,1,,Yes,,,,Both, 
+Arusha,Arusha,Lemara,-3.40714,36.7059,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/05/1998,1,,Yes,,,,Both, 
+Arusha,Arusha,Levolosi,-3.37552,36.67942,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,06/04/2011,1,,Yes,,,,Both, 
+Arusha,Arusha,Elerai,-3.37586,36.66449,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,08/07/2009,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.76914,39.26284,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,05/07/2004,1,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37349,36.69189,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,27/04/2006,4,,Yes,,,,Both, 
+Arusha,Arusha,Kati,-3.37131,36.68618,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,11/07/2011,3,,Yes,,,,Both, 
+Arusha,Arusha,Baraa,-3.37125,36.73661,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,07/11/2011,1,,Yes,,,,Both, 
+Arusha,Arusha,Levolosi,-3.36582,36.68336,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,02/10/2012,1,,Yes,,,,Both, 
+Iringa,Njombe,Njombe Mjini,-9.33639,34.76739,Off-site,UMOJA SWITCH ATM,Njombe Community Bank,Njombe Community,19/02/2012,1,,Yes,,,,,Umoja Switch 
+Kagera,Karagwe,Kayanga,-1.53516,31.15455,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,22/12/1997,2,,Yes,,,,,NMB Bank Card
+Kagera,Misenyi,Kishanda,-1.25283,31.42024,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,04/11/2011,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Kinondoni,Ubungo,-6.79417,39.21604,Off-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,05/07/2008,1,,Yes,,,,,Umoja Switch 
+Arusha,Arusha,Kati,-3.37412,36.68469,Off-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,20/11/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77591,39.24491,Off-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,28/12/1981,1,,Yes,,,,VISA,Umoja Switch 
+Kigoma,Kigoma Urban,Kilimahewa,-4.8786,29.62982,Off-site,Community Bank ATM,Tanzania Postal Bank,Tanzania Postal,26/06/2012,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Mbezi,-6.72527,39.21407,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,13/01/2014,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mbezi,-6.71392,39.21099,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,31/07/2005,1,,Yes,,,,Both, 
+Dar es Salaam,Ilala,Kisutu,-6.81915,39.28647,Off-site,Commercial Bank ATM,Tanzania Investment Bank,Tanzania Investment,01/07/2008,1,,Yes,,,,,Umoja Switch 
+Mwanza,Nyamagana,Nyamagana,-2.52016,32.8996,Off-site,Commercial Bank ATM,Tanzania Investment Bank,Tanzania Investment,10/01/2012,2,,Yes,,,,Both,Umoja Switch 
+Mtwara,Newala,Chiwonga,-6.82143,39.27308,Off-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,12/09/2006,2,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kariakoo,-6.77633,39.24511,Off-site,UMOJA SWITCH ATM,Tanzania Postal bank,Tanzania Postal,05/06/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Mbweni,-6.66531,39.18664,Off-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,23/05/1978,1,,Yes,,,,Both,Umoja Switch 
+Kagera,Bukoba Urban,Birere,-1.33019,31.80862,Off-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,05/12/1999,1,,Yes,,,,VISA, 
+Dar es Salaam,Ilala,Kivukoni,-6.8132,39.28677,Off-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,01/05/2009,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Kijitonyama,-6.77042,39.23658,Off-site,Community Bank ATM,Tanzania Womans bank,Tanzania Womans,16/09/2012,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Temeke,Kigamboni,-6.82429,39.30347,Off-site,UMOJA SWITCH ATM,Twiga Bancorp,Twiga Bancorp,02/01/2013,2,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Temeke,Kigamboni,-6.82355,39.30301,Off-site,UMOJA SWITCH ATM,Twiga Bancorp,Twiga Bancorp,07/02/2012,2,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kisutu,-6.81874,39.28694,Off-site,Commercial Bank ATM,Twiga Bancorp,Twiga Bancorp,07/10/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Kawe,-6.77362,39.21953,Off-site,UMOJA SWITCH ATM,Twiga Bancorp,Twiga Bancorp,05/08/2011,1,,Yes,,,,,Umoja Switch 
+Mwanza,Geita,Kalangala,-2.87045,32.23827,Off-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,03/05/2013,2,,Yes,,,,VISA, 
+Mwanza,Magu,Magu Mjini,-2.52005,32.89951,Off-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,28/07/1990,1,,Yes,,,,Both,Umoja Switch 
+Morogoro,Morogoro Urban,Mji Kuu,-6.82732,37.66349,Off-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,25/01/2010,2,,Yes,,,,Both,Umoja Switch 
+Dar es Salaam,Kinondoni,Msasani,-6.76913,39.26296,Off-site,Commercial Bank ATM,Stanbic Bank (Tanzania) Limited,Stanbic,28/07/2000,1,,Yes,,,,Both, 
+Tanga,Korogwe,Mombo,-4.88769,38.29044,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/02/2008,1,,Yes,Yes,Yes,Mobile Money,,NMB Bank Card
+Shinyanga,Meatu,Mwanhuze,-3.52317,34.3104,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,28/01/1991,2,,Yes,,,,,NMB Bank Card
+Morogoro,Morogoro Urban,Mji Kuu,-6.82834,37.66332,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,24/01/2004,6,,Yes,,,,,NMB Bank Card
+Dodoma,Dodoma Urban,Madukani,-6.17811,35.74649,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,17/03/2003,5,,Yes,Yes,Yes,,,NMB Bank Card
+Lindi,Ruangwa,Ruangwa,-10.07462,38.93622,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/01/2009,1,Yes,Yes,Yes,Yes,,,NMB Bank Card
+Ruvuma,Mbinga,Mbinga Urban,-10.9513,34.99627,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/12/2009,2,,Yes,,,,,NMB Bank Card
+Ruvuma,Songea Urban,Songea Mjini,-10.67902,35.64977,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,29/10/2009,3,,Yes,,,,,NMB Bank Card
+Iringa,Ludewa,Ludewa,-10.09689,34.68652,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,03/11/2005,2,,Yes,,,,,NMB Bank Card
+Iringa,Makete,Lupalilo,-9.25813,34.09859,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,18/12/2010,2,,Yes,Yes,Yes,,,NMB Bank Card
+Iringa,Njombe,Makambako,-8.84454,34.82354,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,23/08/2008,2,,Yes,Yes,Yes,,,NMB Bank Card
+Dar es Salaam,Temeke,Mbagala,-6.91175,39.26985,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,26/05/2013,2,Yes,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Kisutu,-6.81805,39.28372,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/02/2000,2,,Yes,Yes,Yes,,,NMB Bank Card
+Tabora,Urambo,Urambo,-5.07242,32.07064,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,24/11/1999,2,,Yes,Yes,Yes,,,NMB Bank Card
+Manyara,Simanjiro,Orkesumet,-4.46044,37.1976,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,12/09/2008,1,,Yes,,,,,NMB Bank Card
+Tabora,Nzega,Nzega Mjini,-4.2161,33.18676,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,04/09/2003,2,,Yes,Yes,,,,NMB Bank Card
+Kilimanjaro,Same,Same Mjini,-4.06705,37.73733,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,27/11/2005,2,,Yes,Yes,Yes,,,NMB Bank Card
+Kilimanjaro,Mwanga,Mwanga,-3.65526,37.58915,On-site,Community Bank ATM,National Microfinance Bank Plc,NMB,28/01/1987,1,Yes,Yes,Yes,Yes,,,NMB Bank Card
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35411,37.33964,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,07/02/2005,2,,Yes,Yes,,,,NMB Bank Card
+Arusha,Karatu,Karatu,-3.33858,35.6784,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,17/01/1978,2,,Yes,,,,,NMB Bank Card
+Kilimanjaro,Rombo,Kelamfua Mokala,-3.19071,37.61899,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,21/06/2002,2,,Yes,Yes,,,,NMB Bank Card
+Iringa,Mufindi,Mafinga,-8.30198,35.29688,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,20/11/2009,3,,Yes,Yes,Yes,,,NMB Bank Card
+Lindi,Liwale,Liwale Mjini,-9.80505,37.92702,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,02/07/2008,2,,Yes,Yes,Yes,Mobile Money,,NMB Bank Card
+Mbeya,Mbeya Urban,Maanga,-8.91178,33.46655,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/10/2008,4,Yes,Yes,Yes,Yes,,,NMB Bank Card
+Tanga,Kilindi,Songe,-5.57124,37.28991,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,31/12/2008,1,,Yes,Yes,Yes,Mobile Money,,NMB Bank Card
+Tanga,Tanga,Central,-5.07146,39.10164,On-site,Community Bank ATM,National Microfinance Bank Plc,NMB,29/06/2006,3,,Yes,Yes,Yes,Mobile Money,,NMB Bank Card
+Tanga,Lushoto,Lushoto,-4.7939,38.29214,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,24/09/2007,3,,Yes,Yes,Yes,Mobile Money,,NMB Bank Card
+Tanga,Muheza,Majengo,-5.17709,38.79316,On-site,Community Bank ATM,National Microfinance Bank Plc,NMB,05/08/2007,2,,Yes,Yes,Yes,Mobile Money,,NMB Bank Card
+Tanga,Tanga,Central,-5.0715,39.10254,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,06/09/2005,2,,Yes,Yes,Yes,Mobile Money,,NMB Bank Card
+Tanga,Handeni,Chanika,-5.42634,38.01696,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,01/04/2008,2,,Yes,Yes,Yes,Mobile Money,,NMB Bank Card
+Ruvuma,Mbinga,Litembo,-10.97961,34.82646,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,25/02/2005,1,,Yes,,,,,NMB Bank Card
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.67085,33.42746,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,11/08/2006,4,,Yes,Yes,Yes,,,NMB Bank Card
+Mbeya,Rungwe,Bulyaga,-9.25891,33.64604,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,10/02/2008,2,,Yes,Yes,Yes,,,NMB Bank Card
+Dar es Salaam,Kinondoni,Bunju,-6.65755,39.18038,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,21/06/2012,3,Yes,Yes,,,,,NMB Bank Card
+Shinyanga,Bariadi,Bariadi,-2.80154,33.98796,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,12/04/2007,3,,Yes,Yes,Yes,,,NMB Bank Card
+Mbeya,Ileje,Itumba,-9.40966,33.18328,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,02/01/2009,1,,Yes,Yes,Yes,,,NMB Bank Card
+Lindi,Lindi Urban,Makonde,-9.99795,39.71538,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,05/01/2007,2,,Yes,,Yes,,,NMB Bank Card
+Pwani,Mkuranga,Mkuranga,-7.12302,39.20262,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,14/03/2007,3,Yes,Yes,,,,,NMB Bank Card
+Dar es Salaam,Ilala,Kisutu,-6.82134,39.28217,On-site,Commercial Bank ATM,Ecobank (Tanzania) Limited,Ecobank,17/11/2012,1,,Yes,Yes,,,Both,
+Dar es Salaam,Temeke,Tandika,-6.86823,39.26007,On-site,Commercial Bank ATM,Bank of Africa (Tanzania) Limited,BoA,31/08/2009,1,,Yes,,,,,Umoja Switch 
+Morogoro,Morogoro Urban,Sabasaba,-6.82558,37.66317,On-site,Commercial Bank ATM,Bank of Africa (Tanzania) Limited,BoA,12/07/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Kawe,-6.77554,39.21771,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,12/07/2008,1,,Yes,,,,,Umoja Switch 
+Iringa,Mufindi,Mafinga,-8.30172,35.29559,On-site,Community Bank ATM,Mufindi Community bank,Mufindi Community,02/12/2010,1,,Yes,,,,,Umoja Switch 
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35198,37.34141,On-site,Community Bank ATM,Uchumi Commercial Bank,Uchumi Commercial,22/09/2005,1,,Yes,Yes,,,,Umoja Switch 
+Dar es Salaam,Temeke,Temeke,-6.86114,39.26288,On-site,Commercial Bank ATM,Accessbank (Tanzania) Limited,Access,26/10/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Temeke,Temeke,-6.85659,39.26342,On-site,Commercial Bank ATM,Advans Bank (Tanzania) Limited,Advans,17/05/2012,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Temeke,Tandika,-6.86726,39.26138,On-site,Commercial Bank ATM,Akiba Commercial Bank Limited,Akiba,26/04/2010,1,,Yes,,,,,Umoja Switch 
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35874,37.33804,On-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,02/10/2005,1,,Yes,Yes,,,,Umoja Switch 
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35662,37.33824,On-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,04/01/2005,1,,Yes,Yes,Yes,,,Umoja Switch 
+Dar es Salaam,Temeke,Chang'ombe,-6.83776,39.2593,On-site,Commercial Bank ATM,Amana Bank Limited,Amana,19/04/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Mbezi,-6.66325,39.18542,On-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,13/03/2010,1,,Yes,,,,,Umoja Switch 
+Shinyanga,Kahama,Kahama Mjini,-3.83005,32.60481,On-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,14/12/2013,1,,Yes,,,,,Umoja Switch 
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35465,37.33999,On-site,Commercial Bank ATM,Azania Bank Limited,Azania,10/04/2013,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Temeke,Mtoni,-6.87286,39.27249,On-site,Commercial Bank ATM,Bank of Africa (Tanzania) Limited,BoA,27/09/2008,1,,Yes,,,,,Umoja Switch 
+Shinyanga,Kahama,Kahama Mjini,-3.82743,32.59653,On-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,13/02/2013,2,Yes,,Yes,,,,Umoja Switch 
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35758,37.33754,On-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,30/08/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Temeke,Chang'ombe,-6.83641,39.26202,On-site,Commercial Bank ATM,Commercial Bank of Africa (Tanzania) Limited,CBA,20/06/2010,1,Yes,,,,,,Umoja Switch 
+Dar es Salaam,Temeke,Temeke,-6.85722,39.26348,On-site,Commercial Bank ATM,DCB Commercial Bank Plc,DCB,13/08/2010,1,,Yes,,,,,Umoja Switch 
+Kilimanjaro,Moshi Urban,Mawenzi,-3.34949,37.34324,On-site,UMOJA SWITCH ATM,Kilimanjaro Co-operative Bank,Kilimanjaro Co-op,16/06/2002,1,,Yes,Yes,,,,Umoja Switch 
+Ruvuma,Mbinga,Mbinga Urban,-10.95121,35.00053,On-site,UMOJA SWITCH ATM,Mbinga Community Bank,Mbinga Community,05/06/2012,1,,Yes,,,,,Umoja Switch 
+Zanzibar,Zanzibar,Fuoni Kibondeni,-6.41353,39.55514,On-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,02/06/2011,1,,Yes,,,,,Umoja Switch 
+Zanzibar,Zanzibar,Mwanakwerekwe,-6.17694,39.22491,On-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,07/01/2010,2,,Yes,,,,,Umoja Switch 
+Zanzibar,Zanzibar,Welezo,-6.16168,39.18862,On-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,30/05/2007,1,,Yes,,,,,Umoja Switch 
+Zanzibar,Zanzibar,Mwera,-6.15862,39.19516,On-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,02/04/2005,2,,Yes,,,,,Umoja Switch 
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.66945,33.42312,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,02/12/2013,1,,Yes,,Yes,,,Umoja Switch 
+Ruvuma,Songea Urban,Songea Mjini,-10.67939,35.65183,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,30/10/2013,1,,Yes,,,,,Umoja Switch 
+Dodoma,Dodoma Urban,Viwandani,-6.18134,35.74886,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,17/10/2000,1,,Yes,Yes,Yes,,,Umoja Switch 
+Zanzibar,Zanzibar,Bububu,-6.15893,39.19745,On-site,UMOJA SWITCH ATM,Tanzania postal bank,Tanzania postal,01/07/2007,1,,Yes,,,,,Umoja Switch 
+Kilimanjaro,Moshi Urban,Bondeni,-3.34659,37.3452,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,21/02/2014,1,,Yes,Yes,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81632,39.28923,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,15/08/2009,1,,Yes,,,,,Umoja Switch 
+Mbeya,Mbeya Urban,Sisimba,-8.89616,33.44149,On-site,Commercial Bank ATM,TIB Development Bank,TIB Development,18/07/2012,1,,Yes,,,,,Umoja Switch 
+Dodoma,Dodoma Urban,Madukani,-6.17936,35.74326,On-site,UMOJA SWITCH ATM,Twiga BanCorp Limited,Twiga BanCorp,01/11/2012,1,,Yes,,,,,Umoja Switch 
+Dodoma,Dodoma Urban,Madukani,-6.1794,35.74304,On-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,07/04/2013,1,,Yes,Yes,Yes,Mobile Money,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81484,39.26675,On-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,25/01/2011,1,,Yes,Yes,Yes,,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81951,39.28664,On-site,UMOJA SWITCH ATM,Commercial Bank of Africa (Tanzania) Limited,CBA,15/07/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81739,39.29021,On-site,UMOJA SWITCH ATM,FBME Bank (Tanzania) Limited,FBME,03/03/2009,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Manzese,-6.79805,39.22962,On-site,Commercial Bank ATM,Tanzania Postal Bank,Tanzania Postal,01/01/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kisutu,-6.81811,39.28915,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,19/12/2013,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Ilala,Kivukoni,-6.81793,39.28885,On-site,UMOJA SWITCH ATM,Tanzania Women Bank,Tanzania Womans,03/01/2010,1,,Yes,Yes,Yes,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Manzese,-6.79885,39.2321,On-site,UMOJA SWITCH ATM,Advans Bank (Tanzania) Limited,Advans,12/10/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Temeke,Mbagala,-6.91655,39.27063,On-site,UMOJA SWITCH ATM,Akiba Commercial Bank Limited,Akiba,12/05/2010,1,,Yes,,,,,Umoja Switch 
+Tabora,Tabora Urban,Kanyenye,-5.0235,32.8091,On-site,UMOJA SWITCH ATM,Tanzania Postal Bank,Tanzania Postal,16/06/2004,1,,Yes,Yes,Yes,,,Umoja Switch 
+Mbeya,Mbozi,Tunduma,-9.30638,32.7636,On-site,Commercial Bank ATM,Bank of Africa (Tanzania) Limited,BoA,17/02/2011,1,,Yes,,,,,Umoja Switch 
+Kilimanjaro,Mwanga,Mwanga,-3.65695,37.59065,On-site,Community Bank ATM,Mwanga Community Bank Ltd,Mwanga Community,02/10/1999,2,Yes,Yes,Yes,Yes,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83961,39.25594,On-site,Commercial Bank ATM,Equity bank (Tanzania) Limited,Equity,21/06/2010,2,,Yes,,,,Both, 
+Zanzibar,Zanzibar,Fumba,-6.15736,39.19425,On-site,Commercial Bank ATM,KCB Bank (Tanzania) Limited,KCB,28/07/2011,2,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Kurasini,-6.8529,39.28289,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,27/02/2011,2,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Magomeni,-6.82206,39.28468,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,26/06/2008,4,,Yes,,,,Both,NMB Bank Card
+Zanzibar,Zanzibar,Mwera,-6.15913,39.19504,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,30/09/2009,2,,Yes,,,,Both,NMB Bank Card
+Zanzibar,Zanzibar,Mbuzini,-6.19663,39.21158,On-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,01/07/2011,1,,Yes,,,,Both, 
+Zanzibar,Zanzibar,Welezo,-6.17144,39.19849,On-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,14/01/2012,1,,Yes,,,,Both, 
+Zanzibar,Zanzibar,Bububu,-6.15905,39.19931,On-site,UMOJA SWITCH ATM,Peoples' Bank of Zanzibar Limited,Peoples' of Zanzibar,11/08/2011,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.844,39.27274,On-site,Commercial Bank ATM,Exim Bank (Tanzania) Limited,Exim,24/04/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.83689,39.25881,On-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,20/06/2011,1,,Yes,,,,Both, 
+Iringa,Iringa Urban,Gangilonga,-7.77673,35.69857,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,17/07/2011,5,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Temeke,Miburani,-6.8632,39.26332,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,04/10/1998,3,,Yes,,,,Both,NMB Bank Card
+Manyara,Kiteto,Kibaya,-5.3163,36.56743,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,25/10/1997,2,,Yes,,Yes,,Both,NMB Bank Card
+Manyara,Hanang,Katesh,-4.5228,35.37693,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,24/07/1996,2,,Yes,,,,Both,NMB Bank Card
+Manyara,Mbulu,Mbulu Mjini,-3.85651,35.54203,On-site,Community Bank ATM,National Microfinance Bank Plc,NMB,01/10/1997,2,,Yes,,,,Both,NMB Bank Card
+Ruvuma,Songea Urban,Songea Mjini,-10.67882,35.64729,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/09/2011,2,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Msasani,-6.76933,39.26279,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,09/02/1985,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Mikocheni,-6.75639,39.24821,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,31/01/2014,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Mbezi,-6.72317,39.23039,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,14/05/2013,1,,Yes,,,,VISA, 
+Arusha,Arusha,Levolosi,-3.37559,36.67941,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,26/12/2010,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Msasani,-6.74005,39.28389,Off-site,Commercial Bank ATM,Standard Chartered Bank (Tanzania) Limited,Standard Chartered,28/11/2008,1,,Yes,,,,Both, 
+Dar es Salaam,Kinondoni,Tandale,-6.79629,39.23697,Off-site,UMOJA SWITCH ATM,Umoja Switch ATM,Umoja Switch ATM,10/10/2010,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Mbezi,-6.71422,39.21092,Off-site,UMOJA SWITCH ATM,United Bank for Africa (Tanzania) Limited,United for Africa,10/10/2011,1,,Yes,,,,,Umoja Switch 
+Dar es Salaam,Kinondoni,Kinondoni,-6.7911,39.2637,Off-site,Commercial Bank ATM,Akiba Commercial Bank Limited,Akiba,16/02/2011,1,,Yes,,,,Mastercard, 
+Dar es Salaam,Temeke,Chang'ombe,-6.8407,39.2558,Off-site,Commercial Bank ATM,Barclays Bank (Tanzania) Limited,Barclays,22/05/2012,1,,Yes,,,,Both, 
+Kagera,Muleba,Muleba,-1.84925,31.65101,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/11/2013,1,,Yes,,,,Both, 
+Mbeya,Mbozi,Mlowo,-9.01603,33.00345,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/06/2013,1,,Yes,,,,Both, 
+Dodoma,Dodoma Urban,Makole,-6.17842,35.75826,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,20/03/2010,1,,Yes,,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.51854,32.90073,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/01/2009,2,,Yes,,,,Both, 
+Kagera,Bukoba Urban,Birere,-1.33022,31.80817,Off-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,29/01/2014,2,,Yes,,,,Both, 
+Dar es Salaam,Temeke,Chang'ombe,-6.84074,39.25588,Off-site,Commercial Bank ATM,I & M Bank (Tanzania) Limited,I & M,23/07/2012,1,,Yes,,,,Both, 
+Mbeya,Mbozi,Vwawa,-9.11074,32.9319,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,17/02/2014,1,,Yes,,,,Both,NMB Bank Card
+Dar es Salaam,Kinondoni,Kawe,-6.77251,39.18931,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,09/02/2010,1,,Yes,,,,Both,NMB Bank Card
+Mwanza,Nyamagana,Nyamagana,-2.60128,32.89985,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,02/01/2010,2,,Yes,,,,VISA,NMB Bank Card
+Dar es Salaam,Kinondoni,Makuburi,-6.80513,39.20775,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,17/02/2009,1,,Yes,,,,,Umoja Switch 
+Dodoma,Dodoma Urban,Makole,-6.18109,35.75648,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,17/05/2007,2,,Yes,,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.60124,32.89951,Off-site,Commercial Bank ATM,NBC Bank Limited,NBC,01/01/2010,1,,Yes,,,,Both, 
+Kagera,Bukoba Urban,Birere,-1.33071,31.81229,On-site,Commercial Bank ATM,NBC Bank Limited,NBC,16/11/1991,2,,Yes,,,,Both, 
+Kagera,Biharamulo,Biharamulo Mjini,-2.63275,31.30886,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,28/03/1997,2,,Yes,,,,,NMB Bank Card
+Kagera,Bukoba Urban,Birere,-1.33137,31.80956,Off-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,25/08/1990,1,,Yes,,,,,NMB Bank Card
+Dar es Salaam,Temeke,Chang'ombe,-6.83964,39.25567,Off-site,Commercial Bank ATM,Tanzania Womens Bank,Tanzania Womans,18/08/2011,1,,Yes,,,,,Umoja Switch 
+Mwanza,Nyamagana,Nyamagana,-2.5165,32.90127,On-site,UMOJA SWITCH ATM,Azania Bank Limited,Azania,01/01/2010,1,Yes,,,,,Mastercard, 
+Mbeya,Mbeya Urban,Ruanda,-8.91147,33.45711,On-site,UMOJA SWITCH ATM,Bank of Africa (Tanzania) Limited,BoA,15/07/2010,1,,Yes,Yes,Yes,,Both, 
+Mbeya,Mbozi,Tunduma,-9.31248,32.7647,On-site,Commercial Bank ATM,Commercial Bank of Africa (Tanzania) Limited,CBA,20/05/2012,1,,Yes,,,,VISA, 
+Lindi,Lindi Urban,Ndoro,-9.99658,39.71271,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,07/05/2000,2,Yes,Yes,,Yes,,Both, 
+Dar es Salaam,Kinondoni,Makuburi,-6.80522,39.2082,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,17/02/2007,1,,Yes,,,,VISA, 
+Shinyanga,Shinyanga Urban,Shinyanga Mjini,-3.66985,33.42378,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,22/09/1989,2,Yes,Yes,,,,Both, 
+Mwanza,Nyamagana,Nyamagana,-2.52161,32.89978,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,01/01/2009,3,Yes,,,,,Mastercard, 
+Mara,Musoma Urban,Mukendo,-1.49453,33.80735,On-site,Commercial Bank ATM,CRDB Bank Plc,CRDB,15/01/2013,1,,Yes,,,,VISA, 
+Dar es Salaam,Kinondoni,Kinondoni,-6.78388,39.26422,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,12/02/2003,1,,Yes,,,,VISA,NMB Bank Card
+Kagera,Biharamulo,Biharamulo Mjini,-2.63353,31.30964,On-site,Commercial Bank ATM,National Microfinance Bank Plc,NMB,26/03/1997,2,Yes,,,,,Both,NMB Bank Card

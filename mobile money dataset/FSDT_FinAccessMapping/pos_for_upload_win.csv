@@ -1,0 +1,406 @@
+region,district,ward,latitude,longitude,business_name,financial_institution_name,yr_started,visa,mastercard,other_cards,other_cards_details,business_type,business_type_detail
+Dar es Salaam,Ilala,Kivukoni,-6.8102,39.29562,A To Z Supermarket,CRDB,02/02/2013 00:00,Yes,Yes,,,Grocery Store,
+Dar es Salaam,Ilala,Kivukoni,-6.81526,39.29286,Abc Computer Ltd,CRDB,30/07/2013 00:00,Yes,Yes,,,Stationary,
+Ruvuma,Songea Urban,Bomba Mbili,-10.66382,35.65184,Abiudi Msigwa,CRDB,24/02/2013 00:00,Yes,Yes,,,Duka,
+Tanga,Muheza,Mbaramo,-5.17381,38.78804,Acha 2 Phone,CRDB,23/09/2013 00:00,,,,,Electronic Shop,
+Arusha,Arusha,Kati,-3.36287,36.69558,Afican Galleria,Exim Bank,27/12/2013 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Ilala,Upanga West,-6.8036,39.28773,Aga Khan Hospital,Barclays Bank,01/02/2011 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Ilala,Upanga West,-6.80367,39.28816,Aga Khan Hospital,Barclays Bank,01/02/2011 00:00,Yes,Yes,,,Pharmacy,
+Dar es Salaam,Ilala,Upanga West,-6.80392,39.28816,Aga Khan Hospital,Barclays Bank,01/02/2011 00:00,Yes,Yes,,,Pharmacy,
+Dar es Salaam,Ilala,Kivukoni,-6.81842,39.28635,Ak'S Fashions,CRDB,13/03/2013 00:00,Yes,Yes,,,Salon,
+Mtwara,Mtwara Rural,Ziwani,-10.34491,40.24823,Almas Shop,Tanzania Postal Bank,13/09/2012 00:00,Yes,Yes,,,General Dealer,
+Mwanza,Geita,Kalangala,-2.8735,32.23138,Alpha  Hotel Ltd,CRDB,06/01/2010 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Ilala,Kariakoo,-6.82033,39.27662,Amaly Investment,CRDB,20/06/2013 00:00,,,,,Wholesale,
+Mwanza,Geita,Kalangala,-2.88077,32.22063,Ambassador Pub,CRDB,02/01/2010 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Ilala,Ukonga,-6.92019,39.14767,Amina Rajabu,Equit Bank,01/10/2013 00:00,Yes,Yes,,,Other,None
+Kagera,Bukoba Urban,Mimbeni,-1.33028,31.81142,Amiri Hamza,CRDB,08/04/2013 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Ukonga,-6.87126,39.18906,Anasima Joel,CRDB,14/02/2014 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Kivukoni,-6.82,39.288,Azam  Marine,Exim Bank,14/09/2010 00:00,Yes,Yes,,,Other,Marine Transportation
+Dar es Salaam,Ilala,Kivukoni,-6.82127,39.2882,Azam Marine,Barclays Bank,06/02/2012 00:00,Yes,Yes,,,Other,Travel Agency
+Dar es Salaam,Ilala,Kivukoni,-6.81998,39.2879,Azam Marine,CRDB,05/02/2014 00:00,Yes,Yes,,,Other,Transportation Services
+Dar es Salaam,Ilala,Kivukoni,-6.82016,39.28788,Azam Marine,CRDB,10/10/2010 00:00,Yes,Yes,,,Other,Transportation Services
+Zanzibar,Zanzibar,Fumba,-6.15663,39.19384,Azam Marine,CRDB,13/08/2010 00:00,Yes,Yes,,,Other,Transportation Services
+Arusha,Arusha,Elerai,-3.36136,36.67071,Baclays Pos,Barclays Bank,25/01/2013 00:00,,,,,Hotel,
+Arusha,Arumeru,Akheri,-3.38038,36.79259,Baclays Pos,Barclays Bank,16/05/2013 00:00,,,,,Hotel,
+Arusha,Arusha,Kati,-3.37184,36.68549,Baclays Pos,Barclays Bank,30/05/2012 00:00,,,,,Hotel,
+Arusha,Arusha,Oloirien,-3.37518,36.69897,Baclays Pos,Barclays Bank,08/01/2009 00:00,,,,,Hotel,
+Pwani,Bagamoyo,Dunda,-6.44412,38.90591,Bagamoyo Service Centre,CRDB,26/05/2013 00:00,Yes,Yes,,,Other,Cellphone and accessories
+Dar es Salaam,Ilala,Gerezani,-6.82316,39.27655,Bariki Pharmarcy,Barclays Bank,11/02/2012 00:00,Yes,Yes,,,Pharmacy,
+Mbeya,Mbeya Urban,Forest (Mbeya ward),-8.91124,33.4377,Beaco Hotel,CRDB,21/02/2013 00:00,Yes,Yes,,,Hotel,
+Ruvuma,Mbinga,Mbinga Urban,-10.9511,34.99712,Benasi Andole Mbunda,CRDB,26/02/2013 00:00,Yes,Yes,,,Stationary,
+Ruvuma,Mbinga,Mbinga Urban,-10.94899,34.99755,Benny Karama Investment,CRDB,26/02/2013 00:00,Yes,Yes,,,Electronic Shop,
+Arusha,Arusha,Kati,-3.37417,36.68486,Benso & Company,Exim Bank,03/06/2013 00:00,,,,,Wholesale,
+Dar es Salaam,Ilala,Gerezani,-6.82444,39.2752,Bfy,CRDB,05/07/2013 00:00,Yes,Yes,,,Duka,
+Mbeya,Mbeya Urban,Sisimba,-8.89228,33.44235,Blue Bert Bureau De Exchange,CRDB,22/02/2013 00:00,Yes,Yes,,,Bureau de Exchange,
+Zanzibar,Zanzibar,Chuini,-6.16329,39.18953,Blue Safari,Barclays Bank,28/05/2012 00:00,Yes,Yes,,,Other,Car Rental
+Dar es Salaam,Ilala,Ukonga,-6.90674,39.14393,Brasio,DCB  Commercial Bank,31/10/2013 00:00,Yes,Yes,,,Duka,
+Iringa,Iringa Urban,Mkwawa,-7.76293,35.68676,Chap Chap,NMB,16/01/2009 00:00,,,,,Other,Gazebo
+Ruvuma,Mbinga,Mbamba Bay,-11.28658,34.80309,Chimundala Shop,CRDB,26/02/2013 00:00,Yes,Yes,,,Bar,
+Dar es Salaam,Temeke,Yombo Vituka,-6.8804,39.24546,Clara Ruhara Shop,DCB  Commercial Bank,13/11/2012 00:00,Yes,Yes,,,Other,Cosmetics Shop
+Dar es Salaam,Kinondoni,Mikocheni,-6.75641,39.24829,Codesh Silver Jewelery,CRDB,28/06/2013 00:00,,Yes,,,Other,Jewelery Shop
+Dar es Salaam,Ilala,Kariakoo,-6.82224,39.27421,Conrad Tomas Mushi,CRDB,08/02/2013 00:00,Yes,Yes,,,Duka,
+Arusha,Arusha,Themi,-3.37705,36.69723,Corrido Prings Hotel,Exim Bank,27/07/2013 00:00,,,,,Hotel,
+Singida,Singida Urban,Ipembe,-4.81778,34.75279,Crdb,CRDB,14/07/2012 00:00,Yes,Yes,,,Other,Bank
+Singida,Iramba,Kiomboi,-4.28179,34.40738,Crdb Bank,CRDB,22/05/2013 00:00,Yes,Yes,,,Other,Bank
+Singida,Manyoni,Manyoni,-5.74924,34.83781,Crdb Bank,CRDB,26/05/2013 00:00,Yes,Yes,,,Other,Bank
+Kagera,Bukoba Urban,Birere,-1.33013,31.81155,Crdb Bank,CRDB,31/03/2013 00:00,Yes,Yes,,,Duka,
+Singida,Manyoni,Manyoni,-5.74919,34.83799,Crdb Bank,CRDB,28/05/2013 00:00,Yes,Yes,,,Other,Bank
+Pwani,Bagamoyo,Dunda,-6.44746,38.90816,Crdb Bank,CRDB,01/07/2013 00:00,Yes,Yes,,,Wholesale,
+Mwanza,Kwimba,Bupamwa,-2.52233,32.9048,Crdb Bank,CRDB,07/11/2013 00:00,Yes,,,,Duka,
+Arusha,Arusha,Kimandolu,-3.37976,36.70685,Crdb Pos,CRDB,07/01/2014 00:00,,,,,Grocery Store,
+Arusha,Arusha,Levolosi,-3.36857,36.68024,Crdb Pos,CRDB,05/01/2014 00:00,,,,,Hotel,
+Rukwa,Sumbawanga Urban,Kizwite,-7.96195,31.61302,Crdb Sumbawanga Branch,CRDB,26/05/2013 00:00,Yes,Yes,,,Duka,
+Kagera,Muleba,Muleba,-1.84235,31.65357,Crdb Tpc Muleba Agency,CRDB,17/09/2013 00:00,Yes,Yes,,,Other,Post Office
+Dar es Salaam,Ilala,Chanika,-6.99848,39.08382,Criss Stationery,DCB  Commercial Bank,14/10/2012 00:00,Yes,Yes,,,Stationary,
+Arusha,Arusha,Kati,-3.37013,36.68643,Crown Hotel,NBC,26/11/2013 00:00,Yes,Yes,,,Hotel,
+Arusha,Arumeru,Kisongo,-3.37652,36.65217,Culture Heltage,CRDB,22/10/2009 00:00,Yes,Yes,,,General Dealer,
+Ruvuma,Mbinga,Mbinga Urban,-10.9533,34.99757,Dae Petrol Station,CRDB,24/03/2013 00:00,Yes,Yes,,,Other,Petrol Station
+Mara,Tarime,Tarime,-1.34409,34.3802,Daisy Hotel,CRDB,10/02/2010 00:00,,Yes,,,Hotel,
+Mwanza,Kwimba,Bupamwa,-2.51954,32.90785,Daudi Benja,Equit Bank,08/02/2013 00:00,Yes,,,,Duka,
+Dar es Salaam,Ilala,Ukonga,-6.86222,39.20556,Dcb Jirani,DCB  Commercial Bank,04/11/2013 00:00,Yes,Yes,,,Stationary,
+Dar es Salaam,Kinondoni,Goba,-6.64835,39.17449,Dcb Jirani,DCB  Commercial Bank,07/09/2013 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Ilala,Ukonga,-6.86885,39.19252,Dela Traders,DCB  Commercial Bank,02/01/2014 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Kinondoni,Sinza,-6.78322,39.2285,Denejo,Tanzania Postal Bank,29/08/2013 00:00,,Yes,,,Stationary,
+Dodoma,Dodoma Urban,Makutupora,-6.02483,35.7559,Deo Shop,CRDB,13/01/2013 00:00,,,,,Duka,
+Dar es Salaam,Ilala,Tabata,-6.82093,39.2277,Donald Mizambo,DCB  Commercial Bank,27/12/2012 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Kinondoni,Kijitonyama,-6.76959,39.22955,Doroth Shop,Tanzania Postal Bank,25/09/2012 00:00,,Yes,,,Duka,
+Mwanza,Nyamagana,Nyamagana,-2.51932,32.89973,Duka,CRDB,01/02/2013 00:00,Yes,Yes,,,Duka,
+Mara,Tarime,Tarime,-1.50649,33.79469,Edis,CRDB,25/09/2013 00:00,,,,,Duka,
+Arusha,Arumeru,Usa River,-3.32618,36.87736,Edmound Shop,CRDB,11/11/2013 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Ilala,Kariakoo,-6.82296,39.27382,Elangwa Mchmvu,CRDB,07/10/2013 00:00,,,,,Wholesale,
+Dar es Salaam,Ilala,Ukonga,-6.87912,39.16105,Elasto Kitashu,Equit Bank,01/12/2013 00:00,Yes,,,,Stationary,
+Mwanza,Nyamagana,Nyamagana,-2.51905,32.89909,Electronic Shop,Equit Bank,02/01/2013 00:00,Yes,Yes,,,Electronic Shop,
+Dar es Salaam,Ilala,Kivukoni,-6.8162,39.28934,Eliedo Boutique,CRDB,08/02/2014 00:00,Yes,Yes,,,Other,Salon
+Ruvuma,Songea Urban,Mfaranyaki,-10.67842,35.6453,Eliza Kija,CRDB,27/02/2013 00:00,Yes,Yes,,,Other,Cellphone and accessories
+Dar es Salaam,Ilala,Ukonga,-6.87831,39.16526,Elizabeth Mchilasi Masinde,DCB  Commercial Bank,08/02/2014 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Mchafukoge,-6.82184,39.28299,Ellytex Investment,CRDB,17/10/2013 00:00,Yes,Yes,,,Duka,
+Ruvuma,Songea Urban,Mfaranyaki,-10.67789,35.64675,Emanuel Kindole Shop,CRDB,27/02/2013 00:00,Yes,Yes,,,Wholesale,
+Mwanza,Nyamagana,Nyamagana,-2.60079,32.89671,Emily Sambu,CRDB,04/07/2013 00:00,Yes,,,,Stationary,
+Dar es Salaam,Ilala,Kivukoni,-6.81884,39.28698,Emmanuel Elegant Wear,Exim Bank,02/02/2013 00:00,Yes,Yes,,,Other,Salon
+Dar es Salaam,Ilala,Kiwalani,-6.871,39.22938,Emmanuel Shayo,CRDB,16/06/2013 00:00,Yes,Yes,,,Electronic Shop,
+Dar es Salaam,Ilala,Ukonga,-6.89389,39.19349,Epason Group Investment,Equit Bank,10/01/2014 00:00,Yes,,,,Other,Tailoring Services
+Dar es Salaam,Ilala,Kiwalani,-6.86752,39.22421,Equity Agent,Equit Bank,30/01/2014 00:00,Yes,Yes,,,Duka,
+Arusha,Arumeru,Usa River,-3.37104,36.85853,Equity Pos,Equit Bank,23/12/2013 00:00,,,,,Duka,
+Arusha,Arusha,Lemara,-3.43133,36.70379,Equity Pos,Equit Bank,08/01/2014 00:00,,,,,General Dealer,
+Arusha,Arusha,Kimandolu,-3.37984,36.70684,Equity Pos,Equit Bank,15/12/2012 00:00,,,,,Wholesale,
+Arusha,Arusha,Ngarenaro,-3.37533,36.67817,Equity Wakala,Equit Bank,10/11/2013 00:00,,,,,Cafe,
+Arusha,Arumeru,Usa River,-3.37357,36.84877,Equty Agent,Equit Bank,10/08/2013 00:00,,,,,Stationary,
+Mbeya,Kyela,Matema,-9.50614,34.00402,Ex-Crocodile Camp,CRDB,25/06/1988 00:00,Yes,Yes,,,Hotel,
+Arusha,Arusha,Elerai,-3.36205,36.6728,Exim Pos,Exim Bank,30/06/2013 00:00,,,,,Bar,
+Arusha,Arumeru,Akheri,-3.38043,36.78837,Exim Pos,Exim Bank,20/10/2012 00:00,,,,,Hotel,
+Arusha,Arusha,Kimandolu,-3.36737,36.71118,Exim Pos,Exim Bank,23/07/2013 00:00,,,,,Hotel,
+Arusha,Arusha,Kati,-3.37045,36.6952,Exim Pos,Exim Bank,22/02/2013 00:00,,,,,Hotel,
+Arusha,Arusha,Ngarenaro,-3.37516,36.67902,Exim Pos,Exim Bank,14/10/2012 00:00,,,,,Wholesale,
+Arusha,Arusha,Sekei,-3.36533,36.70727,Exim Pos,Exim Bank,30/05/2013 00:00,,,,,Wholesale,
+Dodoma,Dodoma Urban,Madukani,-6.17735,35.74515,Fahari Hiduma,CRDB,08/11/2012 00:00,Yes,,,,General Dealer,
+Dodoma,Dodoma Urban,Tambukareli,-6.18295,35.75222,Fahari Huduma,CRDB,17/09/2013 00:00,,Yes,,,Duka,
+Dodoma,Dodoma Urban,Majengo,-6.17791,35.74124,Fahari Huduma,CRDB,17/08/2013 00:00,,Yes,,,Duka,
+Shinyanga,Bukombe,Runzewe,-3.33927,31.52384,Fahari Huduma,CRDB,24/10/2013 00:00,Yes,Yes,,,Duka,
+Dodoma,Dodoma Urban,Majengo,-6.1769,35.74236,Fahari Huduma,CRDB,14/06/2013 00:00,Yes,,,,Duka,
+Dodoma,Dodoma Urban,Madukani,-6.17831,35.74552,Fahari Huduma,CRDB,01/10/2012 00:00,Yes,,,,Electronic Shop,
+Dodoma,Dodoma Urban,Viwandani,-6.1796,35.7492,Fahari Huduma,CRDB,15/11/2013 00:00,Yes,,,,Electronic Shop,
+Dodoma,Dodoma Urban,Viwandani,-6.18119,35.74785,Fahari Huduma,CRDB,15/12/2012 00:00,Yes,Yes,,,General Dealer,
+Dodoma,Dodoma Urban,Madukani,-6.17933,35.74624,Fahari Huduma,CRDB,10/10/2013 00:00,Yes,,,,General Dealer,
+Dodoma,Dodoma Urban,Viwandani,-6.1813,35.74811,Fahari Huduma,CRDB,21/09/2013 00:00,Yes,,,,Pharmacy,
+Dar es Salaam,Temeke,Mtoni,-6.86689,39.27483,Fahari Huduma,CRDB,01/11/2013 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Kinondoni,Bunju,-6.63755,39.16184,Fahari Huduma,CRDB,29/10/2013 00:00,Yes,Yes,,,Electronic Shop,
+Dar es Salaam,Kinondoni,Goba,-6.66459,39.18655,Fahari Huduma,CRDB,11/08/2013 00:00,,,,,Other,Bank
+Dar es Salaam,Ilala,Kisutu,-6.81809,39.28701,Fahari Huduma,CRDB,27/03/2013 00:00,Yes,Yes,,,Other,Cellphone and accessories
+Pwani,Bagamoyo,Dunda,-6.44605,38.90655,Fahari Huduma,CRDB,19/02/2013 00:00,Yes,Yes,,,Other,Cellphone and accessories
+Pwani,Bagamoyo,Dunda,-6.44613,38.9066,Fahari Huduma,CRDB,10/01/2013 00:00,Yes,Yes,,,Other,Dry cleaner
+Dar es Salaam,Ilala,Kisutu,-6.81661,39.28642,Fahari Huduma,CRDB,30/05/2013 00:00,Yes,Yes,,,Stationary,
+Mbeya,Chunya,Chokaa,-8.52248,33.42183,Fahari Huduma,CRDB,06/01/2014 00:00,Yes,Yes,,,Pharmacy,
+Dar es Salaam,Kinondoni,Mbweni,-6.65842,39.18053,Fahari Huduma,CRDB,26/06/2013 00:00,Yes,Yes,,,Stationary,
+Dar es Salaam,Kinondoni,Kawe,-6.73878,39.22512,Fahari Huduma J W Power,CRDB,26/06/2013 00:00,Yes,Yes,,,Stationary,
+Dar es Salaam,Ilala,Ukonga,-6.87043,39.19084,Fahari Huduma Ulipo Wakala,CRDB,27/11/2013 00:00,Yes,Yes,,,Other,Bank
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34829,37.34281,Fahari Huduma Wakala,CRDB,06/12/2013 00:00,Yes,Yes,,,Duka,
+Shinyanga,Maswa,Nyalikungu,-3.18069,33.78544,Fahari Popote,CRDB,24/01/2014 00:00,Yes,,,,Other,Post Office
+Dar es Salaam,Ilala,Ukonga,-6.88119,39.17835,Fide Stationary,DCB  Commercial Bank,01/10/2013 00:00,Yes,Yes,,,Stationary,
+Dar es Salaam,Ilala,Ukonga,-6.88198,39.15654,Fide Stationery,DCB  Commercial Bank,11/02/2014 00:00,Yes,Yes,,,Stationary,
+Arusha,Arusha,Kati,-3.37552,36.70035,Fig Ansd Olive,CRDB,24/12/2012 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Ilala,Kivukoni,-6.81868,39.28651,Freetown Excutive Wear,Barclays Bank,14/11/2012 00:00,,Yes,,,Other,Salon
+Dar es Salaam,Ilala,Kivukoni,-6.81561,39.28777,Freetown Executive Wear,CRDB,29/12/2012 00:00,Yes,Yes,,,Other,Salon
+Ruvuma,Mbinga,Mbamba Bay,-11.2861,34.80217,Gabriel Matia Matembo,CRDB,26/02/2013 00:00,Yes,Yes,,,Wholesale,
+Ruvuma,Mbinga,Mbamba Bay,-11.28644,34.80233,Gabriel Mwangosi,CRDB,26/02/2013 00:00,Yes,Yes,,,Duka,
+Mbeya,Mbeya Urban,Sisimba,-8.89562,33.44177,Gazele Safaries Limited,CRDB,22/02/2011 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Temeke,Yombo Vituka,-6.86256,39.23201,Gesarf,Equit Bank,01/07/2012 00:00,Yes,Yes,,,General Dealer,
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35331,37.34115,Glads Adveture Tours,CRDB,10/05/2010 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Kinondoni,Kawe,-6.77143,39.18873,Gloria Shop,CRDB,21/09/2010 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Ukonga,-6.87917,39.16502,Godson Kato,DCB  Commercial Bank,01/12/2013 00:00,Yes,Yes,,,Duka,
+Mbeya,Mbeya Urban,Ilomba,-8.91217,33.49568,Golden City Hotel,CRDB,21/02/2013 00:00,Yes,Yes,,,Hotel,
+Arusha,Arusha,Themi,-3.37672,36.70143,Golden Tulip Africa,Exim Bank,24/10/2013 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Kinondoni,Mikocheni,-6.71935,39.23329,Gourmet,Exim Bank,31/01/2011 00:00,Yes,Yes,,,Restaurant,
+Dar es Salaam,Ilala,Tabata,-6.83004,39.22744,Green Light Hotel,CRDB,13/12/2012 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Ilala,Kariakoo,-6.82593,39.27144,Hadija Stationery,Equit Bank,19/12/2012 00:00,Yes,Yes,,,Stationary,
+Dar es Salaam,Ilala,Kariakoo,-6.81978,39.27497,Hakika Limited,CRDB,26/08/2013 00:00,,,,,Wholesale,
+Dar es Salaam,Kinondoni,Mikocheni,-6.75779,39.24925,Harrys Sizzler And Steak House,Exim Bank,28/08/2013 00:00,Yes,Yes,,,Restaurant,
+Dar es Salaam,Kinondoni,Kawe,-6.76757,39.22592,Haruna Shop,Tanzania Postal Bank,27/08/2010 00:00,Yes,Yes,,,Stationary,
+Ruvuma,Songea Urban,Bomba Mbili,-10.64917,35.65076,Heritage Cortage Hotel,CRDB,24/02/2013 00:00,Yes,Yes,,,Hotel,
+Mbeya,Mbeya Urban,Sisimba,-8.89003,33.44596,Hill View Hotel,CRDB,22/02/2013 00:00,Yes,Yes,,,Hotel,
+Arusha,Arusha,Kati,-3.37192,36.68552,Hotel Aquline,CRDB,23/12/2004 00:00,Yes,Yes,,,General Dealer,
+Arusha,Arusha,Kati,-3.37387,36.68628,Hotel Palson,CRDB,02/01/2013 00:00,Yes,Yes,,,Hotel,
+Arusha,Arusha,Sombetini,-3.37225,36.68454,Hugo Plaza Hotel,CRDB,21/11/2008 00:00,Yes,Yes,,,Hotel,
+Rukwa,Sumbawanga Urban,Mazwi,-7.96259,31.61126,Ikuwo Stationary,CRDB,11/04/2010 00:00,Yes,Yes,,,Stationary,
+Arusha,Arusha,Themi,-3.37692,36.70373,Impala Hotel,Exim Bank,22/09/2013 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Kinondoni,Kunduchi,-6.66936,39.1905,Irice Stationary,CRDB,26/06/2013 00:00,,,,,Stationary,
+Dar es Salaam,Kinondoni,Sinza,-6.77144,39.22133,Jamil Shop,Equit Bank,14/01/2013 00:00,Yes,,,,Cafe,
+Kagera,Bukoba Urban,Birere,-1.32977,31.80998,Jamila Shongolo,CRDB,08/08/2013 00:00,Yes,,,,Duka,
+Dar es Salaam,Kinondoni,Mbezi,-6.68623,39.2232,Jangwani Resort,Exim Bank,31/01/1998 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Kinondoni,Mbezi,-6.68615,39.22332,Jangwani Resort,NBC,11/01/1998 00:00,Yes,Yes,,,Hotel,
+Kagera,Chato,Chatokati,-2.63795,31.76389,Japheti Seni Maraba,CRDB,23/10/2013 00:00,Yes,,,,Other,Cellphone and accessories
+Dar es Salaam,Ilala,Kiwalani,-6.86262,39.23202,Jasafi Investment,Equit Bank,01/10/2013 00:00,Yes,Yes,,,Other,None
+Dar es Salaam,Kinondoni,Kawe,-6.77373,39.22019,Jd Pharmacy,CRDB,07/02/2010 00:00,Yes,Yes,,,Pharmacy,
+Dar es Salaam,Ilala,Kivukoni,-6.81502,39.28962,Jd Pharmacy,Exim Bank,03/03/2013 00:00,Yes,Yes,,,Pharmacy,
+Dar es Salaam,Ilala,Kariakoo,-6.82627,39.27096,Jelamac Secretarial Bureau,Equit Bank,01/08/2012 00:00,Yes,Yes,,,Stationary,
+Dar es Salaam,Ilala,Buguruni,-6.83958,39.23915,Jesca Investment,Equit Bank,01/07/2013 00:00,Yes,Yes,,,Other,Cosmetics Shop
+Dar es Salaam,Ilala,Kivukoni,-6.81178,39.28518,Jet Airways,CRDB,18/01/2012 00:00,Yes,Yes,,,Other,Airway Transport
+Arusha,Arusha,Kimandolu,-3.36769,36.72926,Jimei Motto,Equit Bank,26/01/2013 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Ilala,Kivukoni,-6.81971,39.28744,Jj Restaurant,Exim Bank,20/01/2012 00:00,Yes,Yes,,,Restaurant,
+Dar es Salaam,Ilala,Ukonga,-6.88185,39.15769,Joas Moses,Equit Bank,04/02/2014 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Kariakoo,-6.82058,39.27673,John Luvanda,CRDB,15/10/2013 00:00,,,,,Wholesale,
+Mbeya,Kyela,Ikolo,-9.57516,33.77317,Josephat Mwanjisi,CRDB,26/02/2008 00:00,Yes,Yes,,,Duka,
+Tanga,Muheza,Masuguru,-5.17381,38.78813,Juma Said Sengendo,CRDB,23/09/2013 00:00,,,,,Electronic Shop,
+Dar es Salaam,Ilala,Tabata,-6.84393,39.21258,Kalungi Rugaimukamu,DCB  Commercial Bank,01/11/2013 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Kariakoo,-6.82787,39.27527,Kamata Corner,CRDB,01/12/2012 00:00,Yes,Yes,,,Other,Workshop
+Ruvuma,Mbinga,Mbinga Urban,-10.94885,34.99756,Karama Investment,CRDB,09/12/2012 00:00,Yes,Yes,,,General Dealer,
+Iringa,Kilolo,Ilula,-7.79056,35.7006,Kasibala Investment,CRDB,08/11/2013 00:00,Yes,Yes,,,General Dealer,
+Tanga,Muheza,Majengo,-5.17534,38.79249,Kassim Mohamed Shekilango,CRDB,03/01/2014 00:00,,,,,Electronic Shop,
+Dar es Salaam,Temeke,Mbagala,-6.9212,39.27068,Katembas Shop,CRDB,10/08/2013 00:00,,,,,Duka,
+Dar es Salaam,Ilala,Kinyerezi,-6.84333,39.17156,Keria Shop,CRDB,02/11/2012 00:00,Yes,Yes,,,Electronic Shop,
+Mwanza,Nyamagana,Mkuyuni,-2.55942,32.91282,Key Cutting Shop,Equit Bank,10/12/2012 00:00,Yes,Yes,,,General Dealer,
+Arusha,Arusha,Kati,-3.37504,36.69889,Kibo Palace Hotel,CRDB,25/09/2013 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Temeke,Kigamboni,-6.82113,39.30625,Kigamboni Mini Supermarket,CRDB,01/01/2012 00:00,Yes,Yes,,,Grocery Store,
+Dar es Salaam,Temeke,Mjimwema,-6.83656,39.3504,Kijiji Beach Resort,Exim Bank,22/09/2010 00:00,Yes,,,,Restaurant,
+Kilimanjaro,Moshi Urban,Kilimanjaro,-3.34592,37.3404,Kili  Surveyors,CRDB,11/11/2012 00:00,,,,,Stationary,
+Mbeya,Mbeya Urban,Sisimba,-8.89578,33.44168,Kipunji Heritage Comapany Limited,CRDB,22/02/2013 00:00,Yes,Yes,,,General Dealer,
+Ruvuma,Songea Urban,Majengo,-10.67872,35.64525,Kisumapai Petrol Station,CRDB,24/02/2013 00:00,Yes,Yes,,,Other,Petrol Station
+Arusha,Arusha,Engutoto,-3.36433,36.71371,Kundaya Lodge,Exim Bank,24/09/2012 00:00,Yes,Yes,,,Restaurant,
+Mbeya,Kyela,Kyela Mjini,-9.60299,33.86929,Kyela Post Office,Tanzania Postal Bank,20/12/2012 00:00,Yes,Yes,,,Other,Post Office
+Mwanza,Ilemela,Kirumba,-2.50437,32.89976,La Kairo Hoel,CRDB,03/02/2012 00:00,Yes,Yes,,,Hotel,
+Shinyanga,Bukombe,Runzewe,-3.33904,31.52369,Lameck Cash Point,CRDB,04/11/2013 00:00,Yes,,,,Duka,
+Dar es Salaam,Ilala,Kivukoni,-6.81847,39.2894,Le Grande Cassino,CRDB,19/01/2012 00:00,Yes,Yes,,,Other,Casino
+Kilimanjaro,Moshi Urban,Mawenzi,-3.3553,37.33921,Leopard Hotel,CRDB,12/02/2009 00:00,Yes,Yes,,,Hotel,
+Arusha,Arumeru,Moshono,-3.37826,36.70452,Leopard Tours,CRDB,23/09/2012 00:00,Yes,Yes,,,Other,Travel Agency
+Rukwa,Sumbawanga Urban,Katandala,-7.95765,31.61544,Ligunga Executive Lodge,CRDB,14/05/2011 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Ilala,Tabata,-6.84265,39.18571,Lista,CRDB,05/08/2011 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Segerea,-6.84549,39.19506,Lite Trust Fund,Equit Bank,13/10/2013 00:00,,Yes,,,Stationary,
+Dar es Salaam,Ilala,Buguruni,-6.84245,39.23473,Lolietha Laurence,DCB  Commercial Bank,01/11/2013 00:00,Yes,Yes,,,Other,None
+Arusha,Arusha,Kati,-3.37604,36.70196,Lush Garden Hotel,CRDB,21/10/2012 00:00,Yes,Yes,,,Hotel,
+Mara,Tarime,Tarime,-1.50459,33.80632,Luswaga,CRDB,02/02/2013 00:00,,,,,Stationary,
+Dar es Salaam,Ilala,Kisutu,-6.81903,39.28661,Maiko Fashion,CRDB,01/01/2013 00:00,Yes,Yes,,,Other,Clothing Shop
+Dar es Salaam,Temeke,Chang'ombe,-6.84058,39.256,Maikos Fashions,CRDB,15/11/2013 00:00,Yes,Yes,,,Other,Clothing Shop
+Pwani,Kisarawe,Kisarawe,-6.9061,39.07313,Maisha Service Ltd,DCB  Commercial Bank,05/09/2013 00:00,,,,,Duka,
+Kilimanjaro,Moshi Rural,Marangu Magharibi,-3.28361,37.5235,Maleko Shop,CRDB,12/11/2008 00:00,,,,,Duka,
+Kilimanjaro,Moshi Rural,Mwika Kaskazini,-3.2811,37.57932,Mandela Shop,CRDB,16/11/2012 00:00,,,,,Duka,
+Mbeya,Mbeya Urban,Forest (Mbeya ward),-8.91896,33.44884,Manyanya Inn,CRDB,21/02/2013 00:00,Yes,Yes,,,Hotel,
+Manyara,Babati,Nkaiti,-3.70062,35.86326,Maramboi Tented Camp,Exim Bank,23/02/2014 00:00,Yes,Yes,,,Hotel,Lodge
+Dar es Salaam,Ilala,Ukonga,-6.88477,39.15026,Maria Medics,DCB  Commercial Bank,01/12/2013 00:00,Yes,Yes,,,Pharmacy,
+Dar es Salaam,Ilala,Kivukoni,-6.8152,39.28838,Mariedo Boutique Benjamini Mkapa Tower,CRDB,01/02/2012 00:00,Yes,Yes,,,Other,Salon
+Dar es Salaam,Ilala,Kivukoni,-6.81586,39.28753,Mariedo Men Wear,CRDB,10/01/2012 00:00,Yes,Yes,,,Other,Salon
+Zanzibar,Zanzibar,Fumba,-6.1607,39.19662,Market Lodge,Exim Bank,20/03/2013 00:00,Yes,Yes,,,Hotel,Lodge
+Dar es Salaam,Kinondoni,Bunju,-6.63341,39.1594,Maxicom,DCB  Commercial Bank,25/06/2012 00:00,Yes,Yes,,,Hotel,
+Kagera,Muleba,Muleba,-1.84279,31.65245,Mbekomize Ltd,CRDB,06/12/2014 00:00,Yes,,,,Duka,
+Dar es Salaam,Kinondoni,Ubungo,-6.79233,39.20917,Mbela  Shop,Equit Bank,08/11/2013 00:00,Yes,Yes,,,Duka,
+Mbeya,Mbeya Urban,Forest (Mbeya ward),-8.91112,33.45051,Mbeya High Gapco Petrol Station,CRDB,21/02/2013 00:00,Yes,Yes,,,Other,Petrol Station
+Mbeya,Mbeya Urban,Ruanda,-8.91219,33.47098,Mbeya Paradise Inn,CRDB,21/02/2013 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Kinondoni,Mikocheni,-6.73286,39.23771,Mediterraneo Hotel,FBME Bank,25/01/2002 00:00,,Yes,,,Hotel,
+Mbeya,Mbeya Urban,Iyunga,-8.92785,33.4161,Meenda Pharmacy,CRDB,22/02/2013 00:00,Yes,Yes,,,Pharmacy,
+Mwanza,Nyamagana,Nyamagana,-2.52491,32.90139,Midland Hotel,CRDB,13/01/2010 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Ilala,Pugu,-6.91966,39.12481,Min Shop Point,DCB  Commercial Bank,09/12/2012 00:00,Yes,Yes,,,Duka,
+Mara,Tarime,Tarime,-1.50685,33.79482,Mjura,CRDB,06/02/2013 00:00,,,,,Duka,
+Dar es Salaam,Kinondoni,Kawe,-6.77336,39.21959,Mliman City,CRDB,16/11/2013 00:00,Yes,,,,General Dealer,
+Dar es Salaam,Kinondoni,Sinza,-6.78593,39.22283,Moh Communication,Tanzania Postal Bank,05/04/2013 00:00,,Yes,,,Cafe,
+Arusha,Arumeru,Moshono,-3.38484,36.72373,Moshono Supermarket,CRDB,10/12/2013 00:00,,,,,Grocery Store,
+Arusha,Arusha,Sekei,-3.36432,36.70371,Mount Meru Hotel,Barclays Bank,24/11/2013 00:00,,,,,Hotel,
+Dar es Salaam,Ilala,Kivukoni,-6.82009,39.28539,Mozambique Airline,Barclays Bank,14/01/2013 00:00,Yes,Yes,,,Other,Airline Transport
+Shinyanga,Bukombe,Masumbwe,-3.64689,32.16497,M-Pesa,CRDB,27/11/2013 00:00,Yes,Yes,,,Duka,
+Kagera,Chato,Chatokati,-2.63822,31.76446,Mshikamano Saccos,CRDB,25/10/2013 00:00,Yes,,,,Duka,
+Kagera,Muleba,Nshamba,-1.79891,31.54708,Muleba Seceretary,CRDB,28/09/2013 00:00,Yes,,,,Stationary,
+Dar es Salaam,Kinondoni,Kawe,-6.76744,39.22553,Mwakatobe Pharmarcy,Tanzania Postal Bank,28/11/2011 00:00,Yes,Yes,,,Pharmacy,
+Rukwa,Sumbawanga Urban,Katandala,-7.96203,31.61339,Mwandele The Best,CRDB,27/09/2013 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Kivukoni,-6.81905,39.28681,Mwasu Fashion,Exim Bank,04/04/2012 00:00,,Yes,,,Other,Salon
+Mara,Musoma Urban,Mukendo,-1.49843,33.80901,My Dream Phone,CRDB,21/10/1980 00:00,Yes,,,,Electronic Shop,
+Mara,Musoma Urban,Mukendo,-1.4966,33.80836,Nadhifu Ebusambara,CRDB,26/10/2013 00:00,,,,,Cafe,
+Kilimanjaro,Moshi Urban,Mawenzi,-3.34949,37.34442,Nakumati,Barclays Bank,02/12/2011 00:00,Yes,Yes,,,Duka,
+Kilimanjaro,Moshi Urban,Mawenzi,-3.34915,37.34462,Nakumati,CRDB,02/01/2011 00:00,Yes,Yes,,,Duka,
+Arusha,Arusha,Kati,-3.37096,36.68575,Natron Palace,Exim Bank,01/11/2013 00:00,,,,,Hotel,
+Arusha,Arusha,Sekei,-3.36283,36.69563,Naura Spring,Barclays Bank,30/11/2013 00:00,,,,,Hotel,
+Arusha,Arusha,Sekei,-3.36099,36.68936,Naura Spring Hotel,CRDB,22/01/2013 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Kinondoni,Ubungo,-6.79252,39.20944,Ndalachako,Equit Bank,15/02/2013 00:00,,Yes,,,Duka,
+Arusha,Arusha,Kati,-3.37265,36.69431,New Arusha Hotel,CRDB,26/11/2013 00:00,Yes,Yes,,,Hotel,
+Arusha,Arusha,Sekei,-3.37181,36.69472,New Safari Hotel,CRDB,29/11/2012 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Temeke,Yombo Vituka,-6.87107,39.24144,Next Investment,DCB  Commercial Bank,16/11/2012 00:00,Yes,Yes,,,Stationary,
+Mwanza,Nyamagana,Nyamagana,-2.51842,32.90658,Nginila Shop,CRDB,26/01/2013 00:00,Yes,,,,Stationary,
+Kagera,Bukoba Urban,Hamgende,-1.32621,31.80508,Novati M Migira,CRDB,28/09/2013 00:00,Yes,,,,Duka,
+Dar es Salaam,Kinondoni,Ubungo,-6.79217,39.20904,Nufaika Min Supermarkert,Equit Bank,06/11/2013 00:00,Yes,Yes,,,Grocery Store,
+Iringa,Njombe,Wanging'ombe,-8.859,33.63691,Nuru Saccos,Tanzania Postal Bank,02/12/2013 00:00,,,,,Duka,
+Dar es Salaam,Temeke,Tandika,-6.86948,39.25877,Nyandekwa Property Solution,Tanzania Postal Bank,30/11/2012 00:00,Yes,Yes,,,Electronic Shop,
+Dar es Salaam,Ilala,Kivukoni,-6.81674,39.291,Oryx Energies,CRDB,04/02/2012 00:00,Yes,Yes,,,Other,Petrol Station
+Dar es Salaam,Ilala,Ukonga,-6.9068,39.14472,Oryx Gas,DCB  Commercial Bank,03/12/2013 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Ilala,Kisutu,-6.81525,39.2869,Palace Mobile Centre,CRDB,16/08/2013 00:00,,,,,Other,Cellphone and accessories
+Dar es Salaam,Ilala,Kitunda,-6.90463,39.18307,Perpertua Yohana,DCB  Commercial Bank,27/02/2013 00:00,Yes,Yes,,,General Dealer,
+Tanga,Lushoto,Soni,-4.84667,38.3672,Peter Raphael Shebila,CRDB,11/09/2013 00:00,Yes,,,,Electronic Shop,
+Tanga,Lushoto,Soni,-4.84704,38.36681,Peter Shebila,CRDB,02/11/2013 00:00,,,,,Electronic Shop,
+Shinyanga,Bukombe,Ushirombo,-3.46769,31.89701,Phone Shop,CRDB,05/09/2013 00:00,Yes,Yes,,,Other,Cellphone and accessories
+Dar es Salaam,Kinondoni,Ubungo,-6.79239,39.20881,Podi Shop,Equit Bank,07/09/2012 00:00,Yes,Yes,,,Duka,
+Shinyanga,Meatu,Mwanhuze,-3.52369,34.307,Post Office,CRDB,18/07/2013 00:00,Yes,Yes,,,Other,Post Office
+Tanga,Muheza,Majengo,-5.17653,38.79336,Post Office Muheza,CRDB,03/04/2013 00:00,Yes,Yes,,,Other,Post Office
+Dar es Salaam,Kinondoni,Kinondoni,-6.78715,39.24893,Posta Bank,Tanzania Postal Bank,22/09/1998 00:00,,Yes,,,Duka,
+Arusha,Arusha,Kati,-3.37306,36.6838,Postal,Tanzania Postal Bank,20/01/2014 00:00,,,,,Duka,
+Arusha,Monduli,Engaruka,-3.2995,36.44514,Postal Office,CRDB,25/01/2008 00:00,Yes,Yes,,,Other,Post Office
+Dar es Salaam,Kinondoni,Mikocheni,-6.76173,39.25165,Pregnancy,CRDB,31/01/2014 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Kinondoni,Msasani,-6.77269,39.2705,Primier Money,Tanzania Postal Bank,03/11/2013 00:00,Yes,,,,Duka,
+Dar es Salaam,Kinondoni,Ubungo,-6.79221,39.20948,Pwagu Shop,Equit Bank,22/09/2013 00:00,,Yes,,,Stationary,
+Kilimanjaro,Moshi Urban,Mawenzi,-3.35513,37.33916,Rafiki Supermarket,NBC,11/04/2010 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Segerea,-6.84454,39.198,Raka Enterprises,DCB  Commercial Bank,28/11/2013 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Temeke,Mjimwema,-6.84286,39.35167,Rehema Hassan Twaha,CRDB,18/01/2013 00:00,Yes,Yes,,,Stationary,
+Shinyanga,Bukombe,Runzewe,-3.3392,31.5239,Retail Shop,CRDB,12/09/2013 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Ilala,Buguruni,-6.83881,39.23955,Revocatus   Levis,Equit Bank,01/11/2013 00:00,Yes,Yes,,,Duka,
+Arusha,Arusha,Kaloleni,-3.36088,36.68918,Rombo Delux,CRDB,22/11/2013 00:00,Yes,Yes,,,Restaurant,
+Dar es Salaam,Ilala,Kivukoni,-6.81896,39.28915,Royal Express,CRDB,01/01/2014 00:00,Yes,Yes,,,Other,Marine Transportation
+Shinyanga,Kahama,Kahama Mjini,-3.82749,32.59836,Royal Supermarket,CRDB,12/05/2012 00:00,Yes,Yes,,,Grocery Store,
+Dar es Salaam,Ilala,Ukonga,-6.87479,39.17788,Said,DCB  Commercial Bank,08/10/2013 00:00,Yes,Yes,,,Duka,
+Tanga,Korogwe,Mnyuzi,-5.29548,38.60597,Salehe Abdalah,CRDB,19/11/2013 00:00,,,,,Duka,
+Ruvuma,Songea Urban,Mfaranyaki,-10.67826,35.64762,Samson Swed,CRDB,27/02/2013 00:00,Yes,Yes,,,Duka,
+Mwanza,Misungwi,Idetemya,-2.60273,32.93256,Serikali,CRDB,22/11/2013 00:00,Yes,,,,Duka,
+Tanga,Tanga,Central,-5.07165,39.10178,Shakir H. Taibali,CRDB,07/05/2012 00:00,,,,,Duka,
+Dar es Salaam,Kinondoni,Kawe,-6.77271,39.22045,Shopping Center,CRDB,28/08/2006 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Ilala,Kivukoni,-6.8167,39.29401,Skylink Avis Rentcar,Barclays Bank,01/01/2012 00:00,Yes,Yes,,,Other,Car Rental
+Arusha,Arusha,Kati,-3.36785,36.73083,Snow Crest Hotel,Exim Bank,09/12/2012 00:00,Yes,,,,Hotel,
+Dar es Salaam,Ilala,Kivukoni,-6.81434,39.2869,Sonil Shop,CRDB,18/02/2010 00:00,Yes,Yes,,,Electronic Shop,
+Mwanza,Nyamagana,Nyamagana,-2.51922,32.89979,Stationary,CRDB,28/04/2013 00:00,Yes,Yes,,,Stationary,
+Dar es Salaam,Temeke,Chang'ombe,-6.84063,39.25593,Street Saul,CRDB,29/05/2012 00:00,Yes,Yes,,,Other,Clothing Shop
+Dar es Salaam,Ilala,Buguruni,-6.83826,39.24352,Suzzy Patric,CRDB,01/09/2013 00:00,Yes,Yes,,,Other,None
+Arusha,Arusha,Kaloleni,-3.37214,36.69461,Swai Stationery,Tanzania Postal Bank,26/10/2013 00:00,,,,,Stationary,
+Iringa,Njombe,Njombe Mjini,-9.33813,34.76911,Swatch Electronics,CRDB,25/01/2014 00:00,Yes,Yes,,,Other,Cellphone and accessories
+Dar es Salaam,Ilala,Ukonga,-6.90669,39.14483,Sweetbert Luta,DCB  Commercial Bank,01/10/2013 00:00,Yes,Yes,,,General Dealer,
+Dar es Salaam,Ilala,Kisutu,-6.8193,39.28676,Swiss Watch Store,Exim Bank,04/02/2013 00:00,Yes,Yes,,,Other,Watch Shop
+Arusha,Arusha,Levolosi,-3.36574,36.70267,Tai Chii,CRDB,26/09/2013 00:00,Yes,Yes,,,Cafe,
+Kagera,Bukoba Urban,Birere,-1.33006,31.81162,Takibiri Investiment Ltd,CRDB,20/09/2013 00:00,Yes,Yes,,,Duka,
+Rukwa,Sumbawanga Urban,Izia,-7.95644,31.60719,Tawaqal Super  Market,CRDB,21/02/2014 00:00,Yes,Yes,,,Grocery Store,
+Mbeya,Mbozi,Tunduma,-9.31238,32.7639,Tbc Tunduma Branch,Tanzania Postal Bank,24/12/2013 00:00,,Yes,,,Other,Post Office
+Dar es Salaam,Kinondoni,Ubungo,-6.79232,39.20929,Teete,Equit Bank,12/07/2013 00:00,Yes,,,,Electronic Shop,
+Mbeya,Rungwe,Bulyaga,-9.25746,33.64532,Tpb Popote,Tanzania Postal Bank,30/01/2014 00:00,Yes,Yes,,,General Dealer,
+Ruvuma,Mbinga,Mbinga Urban,-10.95043,34.99734,Tpb Popote,Tanzania Postal Bank,26/02/2013 00:00,Yes,Yes,,,Other,Post Office
+Mara,Bunda,Bunda,-2.02029,33.87083,Tpc Bunda,CRDB,22/05/2012 00:00,Yes,Yes,,,Other,Clothing Shop
+Tanga,Muheza,Majengo,-5.17648,38.7933,Tpc Muheza,CRDB,02/04/2013 00:00,Yes,Yes,,,Other,Bank
+Mbeya,Kyela,Ikolo,-9.58644,33.77647,Tra - Boda Kasumulu,CRDB,25/02/1998 00:00,Yes,Yes,,,Bureau de Exchange,
+Arusha,Arusha,Kimandolu,-3.38363,36.71156,Trust Trader,CRDB,01/11/2000 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Kinondoni,Mikocheni,-6.75649,39.24845,Tsn Supermarket,CRDB,31/01/2014 00:00,Yes,Yes,,,Grocery Store,
+Dar es Salaam,Ilala,Kisutu,-6.81655,39.28029,Ttt Worldwide Ltd,Exim Bank,08/02/2013 00:00,Yes,Yes,,,Other,Travel Agency
+Dar es Salaam,Temeke,Chang'ombe,-6.83964,39.2557,Uchumi Supermarket,CRDB,18/06/2012 00:00,Yes,Yes,,,Grocery Store,
+Dar es Salaam,Temeke,Chang'ombe,-6.83948,39.25601,Uchumi Supermarket,Exim Bank,13/01/2013 00:00,Yes,Yes,,,Grocery Store,
+Dar es Salaam,Temeke,Chang'ombe,-6.8397,39.25574,Uchumi Supermarket,Exim Bank,06/01/2013 00:00,Yes,Yes,,,Grocery Store,
+Mbeya,Mbeya Rural,Utengule Usongwe,-8.88484,33.32037,Utengule Hotel,CRDB,28/12/2007 00:00,Yes,,,,Hotel,
+Dar es Salaam,Kinondoni,Sinza,-6.77174,39.2216,Vidarose Dennis,Equit Bank,16/01/2014 00:00,,,,,Duka,
+Dar es Salaam,Ilala,Ukonga,-6.87696,39.17053,Wakala M Pesa,DCB  Commercial Bank,03/11/2013 00:00,Yes,Yes,,,Duka,
+Arusha,Arumeru,Usa River,-3.32561,36.8772,Wakwetu General Supply,CRDB,13/11/2013 00:00,Yes,Yes,,,General Dealer,
+Mbeya,Mbeya Rural,Utengule Usongwe,-8.93846,33.35798,Wasamba Saccos,Tanzania Postal Bank,12/12/2013 00:00,,,,,Other,SACCO
+Dar es Salaam,Ilala,Kivukoni,-6.81487,39.28935,Woolworth,CRDB,06/08/2012 00:00,Yes,Yes,,,Other,Clothing Shop
+Dar es Salaam,Ilala,Kivukoni,-6.81504,39.28891,Woolworths,CRDB,08/06/2012 00:00,Yes,Yes,,,Other,Salon
+Dar es Salaam,Ilala,Kivukoni,-6.81429,39.28696,World Jet Travel And Tours Ltd,Exim Bank,11/02/2013 00:00,Yes,Yes,,,Other,Airline Transport
+Dar es Salaam,Ilala,Kivukoni,-6.81907,39.28668,World Of Shoes,CRDB,09/05/2010 00:00,Yes,Yes,,,Other,Clothing Shop
+Dar es Salaam,Ilala,Kivukoni,-6.82012,39.2852,Yakubu Jewellers,Exim Bank,10/02/2012 00:00,Yes,Yes,,,Other,Jewelery Shop
+Dar es Salaam,Ilala,Buguruni,-6.84125,39.24459,Yj General Traders2,Equit Bank,20/01/2014 00:00,Yes,Yes,,,Stationary,
+Dar es Salaam,Kinondoni,Kawe,-6.76666,39.22864,Zacharia Shop,CRDB,10/08/2013 00:00,Yes,Yes,,,Duka,
+Kilimanjaro,Moshi Urban,Pasua,-3.37807,37.34336,Zara Tours,CRDB,02/05/2006 00:00,Yes,Yes,,,Hotel,
+Arusha,Arusha,Kimandolu,-3.36429,36.71358,Zawadi House Lodge,Exim Bank,02/01/2014 00:00,,,,,Hotel,
+Dar es Salaam,Ilala,Kisutu,-6.81862,39.28418,Ze Phoner,Tanzania Postal Bank,15/05/2010 00:00,Yes,,,,Other,Cellphone and accessories
+Arusha,Arusha,Kimandolu,-3.36743,36.72923,Zmeru View Hotel,Barclays Bank,25/11/2013 00:00,,,,,Hotel,
+Dar es Salaam,Kinondoni,Msasani,-6.77892,39.27124,Dina Flower Company,Equit Bank,14/08/2013 00:00,Yes,Yes,Yes,Automatic Equity,Duka,
+Dar es Salaam,Kinondoni,Mikocheni,-6.7564,39.24828,Tsn Supermarket,B-Pesa,31/01/2012 00:00,,,Yes,B-Pesa,Grocery Store,
+Dar es Salaam,Kinondoni,Goba,-6.65968,39.18149,Therry Investiment,CRDB,30/04/2011 00:00,Yes,Yes,Yes,Cirrus,General Dealer,
+Iringa,Iringa Urban,Mkwawa,-7.76302,35.68665,Chap Chap Account,NMB,10/04/2010 00:00,,,Yes,NMB Card,Other,Gazebo
+Iringa,Iringa Urban,Mkwawa,-7.76283,35.68675,Chap Chap Account,NMB,09/04/2010 00:00,,,Yes,NMB Card,Other,Gazebo
+Dar es Salaam,Ilala,Kivukoni,-6.81636,39.28977,Chap Chap Account,NMB,23/01/2014 00:00,,,Yes,NMB Card,Other,Bank
+Lindi,Lindi Urban,Makonde,-9.99791,39.71537,Nmb Pos,NMB,01/02/2013 00:00,,,Yes,NMB Card,Other,Bank
+Iringa,Iringa Urban,Kitanzini,-7.78267,35.69703,Mgs Min Market,Tanzania Postal Bank,01/10/2013 00:00,,,Yes,Postal Bank Card,Duka,
+Dar es Salaam,Kinondoni,Msasani,-6.77267,39.27055,Tpb Popote,Tanzania Postal Bank,02/08/2013 00:00,,,Yes,Postal Bank Card,General Dealer,
+Lindi,Lindi Urban,Makonde,-9.99749,39.71725,Tpb Popote,Tanzania Postal Bank,15/02/2013 00:00,,,Yes,Postal Bank Card,Other,Bank
+Arusha,Arumeru,Usa River,-3.32569,36.87727,Crdb Agent,CRDB,06/12/2013 00:00,,,Yes,Sim Banking,Electronic Shop,
+Arusha,Arumeru,Moshono,-3.38495,36.72369,Crdb Agent,CRDB,01/02/2014 00:00,,,Yes,Sim Banking,Grocery Store,
+Arusha,Arumeru,Usa River,-3.37161,36.85839,Crdb Agent,CRDB,03/01/2014 00:00,,,Yes,Sim Banking,Stationary,
+Arusha,Arumeru,Usa River,-3.32615,36.87733,Crdb Agent,CRDB,02/11/2013 00:00,,,Yes,Sim Banking,Stationary,
+Tanga,Korogwe,Korogwe,-5.15657,38.44877,Elff Traders,CRDB,04/11/2013 00:00,,,Yes,Sim Banking,General Dealer,
+Tanga,Korogwe,Mnyuzi,-5.29564,38.60619,Salehe Shabani,CRDB,03/11/2013 00:00,,,Yes,Sim Banking,Duka,
+Arusha,Arumeru,Usa River,-3.37101,36.85817,Stationery,CRDB,02/12/2013 00:00,,,Yes,Sim Banking,Stationary,
+Kilimanjaro,Moshi Rural,Marangu Mashariki,-3.24261,37.51821,Tanzania National Park,CRDB,01/10/2007 00:00,Yes,Yes,Yes,Tembo Card,Other,Travel Agency
+Dar es Salaam,Kinondoni,Kunduchi,-6.66717,39.21901,Tanpay,FNB Bank,28/02/2011 00:00,Yes,Yes,Yes,TanPay Card,Hotel,
+Dar es Salaam,Kinondoni,Goba,-6.66458,39.18806,Fahari Huduma,CRDB,17/09/2013 00:00,Yes,Yes,Yes,Tembo Card,General Dealer,
+Dar es Salaam,Ilala,Kariakoo,-6.81643,39.2897,Happy Mvungi Trading Company,CRDB,20/07/2013 00:00,Yes,Yes,Yes,Tembo Card,Other,Cellphone and accessories
+Tanga,Korogwe,Korogwe,-5.15339,38.44246,Kb Petro Station,CRDB,17/02/2008 00:00,Yes,Yes,Yes,Tembo Card,Other,Petrol Station
+Dar es Salaam,Kinondoni,Kinondoni,-6.78479,39.26329,4H Buy &Sell In Tanzania,Tanzania Postal Bank,26/08/2013 00:00,,,Yes,UMJOA Card,Other,Post Office
+Dar es Salaam,Temeke,Mtoni,-6.86692,39.27535,Daniel Lymo,Tanzania Postal Bank,15/11/2012 00:00,,,Yes,UMJOA Card,Duka,
+Dar es Salaam,Kinondoni,Ubungo,-6.78857,39.20738,Eden Shop,Tanzania Postal Bank,13/10/2013 00:00,Yes,,Yes,UMJOA Card,Duka,
+Dar es Salaam,Kinondoni,Kawe,-6.76682,39.22868,Elisha Shop,Tanzania Postal Bank,12/04/2012 00:00,,,Yes,UMJOA Card,Duka,
+Mwanza,Nyamagana,Nyamagana,-2.44463,32.92267,Farend Agents And Bureau,CRDB,20/08/2012 00:00,Yes,Yes,Yes,UMJOA Card,Bureau de Exchange,
+Mwanza,Nyamagana,Nyamagana,-2.5177,32.90513,"Farend Smarts Bureau,Travel And Tours.",CRDB,06/06/2011 00:00,Yes,Yes,Yes,UMJOA Card,Bureau de Exchange,
+Dar es Salaam,Temeke,Mjimwema,-6.84295,39.35259,Idalhad Trade Centre,Tanzania Postal Bank,18/02/2014 00:00,,,Yes,UMJOA Card,Duka,
+Dar es Salaam,Kinondoni,Kawe,-6.76768,39.22497,Jambele Shop,Tanzania Postal Bank,12/07/2013 00:00,,,Yes,UMJOA Card,Electronic Shop,
+Dar es Salaam,Temeke,Mbagala,-6.90465,39.26964,Jk Shope,Tanzania Postal Bank,01/12/2012 00:00,,,Yes,UMJOA Card,General Dealer,
+Pwani,Mkuranga,Vikindu,-7.00604,39.30862,Kaka Shop,Tanzania Postal Bank,26/11/2013 00:00,,,Yes,UMJOA Card,General Dealer,
+Dar es Salaam,Kinondoni,Ubungo,-6.79186,39.20886,Luhanjo Shop,Tanzania Postal Bank,08/12/2013 00:00,Yes,,Yes,UMJOA Card,Duka,
+Shinyanga,Kishapu,Songwa,-3.55036,33.55862,Maganzo Petrol Station,Tanzania Postal Bank,09/09/2013 00:00,Yes,,Yes,UMJOA Card,Restaurant,
+Dar es Salaam,Ilala,Kisutu,-6.81792,39.28154,Matlida Shop,DCB  Commercial Bank,01/01/2014 00:00,,,Yes,UMJOA Card,Duka,
+Dar es Salaam,Kinondoni,Sinza,-6.77854,39.22705,Mrcons Shop,Barclays Bank,19/06/2013 00:00,,,Yes,UMJOA Card,Duka,
+Dar es Salaam,Kinondoni,Ubungo,-6.7926,39.20983,Mwigulu Shop,Tanzania Postal Bank,11/11/2013 00:00,Yes,,Yes,UMJOA Card,Duka,
+Dar es Salaam,Kinondoni,Kawe,-6.78539,39.20612,Ndudu Shop,Tanzania Postal Bank,05/12/2013 00:00,,,Yes,UMJOA Card,Electronic Shop,
+Dar es Salaam,Ilala,Segerea,-6.82587,39.19104,Nico Money Transfer,DCB  Commercial Bank,27/11/2013 00:00,,,Yes,UMJOA Card,Duka,
+Dar es Salaam,Kinondoni,Kawe,-6.77156,39.22133,Pendaely Shop,Equit Bank,12/09/2013 00:00,,,Yes,UMJOA Card,Duka,
+Dar es Salaam,Temeke,Mbagala,-6.90264,39.26912,Roal Marka,Tanzania Postal Bank,01/10/2012 00:00,,,Yes,UMJOA Card,General Dealer,
+Dar es Salaam,Kinondoni,Sinza,-6.79406,39.21936,Rombo Pharmacy,Tanzania Postal Bank,07/11/2013 00:00,Yes,,Yes,UMJOA Card,Pharmacy,
+Dar es Salaam,Temeke,Kibada,-6.89044,39.33926,Salumu Abdullah,Tanzania Postal Bank,05/02/2014 00:00,,,Yes,UMJOA Card,Duka,
+Dar es Salaam,Kinondoni,Kawe,-6.76734,39.22509,Shimi Shop,Tanzania Postal Bank,03/04/2013 00:00,,Yes,Yes,UMJOA Card,Stationary,
+Dar es Salaam,Temeke,Yombo Vituka,-6.89193,39.2344,Slemu Nassoro,DCB  Commercial Bank,28/11/2012 00:00,,,Yes,UMJOA Card,Duka,
+Iringa,Njombe,Makambako,-8.84391,34.82396,Tanzania Post Bank,Tanzania Postal Bank,25/09/2013 00:00,,,Yes,UMJOA Card,Electronic Shop,
+Lindi,Nachingwea,Nambambo,-10.362,38.7615,Tpb Popote,Tanzania Postal Bank,21/09/2013 00:00,Yes,Yes,Yes,UMJOA Card,Duka,
+Lindi,Lindi Urban,Makonde,-9.99808,39.71511,Tpb Popote,Tanzania Postal Bank,10/07/2013 00:00,Yes,Yes,Yes,UMJOA Card,Duka,
+Lindi,Ruangwa,Ruangwa,-10.06288,38.92934,Tpb Popote,Tanzania Postal Bank,01/07/2013 00:00,,,Yes,UMJOA Card,Duka,
+Lindi,Kilwa,Masoko,-8.92592,39.51195,Tpb Popote,Tanzania Postal Bank,15/10/2013 00:00,Yes,Yes,Yes,UMJOA Card,General Dealer,
+Lindi,Kilwa,Kivinje Singino,-8.74868,39.41454,Tpb Popote,Tanzania Postal Bank,25/09/2013 00:00,,,Yes,UMJOA Card,General Dealer,
+Lindi,Nachingwea,Nambambo,-10.36057,38.76136,Tpb Popote,Tanzania Postal Bank,01/08/2012 00:00,,,Yes,UMJOA Card,Other,Bank
+Tanga,Tanga,Central,-5.07011,39.10392,Dar Worth,CRDB,05/06/2012 00:00,Yes,Yes,Yes,Union Pay Card,Stationary,
+Dar es Salaam,Kinondoni,Mikocheni,-6.7619,39.25163,Essy Body Fix And Fashion,CRDB,31/01/2013 00:00,Yes,Yes,Yes,Union Pay Card,Duka,
+Mwanza,Nyamagana,Nyamagana,-2.52292,32.90484,G&G Hotel,CRDB,01/01/2010 00:00,,Yes,Yes,Union Pay Card,Hotel,
+Tanga,Tanga,Central,-5.07014,39.10394,Gate Way To Zanzibar,CRDB,07/03/2013 00:00,Yes,Yes,Yes,Union Pay Card,Hotel,
+Dar es Salaam,Kinondoni,Mikocheni,-6.75628,39.24726,Giant Super Market,CRDB,31/01/2013 00:00,Yes,Yes,Yes,Union Pay Card,Grocery Store,
+Mwanza,Nyamagana,Nyamagana,-2.51938,32.89807,Gold Crest Hotel,CRDB,01/01/2010 00:00,Yes,Yes,Yes,Union Pay Card,Hotel,
+Mwanza,Nyamagana,Nyamagana,-2.52016,32.90745,Hotel Kembice,CRDB,01/01/2010 00:00,Yes,Yes,Yes,Union Pay Card,Hotel,
+Mwanza,Nyamagana,Nyamagana,-2.52408,32.89665,Victoria Palace Hotel,CRDB,01/01/2010 00:00,Yes,Yes,Yes,Union Pay Card,Hotel,
+Dar es Salaam,Kinondoni,Msasani,-6.74239,39.27704,Ami Hospital,Exim Bank,15/12/2012 00:00,Yes,Yes,Yes,,Hospital,
+Dar es Salaam,Kinondoni,Msasani,-6.7723,39.27046,Celebrity Style,CRDB,03/12/2013 00:00,Yes,Yes,,,Wholesale,
+Dar es Salaam,Ilala,Kivukoni,-6.81551,39.2883,Chap Chap Account,NMB,04/06/2012 00:00,,,,,Other,Bank
+Dar es Salaam,Kinondoni,Mikocheni,-6.76271,39.23222,Dcb Jirani,DCB  Commercial Bank,06/12/2013 00:00,Yes,Yes,,,Stationary,
+Mwanza,Nyamagana,Nyamagana,-2.60777,32.90391,Deogratias Shop,CRDB,30/10/1993 00:00,,,,,Wholesale,
+Mara,Musoma Urban,Mukendo,-1.49836,33.8091,Dickson Modest,CRDB,03/01/2013 00:00,,,,,Duka,
+Mwanza,Ilemela,Nyakato,-2.5355,32.93941,Duka,Equit Bank,31/03/2013 00:00,Yes,,,,Duka,
+Mwanza,Ilemela,Pasiansi,-2.48112,32.9093,Electronic Shop,CRDB,01/02/2013 00:00,Yes,Yes,,,Electronic Shop,
+Arusha,Arusha,Engutoto,-3.42403,36.70584,Exim Pos,Exim Bank,10/01/2013 00:00,,,,,Stationary,
+Dodoma,Mpwapwa,Mpwapwa Mjini,-6.34819,36.48923,Fahari Huduma,CRDB,26/01/2014 00:00,Yes,Yes,,,Duka,
+Dodoma,Mpwapwa,Mpwapwa Mjini,-6.34672,36.48627,Fahari Huduma,CRDB,21/11/2013 00:00,Yes,Yes,,,Other,Bank
+Dar es Salaam,Temeke,Yombo Vituka,-6.89232,39.2258,Frank Mgumba,CRDB,14/12/2014 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Temeke,Yombo Vituka,-6.89227,39.22576,Frank Mgumba,DCB  Commercial Bank,29/12/2013 00:00,Yes,Yes,,,Duka,
+Singida,Singida Urban,Ipembe,-4.81721,34.7522,Gapco Fuel Station,CRDB,20/03/2010 00:00,Yes,Yes,,,Other,Petrol Station
+Singida,Singida Urban,Ipembe,-4.81717,34.75215,Gapco Fuel Station,CRDB,20/05/2011 00:00,Yes,Yes,,,Other,Petrol Station
+Tanga,Lushoto,Mlalo,-4.58427,38.34951,Gilla Computer Centre,CRDB,04/12/2013 00:00,,,,,Stationary,
+Dar es Salaam,Kinondoni,Kimara,-6.78747,39.16647,Green Technical Suppot,Equit Bank,07/01/2014 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Kinondoni,Bunju,-6.6166,39.09726,John Nkini,CRDB,08/09/2013 00:00,,,,,General Dealer,
+Singida,Singida Urban,Mandewa,-4.7989,34.7415,Kbh Hotel,CRDB,10/05/2012 00:00,Yes,Yes,,,Hotel,
+Dar es Salaam,Kinondoni,Mikocheni,-6.76305,39.24966,Mageru Communication,CRDB,31/01/2012 00:00,,,,,Duka,
+Mara,Musoma Urban,Mukendo,-1.49511,33.80777,Mnaka,CRDB,12/08/2013 00:00,,Yes,,,General Dealer,
+Dar es Salaam,Kinondoni,Mbezi,-6.69973,39.20713,Mwachangala Investiment,Equit Bank,24/06/2012 00:00,Yes,Yes,Yes,,General Dealer,
+Kilimanjaro,Mwanga,Mwanga,-3.6564,37.58807,Mwanga Post Office,CRDB,03/04/2012 00:00,Yes,Yes,,,Other,Post Office
+Mara,Musoma Urban,Mukendo,-1.4952,33.80778,Nadhifu,CRDB,11/10/2013 00:00,,,,,General Dealer,
+Dar es Salaam,Kinondoni,Mbezi,-6.71345,39.21047,Nguruko Bar,CRDB,05/05/2013 00:00,Yes,Yes,Yes,,Bar,
+Singida,Singida Urban,Majengo,-4.81937,34.75145,Oryx Fuel Station,CRDB,25/03/2010 00:00,Yes,Yes,,,Other,Petrol Station
+Mwanza,Nyamagana,Nyamagana,-2.51934,32.89833,Petrol Station,CRDB,01/01/2010 00:00,Yes,Yes,,,Other,Petrol Station
+Arusha,Arusha,Ngarenaro,-3.37195,36.67914,Posta Pos,Tanzania Postal Bank,10/05/2013 00:00,,,,,Stationary,
+Mwanza,Nyamagana,Nyamagana,-2.52045,32.9044,Puma Petrol Station,CRDB,10/01/2010 00:00,Yes,Yes,,,Other,Petrol Station
+Dar es Salaam,Kinondoni,Msasani,-6.77336,39.27032,Quick Mtsm Supermarket,Equit Bank,05/11/2013 00:00,Yes,Yes,Yes,,Grocery Store,
+Singida,Singida Urban,Utemini,-4.80923,34.73713,Rafiki Resort,CRDB,25/04/2012 00:00,Yes,Yes,,,Hotel,
+Mara,Musoma Urban,Mukendo,-1.49573,33.80754,Rest Africa Investment,CRDB,12/07/2013 00:00,Yes,Yes,,,Stationary,
+Dar es Salaam,Temeke,Chang'ombe,-6.84036,39.25597,Samsung,Barclays Bank,01/05/2013 00:00,Yes,Yes,Yes,,Electronic Shop,
+Mwanza,Nyamagana,Nyamagana,-2.51827,32.90063,Serengeti Expeditions,CRDB,01/01/2010 00:00,Yes,Yes,,,Duka,
+Dar es Salaam,Temeke,Yombo Vituka,-6.89414,39.23505,Silim Gumba,DCB  Commercial Bank,14/12/2013 00:00,Yes,Yes,,,Duka,
+Mwanza,Nyamagana,Nyamagana,-2.52019,32.90266,Super Market,CRDB,01/01/2010 00:00,Yes,Yes,,,Duka,
+Arusha,Monduli,Engaruka,-3.38341,36.71125,Trast Trader,CRDB,11/12/2012 00:00,Yes,Yes,,,General Dealer,
